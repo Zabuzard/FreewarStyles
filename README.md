@@ -5,6 +5,9 @@ Offers multiple CSS stylesheet modules for use in the MMORPG
 
 Hosted and available through Github Pages at
 [zabuzard.github.io/FreewarStyles](https://zabuzard.github.io/FreewarStyles/).
+Visit
+[GitHub: Zabuzard/FreewarStyles](https://github.com/Zabuzard/FreewarStyles) for
+the source code.
 
 To use a module, put an `import` line in your custom style, for example:
 
@@ -19,9 +22,11 @@ To use a module, put an `import` line in your custom style, for example:
 
 ## Modules
 
-Available modules can be found in the directory `modules` and are usually
-compatible with Light and Dark mode styles. For the ones that are specific to a
-mode, see the subfolder `modules/light` and `modules/dark` respectively.
+Available modules can be found in the directory
+[modules](https://github.com/Zabuzard/FreewarStyles/tree/main/modules) and are
+usually compatible with Light and Dark mode styles. For the ones that are
+specific to a mode, see the subfolder `modules/light` and `modules/dark`
+respectively.
 
 ### `dark/chat_colors.css`
 
@@ -139,8 +144,8 @@ Highlights when the signet ring can be activated.
 
 ## User specific styles
 
-The subfolder `user` contains styles and modules for tailored towards specific
-users needs.
+The subfolder [user](https://github.com/Zabuzard/FreewarStyles/tree/main/user)
+contains styles and modules for tailored towards specific users needs.
 
 They can also be used by other users, but bear in mind that they might not be
 tuned for your particular use cases.
