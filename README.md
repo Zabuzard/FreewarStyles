@@ -75,6 +75,13 @@ similar.
 
 > 🚧 Work in Progress, details added later
 
+### `map_secure_locations.css`
+
+Highlights each location on the map that is a secure location where players
+cannot attack other players.
+
+![Secure Locations Map]()
+
 ### `map_aggressive_npcs.css`
 
 Highlights locations on the map that can spawn aggressive NPCs. The map tiles
