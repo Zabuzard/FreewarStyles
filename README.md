@@ -183,6 +183,13 @@ Highlights when the signet ring can be activated.
 
 ![Signet Ring Highlight](https://i.vgy.me/jR9WYr.jpg)
 
+### `settings_help.css`
+
+Shows checkmark and cross symbols in the settings menu so it becomes easier to
+understand if a setting is currently enabled or disabled.
+
+![Settings Menu](https://i.vgy.me/GiTVOR.jpg)
+
 ## User specific styles
 
 The subfolder [user](https://github.com/Zabuzard/FreewarStyles/tree/main/user)
