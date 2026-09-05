@@ -1,0 +1,66 @@
+/* Shows a house icon on map tiles with a shop for selling items.
+ - blue color for the blue fraction shop
+ - red color for the red fraction shop
+ - orange color for a neutral shop
+ - purple color for a Natla shop
+ */
+
+#mapx90x100 a:before,
+#mapx102x103 a:before {
+  content: url(https://zabuzard.github.io/FreewarStyles/img/map_shop_blue.svg);
+  z-index: 1;
+  width: 50px;
+  position: absolute;
+  margin-left: -0px;
+  background: 0;
+}
+
+#mapx94y109 a:before,
+#mapx83y94 a:before,
+#mapx101y118 a:before {
+  content: url(https://zabuzard.github.io/FreewarStyles/img/map_shop_red.svg);
+  z-index: 1;
+  width: 50px;
+  position: absolute;
+  margin-left: -0px;
+  background: 0;
+}
+
+#mapx65y112 a:before,
+#mapx77y101 a:before,
+#mapx74y107 a:before,
+#mapx79y110 a:before,
+#mapx75y86 a:before,
+#mapx90y115 a:before,
+#mapx101y116 a:before,
+#mapx114y114 a:before,
+#mapx86y85 a:before,
+#mapx120y115 a:before,
+#mapx87y97 a:before,
+#mapx112y91 a:before,
+#mapx71y90 a:before,
+#mapx106y95 a:before,
+#mapx122y91 a:before,
+#mapx501y54 a:before,
+#mapx86y107 a:before,
+#mapx186y136 a:before,
+#mapx71y101 a:before,
+#mapx84y112 a:before,
+#mapx105y134 a:before,
+#mapx82y127 a:before {
+  content: url(https://zabuzard.github.io/FreewarStyles/img/map_shop_neutral.svg);
+  z-index: 1;
+  width: 50px;
+  position: absolute;
+  margin-left: -0px;
+  background: 0;
+}
+
+#mapx507y57 a:before {
+  content: url(https://zabuzard.github.io/FreewarStyles/img/map_shop_natla.svg);
+  z-index: 1;
+  width: 50px;
+  position: absolute;
+  margin-left: -0px;
+  background: 0;
+}
