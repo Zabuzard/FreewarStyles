@@ -73,13 +73,6 @@ click on. This is especially useful for 4K resolutions.
 
 ![Bigger Fast Spell Menu](https://i.vgy.me/4gChpd.jpg)
 
-### `map_locations.css`
-
-Shows icons for various locations on the map, such as safe locations and
-similar.
-
-> 🚧 Work in Progress, details added later
-
 ### `map_secure_locations.css`
 
 Highlights each location on the map that is a secure location where players
