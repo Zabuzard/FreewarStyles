@@ -5,8 +5,8 @@
  - purple color for a Natla shop
  */
 
-#mapx90x100 a:before,
-#mapx102x103 a:before {
+#mapx90y100 a:before,
+#mapx102y103 a:before {
   content: url(https://zabuzard.github.io/FreewarStyles/img/map_shop_blue.svg);
   z-index: 1;
   width: 50px;
