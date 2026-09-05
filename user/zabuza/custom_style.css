@@ -6,7 +6,12 @@
 @import url("https://zabuzard.github.io/FreewarStyles/modules/dark/compact_status.css");
 @import url("https://zabuzard.github.io/FreewarStyles/modules/bigger_fast_spell_menu.css");
 
-@import url("https://zabuzard.github.io/FreewarStyles/modules/map_locations.css");
+@import url("https://zabuzard.github.io/FreewarStyles/modules/map_secure_locations.css");
+@import url("https://zabuzard.github.io/FreewarStyles/modules/map_teleportation_blue.css");
+@import url("https://zabuzard.github.io/FreewarStyles/modules/map_teleportation_yellow.css");
+@import url("https://zabuzard.github.io/FreewarStyles/modules/map_teleportation_portal.css");
+@import url("https://zabuzard.github.io/FreewarStyles/modules/map_teleportation_ring_sandwind.css");
+@import url("https://zabuzard.github.io/FreewarStyles/modules/map_teleportation_onlo.css");
 @import url("https://zabuzard.github.io/FreewarStyles/modules/map_aggressive_npcs.css");
 @import url("https://zabuzard.github.io/FreewarStyles/modules/map_job_npcs.css");
 
