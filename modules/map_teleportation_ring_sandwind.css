@@ -1,0 +1,22 @@
+/* Shows a purple diamond on map tiles that are reachable with a "Ring des Sandwindes" (Ring of Sandwinds, Taruner) */
+
+#mapx98y120 a:before,
+#mapx98y81 a:before,
+#mapx121y112 a:before,
+#mapx72y85 a:before,
+#mapx123y92 a:before,
+#mapx58y107 a:before,
+#mapx65y96 a:before,
+#mapx80y75 a:before,
+#mapx45y98 a:before,
+#mapx100y135 a:before,
+#mapx58y74 a:before,
+#mapx147y121 a:before,
+#mapx120y70 a:before {
+  content: url(https://zabuzard.github.io/FreewarStyles/img/teleportation_ring_sandwind.svg);
+  z-index: 1;
+  width: 50px;
+  position: absolute;
+  margin-left: -0px;
+  background: 0;
+}

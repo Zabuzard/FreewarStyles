@@ -1,0 +1,23 @@
+/* Shows a green rectangle on map tiles that are reachable by Onlos travelling through the forest */
+
+#mapx103y89 a:before,
+#mapx108y89 a:before,
+#mapx61y90 a:before,
+#mapx122y95 a:before,
+#mapx59y84 a:before,
+#mapx60y88 a:before,
+#mapx51y108 a:before,
+#mapx50y91 a:before,
+#mapx50y105 a:before,
+#mapx122y99 a:before,
+#mapx59y90 a:before,
+#mapx50y98 a:before,
+#mapx105y91 a:before,
+#mapx119y75 a:before {
+  content: url(https://zabuzard.github.io/FreewarStyles/img/teleportation_onlo.svg);
+  z-index: 1;
+  width: 50px;
+  position: absolute;
+  margin-left: -0px;
+  background: 0;
+}

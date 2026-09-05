@@ -1,0 +1,29 @@
+/* Shows a blue circle on map tiles that are reachable with a "gepresste Zauberkugel" (blue teleportation) */
+
+#mapx101y100 a:before,
+#mapx85y102 a:before,
+#mapx92y105 a:before,
+#mapx97y108 a:before,
+#mapx93y96 a:before,
+#mapx81y94 a:before,
+#mapx99y115 a:before,
+#mapx501y51 a:before,
+#mapx103y110 a:before,
+#mapx80y87 a:before,
+#mapx71y92 a:before,
+#mapx92y90 a:before,
+#mapx108y114 a:before,
+#mapx100y94 a:before,
+#mapx75y99 a:before,
+#mapx66y111 a:before,
+#mapx114y76 a:before,
+#mapx73y126 a:before,
+#mapx97y125 a:before,
+#mapx57y88 a:before {
+  content: url(https://zabuzard.github.io/FreewarStyles/img/teleportation_blue.svg);
+  z-index: 1;
+  width: 50px;
+  position: absolute;
+  margin-left: -0px;
+  background: 0;
+}

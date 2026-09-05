@@ -1,0 +1,17 @@
+/* Shows a yellow circle on map tiles that are reachable with a "geklebte, gelbe Zauberkugel" (yellow teleportation) */
+
+#mapx-798y-798 a:before,
+#mapx-785y-786 a:before,
+#mapx-803y-808 a:before,
+#mapx-347y-693 a:before,
+#mapx-599y-449 a:before,
+#mapx-823y-778 a:before,
+#mapx-507y-377 a:before,
+#mapx-629y-2507 a:before {
+  content: url(https://zabuzard.github.io/FreewarStyles/img/teleportation_yellow.svg);
+  z-index: 1;
+  width: 50px;
+  position: absolute;
+  margin-left: -0px;
+  background: 0;
+}

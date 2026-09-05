@@ -1,0 +1,33 @@
+/* Shows an orange diamond on map tiles that are reachable with a "Portalmaschine" (portal device) */
+
+#mapx122y116 a:before,
+#mapx72y116 a:before,
+#mapx59y106 a:before,
+#mapx122y100 a:before,
+#mapx121y91 a:before,
+#mapx62y83 a:before,
+#mapx135y115 a:before,
+#mapx58y98 a:before,
+#mapx111y83 a:before,
+#mapx129y90 a:before,
+#mapx96y78 a:before,
+#mapx144y126 a:before,
+#mapx64y80 a:before,
+#mapx106y93 a:before,
+#mapx-286y-479 a:before,
+#mapx118y124 a:before,
+#mapx115y100 a:before,
+#mapx110y107 a:before,
+#mapx-605y-206 a:before,
+#mapx-100y-95 a:before,
+#mapx-827y-919 a:before,
+#mapx90y115 a:before,
+#mapx104y132 a:before,
+#mapx54y76 a:before {
+  content: url(https://zabuzard.github.io/FreewarStyles/img/teleportation_portal.svg);
+  z-index: 1;
+  width: 50px;
+  position: absolute;
+  margin-left: -0px;
+  background: 0;
+}
