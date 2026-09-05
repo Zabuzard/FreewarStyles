@@ -115,6 +115,19 @@ through the forest.
 
 ![Onlo Teleportation Map](https://i.vgy.me/y2UbcK.jpg)
 
+### `map_shops.css`
+
+Shows a house icon on map tiles with a shop for selling items.
+
+- blue color for the blue fraction shop
+- red color for the red fraction shop
+- orange color for a neutral shop
+- purple color for a Natla shop
+
+| Blue                                      | Red                                      | Neutral                                      | Natla                                      |
+| ----------------------------------------- | ---------------------------------------- | -------------------------------------------- | ------------------------------------------ |
+| ![Blue Shop](https://i.vgy.me/wyfoI5.jpg) | ![Red Shop](https://i.vgy.me/EkeThX.jpg) | ![Neutral Shop](https://i.vgy.me/HWde3c.jpg) | ![Natla Shop](https://i.vgy.me/wUraLl.jpg) |
+
 ### `map_aggressive_npcs.css`
 
 Highlights locations on the map that can spawn aggressive NPCs. The map tiles
