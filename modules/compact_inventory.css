@@ -1,0 +1,137 @@
+/* Makes the inventory more compact.
+  In particular by making each item only one instead of two lines, moving the actions into the same line.
+*/
+
+p.listitemrow,
+p.listitemrow span.medium {
+  color: transparent;
+  font-size: 1px;
+}
+
+p.listitemrow a[href*="action=activate"],
+p.listitemrow span.medium a {
+  margin: 0;
+  padding: 0;
+  line-height: 0;
+  color: transparent !important;
+  background: 0 0;
+  border: 0;
+}
+
+p.listitemrow a[href*="action=activate"] {
+  position: absolute;
+  top: 2px;
+  right: 47px;
+  display: block;
+  width: 20px;
+  height: 20px;
+  font-size: 0;
+  z-index: 10;
+}
+
+p.listitemrow span.medium a {
+  display: inline-block;
+  width: 1px;
+  height: 1px;
+  font-size: 1px;
+}
+
+p.listitemrow {
+  position: relative;
+  padding: 3px 4px 4px 5px;
+  border: 1px solid #bababa;
+}
+
+p.listitemrow + p {
+  margin-top: 3px;
+}
+
+p.listitemrow a[href*="action=activate"]::before {
+  content: url(https://pashorizer.github.io/images/act.png);
+  position: absolute;
+  top: 0;
+  right: 0;
+  opacity: 0.1;
+}
+
+p.listitemrow .iteminventorypics:hover,
+p.listitemrow a[href*="action=activate"]:hover::before,
+p.listitemrow a[href*="action=manydrop"]:hover::before,
+p.listitemrow a[href*="action=transfer"]:hover::before,
+p.listitemrow a[href*="action=watch"]:hover::before {
+  opacity: 1;
+}
+
+p.listitemrow b {
+  font-size: 12px;
+  color: #cfcfcf;
+}
+
+.itemamount {
+  font-size: 12px;
+  margin-right: 4px;
+  color: #989898;
+}
+
+.itemmagic {
+  font-size: 12px;
+  margin-left: 1px;
+  color: #9ef59e;
+}
+
+.itemequipped b {
+  color: #d20000 !important;
+}
+
+p.listitemrow .iteminventorypics {
+  max-height: 14px;
+  opacity: 0.1;
+}
+
+p.listitemrow img[src$="icon_drop.gif"],
+p.listitemrow img[src$="icon_transfer.gif"],
+p.listitemrow img[src$="icon_view.gif"] {
+  display: none;
+}
+
+p.listitemrow a[href*="action=watch"]::before {
+  content: url(https://pashorizer.github.io/images/icon_view.gif);
+  position: absolute;
+  top: 2px;
+  right: 28px;
+  opacity: 0.1;
+}
+
+p.listitemrow a[href*="action=manydrop"]::before {
+  content: url(https://pashorizer.github.io/images/icon_drop.gif);
+  position: absolute;
+  top: 2px;
+  right: 16px;
+  opacity: 0.1;
+}
+
+p.listitemrow a[href*="action=transfer"]::before {
+  content: url(https://pashorizer.github.io/images/icon_transfer.gif);
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  opacity: 0.1;
+}
+
+#filterrow {
+  padding: 2px;
+}
+
+#filterrow a,
+#filterrow b {
+  font-size: 10px;
+}
+
+#filterrow > a:nth-child(n + 4),
+#filterrow > b:nth-child(n + 4) {
+  padding-left: 5px;
+}
+
+#filterrow::before {
+  color: #5e5e5e;
+}

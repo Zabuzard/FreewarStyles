@@ -1,0 +1,10 @@
+/* Increase Font-Size on the Fastspell Menu so links are easier to click. Especially useful for 4K displays */
+
+[id^="fastspell"]:not(#fastspell) a {
+  font-size: 14px !important;
+}
+
+[id^="fastspell"]:not(#fastspell) td:nth-child(2),
+[id^="fastspell"]:not(#fastspell) td:nth-child(3) {
+  display: none !important;
+}

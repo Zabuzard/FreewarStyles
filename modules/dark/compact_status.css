@@ -1,0 +1,9 @@
+/* Compact Status Effects, including remaining-time display */
+@import url("https://pashorizer.github.io/cmp/status.css");
+
+/* Dark Mode fix */
+#listrow_status .healthok,
+#listrow_status .healthmed,
+#listrow_status .healthcritical {
+  background: #333;
+}

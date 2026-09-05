@@ -1,0 +1,26 @@
+/* Dark Mode compatible colors for the chat. For example for the Cold Moonfire style */
+
+#chat_text {
+  background-color: #222;
+  color: white;
+}
+
+#sagen,
+#tele,
+#schreien,
+#globalchat,
+#group {
+  background-color: #444;
+}
+
+#sagen {
+  color: AAA;
+}
+
+#schreien {
+  color: #699cff;
+}
+
+#globalchat {
+  color: #9f71cb;
+}

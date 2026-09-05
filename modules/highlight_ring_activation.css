@@ -1,0 +1,15 @@
+/* Highlight Ring Activation if available */
+
+#listrow_ring_remaining[data-remaining="0"] {
+  color: #ffac42;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+#listrow_ring_remaining[data-remaining="0"]::after {
+  content: "bereit";
+  display: inline-block;
+  margin-left: 10px;
+  font-size: 15px;
+  font-weight: bold;
+}

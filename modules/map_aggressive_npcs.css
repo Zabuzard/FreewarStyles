@@ -1,0 +1,78 @@
+/* Shows aggressive NPCs on the Map */
+@import url("https://pashorizer.github.io/cmp/ans.css");
+
+/* Stachelhöhle Aggros A:50 */
+#mapx-236y-388 a:after,
+#mapx-238y-387 a:after,
+#mapx-238y-386 a:after,
+#mapx-236y-385 a:after,
+#mapx-236y-384 a:after {
+  content: "50";
+  z-index: 2;
+  width: 50px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  line-height: 120%;
+  font-size: 10px;
+  font-weight: bold;
+  text-align: center;
+  color: #d20000;
+  background: #cccccc;
+  border-bottom: 1px solid #bababa;
+  opacity: 0.7;
+  -moz-border-radius-bottomleft: 6px;
+  -moz-border-radius-bottomright: 6px;
+  -webkit-border-bottom-left-radius: 6px;
+  -webkit-border-bottom-right-radius: 6px;
+}
+
+/* Stachelhöhle Aggros A:80 */
+#mapx-236y-387 a:after,
+#mapx-236y-386 a:after,
+#mapx-235y-386 a:after,
+#mapx-234y-386 a:after,
+#mapx-232y-386 a:after,
+#mapx-235y-385 a:after {
+  content: "80";
+  z-index: 2;
+  width: 50px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  line-height: 120%;
+  font-size: 10px;
+  font-weight: bold;
+  text-align: center;
+  color: #d20000;
+  background: #cccccc;
+  border-bottom: 1px solid #bababa;
+  opacity: 0.7;
+  -moz-border-radius-bottomleft: 6px;
+  -moz-border-radius-bottomright: 6px;
+  -webkit-border-bottom-left-radius: 6px;
+  -webkit-border-bottom-right-radius: 6px;
+}
+
+/* Stachelhöhle Aggros A:1674 */
+#mapx-237y-387 a:after,
+#mapx-236y-387 a:after {
+  content: "1674";
+  z-index: 2;
+  width: 50px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  line-height: 120%;
+  font-size: 10px;
+  font-weight: bold;
+  text-align: center;
+  color: #d20000;
+  background: #cccccc;
+  border-bottom: 1px solid #bababa;
+  opacity: 0.7;
+  -moz-border-radius-bottomleft: 6px;
+  -moz-border-radius-bottomright: 6px;
+  -webkit-border-bottom-left-radius: 6px;
+  -webkit-border-bottom-right-radius: 6px;
+}

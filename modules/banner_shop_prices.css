@@ -1,0 +1,12 @@
+/* Shows current best shop-prices in the banner */
+
+.framebannerbg:before {
+  top: 18px;
+  left: 220px;
+  position: absolute;
+  content: url("https://freewar.zocker.eu/grafik_t.php");
+  width: 350px;
+  height: 75px;
+  mix-blend-mode: screen;
+  opacity: 0.7;
+}

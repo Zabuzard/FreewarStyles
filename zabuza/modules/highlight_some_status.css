@@ -1,0 +1,6 @@
+/* Highlight some important Statuses */
+
+#listrow_status span[title^="Beutezauber"],
+#listrow_status span[title^="schnelle Bewegung"] {
+  color: #f1b970;
+}

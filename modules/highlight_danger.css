@@ -1,0 +1,12 @@
+/* Highlight dangerous situations, such as low health or aggressive NPCs */
+
+.healthcritical,
+.aggressivenpc {
+  font-weight: bold;
+  animation: blink 0.3s step-start infinite;
+}
+@keyframes blink {
+  50% {
+    opacity: 0.3;
+  }
+}
