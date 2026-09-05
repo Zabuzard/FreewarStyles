@@ -85,7 +85,42 @@ similar.
 Highlights each location on the map that is a secure location where players
 cannot attack other players.
 
-![Secure Locations Map]()
+![Secure Locations Map](https://i.vgy.me/nNykbZ.jpg)
+
+### `map_teleportation_blue.css`
+
+Shows a blue circle on map tiles that are reachable with a "gepresste
+Zauberkugel" (blue teleportation).
+
+![Blue Teleportation Map](https://i.vgy.me/ERt3Kb.jpg)
+
+### `map_teleportation_yellow.css`
+
+Shows a yellow circle on map tiles that are reachable with a "geklebte, gelbe
+Zauberkugel" (yellow teleportation).
+
+![Yellow Teleportation Map](https://i.vgy.me/t1j4qX.jpg)
+
+### `map_teleportation_portal.css`
+
+Shows an orange diamond on map tiles that are reachable with a "Portalmaschine"
+(portal device).
+
+![Portal Teleportation Map](https://i.vgy.me/74NBCJ.jpg)
+
+### `map_teleportation_ring_sandwind.css`
+
+Shows a purple diamond on map tiles that are reachable with a "Ring des
+Sandwindes" (Ring of Sandwinds, Taruner).
+
+![Ring Sandwind Teleportation Map](https://i.vgy.me/iN6xIz.jpg)
+
+### `map_teleportation_onlo.css`
+
+Shows a green rectangle on map tiles that are reachable by Onlos travelling
+through the forest.
+
+![Onlo Teleportation Map](https://i.vgy.me/y2UbcK.jpg)
 
 ### `map_aggressive_npcs.css`
 
