@@ -1,0 +1,53 @@
+/* Shows checkmark and cross symbols in the settings menu so it becomes easier to understand if a setting is currently enabled or disabled */
+
+/* Currently enabled */
+a[href*="profil.php?action=skip"]:before,
+a[href*="profil.php?action=disable"]:before {
+  content: "";
+  display: inline-block;
+  width: 10px;
+  height: 6px;
+  border-left: 2px solid #4abe4a !important;
+  border-bottom: 2px solid #4abe4a !important;
+  transform: rotate(-45deg);
+  margin-right: 5px;
+  position: relative;
+  top: -2px;
+}
+
+a[href*="profil.php?action=skip"]:hover,
+a[href*="profil.php?action=disable"]:hover {
+  color: #bd3838 !important;
+}
+
+/* Currently disabled */
+a[href*="profil.php?action=show"]:before,
+a[href*="profil.php?action=enable"]:before {
+  content: "";
+  display: inline-block;
+  width: 11px;
+  height: 11px;
+  position: relative;
+  margin-right: 5px;
+  top: 2px;
+  background:
+    linear-gradient(
+      45deg,
+      transparent 45%,
+      #bd3838 46%,
+      #bd3838 54%,
+      transparent 55%
+    ),
+    linear-gradient(
+      -45deg,
+      transparent 45%,
+      #bd3838 46%,
+      #bd3838 54%,
+      transparent 55%
+    );
+}
+
+a[href*="profil.php?action=show"]:hover,
+a[href*="profil.php?action=enable"]:hover {
+  color: #4abe4a !important;
+}
