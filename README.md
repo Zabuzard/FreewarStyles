@@ -53,7 +53,7 @@ anymore.
 
 ![Weapon Durability](https://i.vgy.me/1M7GsF.jpg)
 
-### `dark/compact_status.css` and `light/compact_status.css`
+### `dark/compact_status.css` or `light/compact_status.css`
 
 Abbreviates status effects in the menu and shows the remaining time directly
 without needing to mouse hover. Mouse hover to see the abbreviation fully
