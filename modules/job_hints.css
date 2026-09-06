@@ -17,3 +17,4 @@
 }
 
 #listrow_char_mission:has(a[title="Ablenkung mit Knalleffekt"])::after { content: "Zerstöre zufälliges Feld mit Bombe des AdH."; }
+#listrow_char_mission:has(a[title="Ablenkung mit Knalleffekt Teil 2"])::after { content: "Bestrafe Mitarbeiter in Sandsteinhöhlen (Schlucht der Sandsteine)."; }
