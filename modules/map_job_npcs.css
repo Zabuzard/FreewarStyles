@@ -312,6 +312,23 @@
 #mapx115y131 a:after,
 #mapx115y134 a:after {
   content: "Bro.-Virus";
+  z-index: 2;
+  width: 50px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  line-height: 120%;
+  font-size: 10px;
+  font-weight: 700;
+  text-align: center;
+  color: #004cff;
+  background: #ccc;
+  border-bottom: 1px solid #bababa;
+  opacity: 0.7;
+  -moz-border-radius-bottomleft: 6px;
+  -moz-border-radius-bottomright: 6px;
+  -webkit-border-bottom-left-radius: 6px;
+  -webkit-border-bottom-right-radius: 6px;
 }
 
 #mapx-595y-448 a:after,
@@ -319,4 +336,21 @@
 #mapx-597y-448 a:after,
 #mapx-599y-448 a:after {
   content: "leb. Ast";
+  z-index: 2;
+  width: 50px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  line-height: 120%;
+  font-size: 10px;
+  font-weight: 700;
+  text-align: center;
+  color: #004cff;
+  background: #ccc;
+  border-bottom: 1px solid #bababa;
+  opacity: 0.7;
+  -moz-border-radius-bottomleft: 6px;
+  -moz-border-radius-bottomright: 6px;
+  -webkit-border-bottom-left-radius: 6px;
+  -webkit-border-bottom-right-radius: 6px;
 }
