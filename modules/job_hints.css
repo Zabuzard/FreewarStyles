@@ -3,18 +3,18 @@
 /* Common styling */
 #listrow_char_mission::after {
   display: block;
-  margin: 12px 5px;
-  padding: 8px 8px;
+  margin: 12px 2px;
+  padding: 5px 7px;
   background: #464646;
   border: 1px solid #666;
-  border-left: 7px solid #f99;
+  border-left: 4px solid #f99;
   border-radius: 5px;
   color: #f5f5f5;
-  font-size: 14px;
+  font-size: 12px;
   font-weight: bold;
-  line-height: 1.6;
+  line-height: 1.5;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.45);
 }
 
 #listrow_char_mission:has(a[title="Ablenkung mit Knalleffekt"])::after { content: "Zerstöre zufälliges Feld mit Bombe des AdH."; }
-#listrow_char_mission:has(a[title="Ablenkung mit Knalleffekt Teil 2"])::after { content: "Bestrafe Mitarbeiter in Sandsteinhöhlen (Schlucht der Sandsteine)."; }
+#listrow_char_mission:has(a[title="Ablenkung mit Knalleffekt Teil 2"])::after { content: "Bestrafe Mitarbeiter in Sandsteinhöhlen (Schlucht der Sandsteine). Anschreien, dann Verjagen."; }
