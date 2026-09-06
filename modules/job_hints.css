@@ -114,5 +114,131 @@
 #listrow_char_mission:has(a[title="Ölmangel"])::after { content: "Verkaufe ein Ölfass an Buran - Schmiede (85/90)."; }
 
 /* Multi-Part Jobs */
-#listrow_char_mission:has(a[title="Ablenkung mit Knalleffekt"])::after { content: "Zerstöre zufälliges Feld mit Bombe des AdH."; }
+#listrow_char_mission:has(a[title="Juwelenring"])::after { content: "Töte Ziel-NPC, bringe dreckigen Glitzerklumpen zurück."; }
+#listrow_char_mission:has(a[title="Juwelenring Teil 2"])::after { content: "Gehe zu Konlir - Großer See (99/100), trinke aus See bis fertig."; }
+#listrow_char_mission:has(a[title="Juwelenring Teil 3"])::after { content: "Bringe Ring nach Konlir - Dorf (98/102)."; }
+
+#listrow_char_mission:has(a[title="Futtermangel"])::after { content: "Besorge Tierfutter (Taruner, MaHa)."; }
+#listrow_char_mission:has(a[title="Futtermangel Teil 2"])::after { content: "Nutze Tierfuttersack an Tal der Ruinen - Futterstelle (90/98)."; }
+
+#listrow_char_mission:has(a[title="Die Hungersnot"])::after { content: "Hole Mehlsack von Torhin - Baru-Mühle (110/93)."; }
+#listrow_char_mission:has(a[title="Die Hungersnot Teil 2"])::after { content: "Bringe Brot nach Mentoran - Nomadendorf (101/116)."; }
+
+#listrow_char_mission:has(a[title="Der kranke Loranier"])::after { content: "Hole Sumpfblume von Rovonia (65/79, 1-Feld Umkreis)."; }
+#listrow_char_mission:has(a[title="Der kranke Loranier Teil 2"])::after { content: "Bring Sumpfblumenextrakt nach Loranien - Weißes Haus (84/112)."; }
+#listrow_char_mission:has(a[title="Der kranke Loranier Teil 3"])::after { content: "Lege Bündel weißer Rosen bei Reikan - Friedhod der Nebel (98/109) ab (und weiße Rose für Bonus)."; }
+
+#listrow_char_mission:has(a[title="Kampf gegen die Kälte"])::after { content: "Nutze Schafschergerät an Ziel-Schaf, wasche Wolle an Konlir - Wasserfall des Nordens (101/99)."; }
+#listrow_char_mission:has(a[title="Kampf gegen die Kälte Teil 2"])::after { content: "Bringe Wolldecke nach Latenia - Berghütte (96/84)."; }
+
+#listrow_char_mission:has(a[title="Das Attentat"])::after { content: "Gehe nach Ziel-Ort in Dranar."; }
+#listrow_char_mission:has(a[title="Das Attentat Teil 2"])::after { content: "Töte Kurnotan getarnt (z.b. schwacher Tarnzauber). Dranar - Stadt (58/99)."; }
+
+#listrow_char_mission:has(a[title="Die Bedrohung"])::after { content: "Nutze Stahlkäfig auf Baby-Einflügler bei Rovonia - Steile Klippen (70/80)."; }
+#listrow_char_mission:has(a[title="Die Bedrohung Teil 2"])::after { content: "Nuitze Gift gegen einen Einflügler."; }
+
+#listrow_char_mission:has(a[title="Die verwesten Bürger"])::after { content: "Hole Holz, finde rostigen Nagel in Buran, nutze Hammer des AdH in Buran - Westbereich (80/87)."; }
+#listrow_char_mission:has(a[title="Die verwesten Bürger Teil 2"])::after { content: "Töte untoten Bürger in Buran bis Drop: Untoter Knochen."; }
+#listrow_char_mission:has(a[title="Die verwesten Bürger Teil 3"])::after { content: "Bringe untoten Knochen nach Gobos - Gewebeforschung (80/99)."; }
+
+#listrow_char_mission:has(a[title="Das Gegengift"])::after { content: "Nutze Spritze mit Gegengift an Ziel-Person."; }
+#listrow_char_mission:has(a[title="Das Gegengift Teil 2"])::after { content: "Bringe Kiste mit Gegengift zu Kanobien - Waldhaus (71/101)."; }
+
+#listrow_char_mission:has(a[title="Der goldene Löffel"])::after { content: "Nutze Wüstenschaufel in Mentoran bis goldener Löffel (z.b. Nomadendorf (101/116))."; }
+#listrow_char_mission:has(a[title="Der goldene Löffel Teil 2"])::after { content: "Bringe goldenen Löffel zu Blatenien - Seltsames Gasthaus (86/109)."; }
+
+#listrow_char_mission:has(a[title="Neuartiges Tierfutter"])::after { content: "Töte Kanalquallen in Kanalisation (Ebene 2) bis Drop: Quallenglibber."; }
+#listrow_char_mission:has(a[title="Neuartiges Tierfutter Teil 2"])::after { content: "Besorge Gewürzbohne. Konlir - Haus der Haushaltswaren (96/102)."; }
+#listrow_char_mission:has(a[title="Neuartiges Tierfutter Teil 3"])::after { content: "Nutze Neuartiges Tierfutter an NPCs bis fertig."; }
+#listrow_char_mission:has(a[title="Neuartiges Tierfutter Teil 4"])::after { content: "Nutze Sack mit neuartigem Tierfutter an Tal der Ruinen - Futterstelle (90/98)."; }
+
+#listrow_char_mission:has(a[title="Das Schneemesser"])::after { content: "Hole Schneemesser bei Wilisien (110/83) ab, repariere es."; }
+#listrow_char_mission:has(a[title="Das Schneemesser Teil 2"])::after { content: "Töte 5 NPC mit Schneemesser als Waffe."; }
+
+#listrow_char_mission:has(a[title="Die Seuche"])::after { content: "Gehe nach Konlir - Dorf (98/102, Kanalisationseingang)."; }
+#listrow_char_mission:has(a[title="Die Seuche Teil 2"])::after { content: "Nutze Kanalisationsrechen in Kanalisation - Sammelbecken bis fertig."; }
+
+#listrow_char_mission:has(a[title="Der silberne Ohrring"])::after { content: "Besorge Goldsieb, nutze in Nawor - Fluss bis Silberner Ohrring (1:3, Sieb in Mentoran - Nomadendorf)."; }
+#listrow_char_mission:has(a[title="Der silberne Ohrring Teil 2"])::after { content: "Gehe nach Gobos - Rote Hütte (77/101)."; }
+#listrow_char_mission:has(a[title="Der silberne Ohrring Teil 3"])::after { content: "Gehe zurück nach Gobos - Rote Hütte (77/101), füttere Schwein (Tal der Ruinen - Futterstelle (77/101))."; }
+
+#listrow_char_mission:has(a[title="Kühe melken"])::after { content: "Nutze Melkmaschine an Ziel-Kuh."; }
+#listrow_char_mission:has(a[title="Kühe melken Teil 2"])::after { content: "Gehe nach Krato - Hütte der Onlos (58/106)."; }
+
+#listrow_char_mission:has(a[title="Das Gift"])::after { content: "Hole grüner Giftschleim von Ziel-Ort in Sutranien - Sumpf."; }
+#listrow_char_mission:has(a[title="Das Gift Teil 2"])::after { content: "Besorge weiße Laubnelke (Ferdolien - Blumenpavillon (106/95))."; }
+#listrow_char_mission:has(a[title="Das Gift Teil 3"])::after { content: "Nutze Griftspritze gegen Ziel-Person."; }
+
+#listrow_char_mission:has(a[title="Der Kugelknochen"])::after { content: "Töte Onlo-Skelett bis Drop: Kugelknochen."; }
+#listrow_char_mission:has(a[title="Der Kugelknochen Teil 2"])::after { content: "Gehe nach Sutranien - Juwelier (77/87)."; }
+
+#listrow_char_mission:has(a[title="Der Baum der Heilung"])::after { content: "Hole verpackter Baum von Loranien - Baumzucht (77/116)."; }
+#listrow_char_mission:has(a[title="Der Baum der Heilung Teil 2"])::after { content: "Nutze heilender Baum an Ziel-Ort. Nicht töten!"; }
+
+#listrow_char_mission:has(a[title="Schädlingsbekämpfung"])::after { content: "Hole Flasche mit Koloa-Käfer Gift von Kuridan - Zwirnwaldhütte (122/96)."; }
+#listrow_char_mission:has(a[title="Schädlingsbekämpfung Teil 2"])::after { content: "Nutze Insektenspray gegen Koloa-Käfer bei Anatubien - Plantage (töte mutierten Käfer für Bonus)."; }
+
+#listrow_char_mission:has(a[title="Zu Tode erschrecken"])::after { content: "Bringe Gewebeproben bis fertig."; }
+#listrow_char_mission:has(a[title="Zu Tode erschrecken Teil 2"])::after { content: "Nutze fürchterliche Maske gegen Ziel-NPC. Nicht töten!"; }
+
+#listrow_char_mission:has(a[title="Die unfreiwillige Blutspende"])::after { content: "Lege Auffangschale an Ziel-Ort ab, dann töte NPC."; }
+#listrow_char_mission:has(a[title="Die unfreiwillige Blutspende Teil 2"])::after { content: "Besorge Blaukornsonnenblume (Ferdolien - Blumenpavillon (106/95))."; }
+#listrow_char_mission:has(a[title="Die unfreiwillige Blutspende Teil 3"])::after { content: "Gehe nach Plefir - Ort der Heilquellen (76/110)."; }
+
+#listrow_char_mission:has(a[title="Tote beleben"])::after { content: "Besorge toten Gewebewurm."; }
+#listrow_char_mission:has(a[title="Tote beleben Teil 2"])::after { content: "Gehe nach Tanien - Alte Strohhütte (55/113)."; }
+#listrow_char_mission:has(a[title="Tote beleben Teil 3"])::after { content: "(Frieden) Nutze Zauber der Wiederbelebung an Ziel-Ort."; }
+
+#listrow_char_mission:has(a[title="Der Rohrbruch"])::after { content: "Besorge Ingerium (Spitzhacke, Kampfgebiet)."; }
+#listrow_char_mission:has(a[title="Der Rohrbruch Teil 2"])::after { content: "Nutze Ingeriumplatte bei Mentoran - Ölturm (103/115)."; }
+
+#listrow_char_mission:has(a[title="Der Wetterkontroll-Kristall"])::after { content: "Töte Stein-Skelkos in Hewien (87/93). Hole 3 Tropfsteinkristalle aus Rotsteinhöhle."; }
+#listrow_char_mission:has(a[title="Der Wetterkontroll-Kristall Teil 2"])::after { content: "Gehe nach Ferdolien - Wetterkontrollfestung (107/93)."; }
+
+#listrow_char_mission:has(a[title="Die Fischspeise"])::after { content: "Nutze Angel des AdH auf Linya bis Schleimhautfisch (Kuridan - Bootssteg (118/106))."; }
+#listrow_char_mission:has(a[title="Die Fischspeise Teil 2"])::after { content: "Gehe nach Anatubien - Herberge am Vulkan (88/105)."; }
+
+#listrow_char_mission:has(a[title="Die Zaubertruhe"])::after { content: "Öffne die Zaubertruhe des AdH (Stufe 1-4)."; }
+#listrow_char_mission:has(a[title="Die Zaubertruhe Teil 2"])::after { content: "Bringe 50 GM nach Ziel-Ort."; }
+
+#listrow_char_mission:has(a[title="Energie für Narubia"])::after { content: "Lade leere Energiespähre an Energiewürmern in Dorea auf."; }
+#listrow_char_mission:has(a[title="Energie für Narubia Teil 2"])::after { content: "Gehe nach Narubia - Haus der Finsternis (501/54)."; }
+
+#listrow_char_mission:has(a[title="Der Dämonenhund"])::after { content: "Hole verschlossener Hundekäfig von Delos (61/94)."; }
+#listrow_char_mission:has(a[title="Der Dämonenhund Teil 2"])::after { content: "Nutze Hundekäfig an Ziel-Ort. Nicht töten!"; }
+
+#listrow_char_mission:has(a[title="Seelenstaub"])::after { content: "Besorge blauer Seelenstaub in Brondor."; }
+#listrow_char_mission:has(a[title="Blauer Heilzauber"])::after { content: "Gehe nach Buran - Shop (86/85)."; }
+
+#listrow_char_mission:has(a[title="Das Flammenwurmsekret"])::after { content: "TTöte Flammenwurm in Pensal bis Drop: Flammenwurmsekret."; }
+#listrow_char_mission:has(a[title="Die Gesichtscreme"])::after { content: "Gehe nach Urdanien - Nordhütte (75/86)."; }
+
+#listrow_char_mission:has(a[title="Die mysteriösen Pflanzensamen"])::after { content: "Finde kleiner Beutel mit Pflanzensamen in Torihn - Kiras Gasthaus (111/96)."; }
+#listrow_char_mission:has(a[title="Die mysteriösen Pflanzensamen Teil 2"])::after { content: "Nutze kleiner Beutel mit Pflanzensamen an Ziel-Ort."; }
+
+#listrow_char_mission:has(a[title="Die Grotte des Todes"])::after { content: "Gehe nach Ziel-Ort (in der Nähe)."; }
+#listrow_char_mission:has(a[title="Die Grotte des Todes Teil 2"])::after { content: "Gehe zum südlichsten Punkt der Grotte des Todes (Portalmaschine)."; }
+
+#listrow_char_mission:has(a[title="Die Drucknuss"])::after { content: "Gehe nach Konlir - Wiesen von Konlir (98/103)."; }
+#listrow_char_mission:has(a[title="Die Drucknuss Teil 2"])::after { content: "Besorge Drucknuss (z.b. an Ziel-Ort ausgraben)."; }
+
+#listrow_char_mission:has(a[title="Urlaub"])::after { content: "Gehe nach Kuridan - Steg (118/106)."; }
+#listrow_char_mission:has(a[title="Urlaub Teil 2"])::after { content: "Gehe wieder nach Kurdian - Steg (118/106)."; }
+
+#listrow_char_mission:has(a[title="Kleine Schrecken"])::after { content: "Nutze Kristall der Miniaturisierung gegen ein NPC."; }
+#listrow_char_mission:has(a[title="Kleine Schrecken Teil 2"])::after { content: "Nutze schreckliches NPC gegen Ziel-Person."; }
+
+#listrow_char_mission:has(a[title="Vernichtung der Beweise"])::after { content: "Nutze Alte Akten des AdH auf Ziel-Ort in Terasi - Fluss"; }
+#listrow_char_mission:has(a[title="Vernichtung der Beweise Teil 2"])::after { content: "Nutze Stillezauber des AdH gegen Ziel-Person, oder setze Kopfgeld aus (Gobos - Kopfgeldjäger (76/98)).‎"; }
+
+#listrow_char_mission:has(a[title="Geistersiegel"])::after { content: "(Frieden) Nutze Geistersiegel an bestimmtem Kontrollturm."; }
+#listrow_char_mission:has(a[title="Geistersauger"])::after { content: "Nutze Geistersauger an vorherigem Kontrollturm."; }
+
+#listrow_char_mission:has(a[title="Astforschung"])::after { content: "Töte lebenden Ast (unterirdischer Lichtwald), oder lege Rotkellerschimmel (Haus des AdH) auf Feld für Bonus."; }
+#listrow_char_mission:has(a[title="Astforschung Teil 2"])::after { content: "Nutze schwarze ZK und töte 3 NPCs im Blutwald."; }
+
+#listrow_char_mission:has(a[title="Ablenkung mit Knalleffekt"])::after { content: "Zerstöre Ziel-Ort mit Bombe des AdH."; }
 #listrow_char_mission:has(a[title="Ablenkung mit Knalleffekt Teil 2"])::after { content: "Bestrafe Höhlenmensch in Sandsteinhöhlen (Schlucht der Sandsteine). Anbrüllen, dann Verjagen."; }
+
+#listrow_char_mission:has(a[title="Die Wachtelnachzucht"])::after { content: "Gehe nach Kerdis - Knorriger Baum (90/115)."; }
+#listrow_char_mission:has(a[title="Die Wachtelnachzucht Teil 2"])::after { content: "Nutze Nest voll Wachteleier in Pflefir bis fertig."; }
