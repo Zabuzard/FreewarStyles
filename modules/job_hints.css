@@ -72,7 +72,7 @@
 #listrow_char_mission:has(a[title="Einsatzbereitschaft zeigen"])::after { content: "Gehe zu Ziel und zurück zum AdH auf kürzestem Weg."; }
 #listrow_char_mission:has(a[title="Essenszeit"])::after { content: "Besorge Steak mit Augen (30LP für Bonus, Messingwok + Kuhkopf)."; }
 #listrow_char_mission:has(a[title="Falterchaos"])::after { content: "Fange temporalen Falter mit Falterfangnetz."; }
-#listrow_char_mission:has(a[title="Frische Luft"])::after { content: "Nutze Windbeutel des AdH auf Wald/Wind-Feld, nutze erneut an Zielort."; }
+#listrow_char_mission:has(a[title="Frische Luft"])::after { content: "Nutze Windbeutel des AdH auf Wald/Wind-Feld (z.b. Gobos), nutze erneut an Zielort."; }
 #listrow_char_mission:has(a[title="Frostbrand"])::after { content: "Nutze Frostbrand auf Zielperson."; }
 #listrow_char_mission:has(a[title="Für die Sicherheit"])::after { content: "Verjage 10 NPCs."; }
 #listrow_char_mission:has(a[title="Haus aus Schnee"])::after { content: "Baue Haus auf Schnee-Feld (nicht Wilisien). Großes Haus für Bonus."; }
@@ -192,8 +192,8 @@
 #listrow_char_mission:has(a[title="Der Rohrbruch"])::after { content: "Besorge Ingerium (Spitzhacke, Kampfgebiet)."; }
 #listrow_char_mission:has(a[title="Der Rohrbruch Teil 2"])::after { content: "Nutze Ingeriumplatte bei Mentoran - Ölturm (103/115)."; }
 
-#listrow_char_mission:has(a[title="Der Wetterkontroll-Kristall"])::after { content: "Töte Stein-Skelkos in Hewien (87/93). Hole 3 Tropfsteinkristalle aus Rotsteinhöhle."; }
-#listrow_char_mission:has(a[title="Der Wetterkontroll-Kristall Teil 2"])::after { content: "Gehe nach Ferdolien - Wetterkontrollfestung (107/93)."; }
+#listrow_char_mission:has(a[title="Der Wetterkontrollkristall"])::after { content: "Töte Stein-Skelkos in Hewien (87/93). Hole 3 Tropfsteinkristalle aus Rotsteinhöhle."; }
+#listrow_char_mission:has(a[title="Der Wetterkontrollkristall Teil 2"])::after { content: "Gehe nach Ferdolien - Wetterkontrollfestung (107/93)."; }
 
 #listrow_char_mission:has(a[title="Die Fischspeise"])::after { content: "Nutze Angel des AdH auf Linya bis Schleimhautfisch (Kuridan - Bootssteg (118/106))."; }
 #listrow_char_mission:has(a[title="Die Fischspeise Teil 2"])::after { content: "Gehe nach Anatubien - Herberge am Vulkan (88/105)."; }
