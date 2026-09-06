@@ -140,7 +140,7 @@ Shows a house icon on map tiles with a shop for selling items.
 Shows an arrow icon on the top left on map tiles that contain dungeon entrances
 or exits.
 
-![Dungeon Icons](https://i.vgy.me/7uFaFw.jpg)
+![Dungeon Icons](https://i.vgy.me/rbe44U.jpg)
 
 ### `map_aggressive_npcs.css`
 
