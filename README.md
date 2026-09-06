@@ -73,6 +73,13 @@ click on. This is especially useful for 4K resolutions.
 
 ![Bigger Fast Spell Menu](https://i.vgy.me/4gChpd.jpg)
 
+### `job_hints.css`
+
+Shows short descriptions for each Job (Auftragshalle) in the inventory so it is
+not necessary to read the full description anymore.
+
+![Job Hints](https://i.vgy.me/0yV2uz.jpg)
+
 ### `map_secure_locations.css`
 
 Highlights each location on the map that is a secure location where players
