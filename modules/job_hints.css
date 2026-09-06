@@ -22,7 +22,7 @@
 #listrow_char_mission:has(a[title="Allgemeine Aufklärung"])::after { content: "Gehe zu zufälligem Feld."; }
 #listrow_char_mission:has(a[title="Betrug im Casino"])::after { content: "Spiele im Casino von Ferdolien."; }
 #listrow_char_mission:has(a[title="Brutale Population"])::after { content: "Töte 20 NPCs."; }
-#listrow_char_mission:has(a[title="Chaos in Belron"])::after { content: "Töte Spindelschreiter in aufsteigender Stärke. Keine Sporenträger!"; }
+#listrow_char_mission:has(a[title="Chaos in Belron"])::after { content: "Töte mindestens 10 Spindelschreiter in aufsteigender Stärke. Keine Sporenträger!"; }
 #listrow_char_mission:has(a[title="Das Artefakt von Dranar"])::after { content: "Hole Artefakt in Azul (105/127, 2-Felder Umkreis)."; }
 #listrow_char_mission:has(a[title="Das Brotmesser"])::after { content: "Bringe Brotmesser nach Sutranien - Der Zauberbaum (74/94)."; }
 #listrow_char_mission:has(a[title="Das große Verjagen"])::after { content: "(Frieden) Verjage 5 NPCs."; }
@@ -136,7 +136,7 @@
 #listrow_char_mission:has(a[title="Das Attentat Teil 2"])::after { content: "Töte Kurnotan getarnt (z.b. schwacher Tarnzauber). Dranar - Stadt (58/99)."; }
 
 #listrow_char_mission:has(a[title="Die Bedrohung"])::after { content: "Nutze Stahlkäfig auf Baby-Einflügler bei Rovonia - Steile Klippen (70/80)."; }
-#listrow_char_mission:has(a[title="Die Bedrohung Teil 2"])::after { content: "Nuitze Gift gegen einen Einflügler."; }
+#listrow_char_mission:has(a[title="Die Bedrohung Teil 2"])::after { content: "Nutze Gift gegen einen Einflügler."; }
 
 #listrow_char_mission:has(a[title="Die verwesten Bürger"])::after { content: "Hole Holz, finde rostigen Nagel in Buran, nutze Hammer des AdH in Buran - Westbereich (80/87)."; }
 #listrow_char_mission:has(a[title="Die verwesten Bürger Teil 2"])::after { content: "Töte untoten Bürger in Buran bis Drop: Untoter Knochen."; }
