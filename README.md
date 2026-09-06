@@ -230,3 +230,9 @@ Highlights some fastspell links with a different color, so they become easier to
 click on.
 
 ![Fastspell highlight](https://i.vgy.me/2yGsoK.jpg)
+
+#### `highlight_some_teleportation_destinations.css`
+
+Highlights some destinations in the teleportation menu.
+
+![Teleport highlight](https://i.vgy.me/6ZqiPi.jpg)

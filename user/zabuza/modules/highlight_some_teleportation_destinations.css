@@ -1,0 +1,18 @@
+/* Highlights some destinations in the teleportation menu */
+
+/* Blue Teleportation (gepresste Zauberkugel) */
+select[name="z_pos_id"] option[value="110"] { color: #c42e2e; font-weight: bold; }/* Tal der Ruinen */
+select[name="z_pos_id"] option[value="290"] { color: #c4812e; font-weight: bold;}/* Mentoran */
+select[name="z_pos_id"] option[value="1715"] { color: #2e54c4; font-weight: bold;}/* Terasi - Der Fluss */
+
+/* Yellow Teleportation (geklebte, gelbe Zauberkugel) */
+select[name="z_pos_id"] option[value="1204"] { color: #2e54c4; font-weight: bold; }/* Latenia - Eishöhle */
+select[name="z_pos_id"] option[value="1366"] { color: #c4812e; font-weight: bold; }/* Unterirdische Lichtwald */
+
+/* Portalmaschine - Oberfläche */
+select[name="z_pos_id"] option[value="2609"] { color: #c4812e; font-weight: bold;}/* Felseninsel */
+select[name="z_pos_id"] option[value="2398"] { color: #2e54c4; font-weight: bold;}/* Kuridan - Wandelfluss */
+
+/* Portalmaschine - Untergrund */
+select[name="z_pos_id"] option[value="3038"] { color: #c42e2e; font-weight: bold;}/* Bernsteinhöhle */
+select[name="z_pos_id"] option[value="3519"] { color: #2e54c4; font-weight: bold;}/* Grotte des Todes */
