@@ -1,6 +1,6 @@
 <svg width="50px" height="50px" xmlns="http://www.w3.org/2000/svg">
   <path
-    d="M6 7 H13 L13 4 L19 8 L13 12 V9 H6 Z"
+    d="M6 6 H13 L13 2 L19 8 L13 14 V10 H6 Z"
     stroke="black"
     stroke-width="0.5"
     fill="#FFB870"
