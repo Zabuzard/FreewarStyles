@@ -85,7 +85,9 @@ td.areadescription
     [onmouseover^='tt("weißer Prisma-Kristall'],
     [onmouseover^='tt("grüner Prisma-Kristall'],
     [onmouseover^='tt("gelber Prisma-Kristall'],
-    [onmouseover^='tt("violetter Prisma-Kristall']
+    [onmouseover^='tt("violetter Prisma-Kristall'],
+    [onmouseover^='tt("Goldwäschesieb'],
+    [onmouseover^='tt("Holzleiter']
   ) {
   color: #d86868;
 }
@@ -94,7 +96,7 @@ td.areadescription
 td.areadescription
   table
   b:is(
-    [onmouseover^='tt("Holz'],
+    [onmouseover^='tt("Holz"'],
     [onmouseover^='tt("Kuhkopf'],
     [onmouseover^='tt("Itolos-Pulver'],
     [onmouseover^='tt("Pastille des Fliegens"'],
