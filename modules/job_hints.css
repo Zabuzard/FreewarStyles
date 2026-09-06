@@ -67,7 +67,7 @@
 #listrow_char_mission:has(a[title="Die Wette"])::after { content: "Töte NPC in aufsteigender Stärke. Spindelschreiter werden ignoriert."; }
 #listrow_char_mission:has(a[title="Die Windwiesen"])::after { content: "Finde AdH Mitarbeiter bei Torihn - Die Windwiesen (111/94)."; }
 #listrow_char_mission:has(a[title="Diebesgut"])::after { content: "Nutze Auftragsdiebstahlzauber um bestimmtes NPC zu beklauen. Nicht töten!"; }
-#listrow_char_mission:has(a[title="Doppelköpfige Bestie"])::after { content: "Kutschfahrt mit zweiten Spieler, besiege doppelköpfige Bestie."; }
+#listrow_char_mission:has(a[title="Doppelköpfige Bestie"])::after { content: "Kutschfahrt mit zweitem Spieler, besiege doppelköpfige Bestie, fahre Kutsche zurück."; }
 #listrow_char_mission:has(a[title="Effizienzsteigerung"])::after { content: "Nutze Zauberöl: roter Donner. Töte 20 NPC mit der Waffe."; }
 #listrow_char_mission:has(a[title="Einsatzbereitschaft zeigen"])::after { content: "Gehe zu Ziel und zurück zum AdH auf kürzestem Weg."; }
 #listrow_char_mission:has(a[title="Essenszeit"])::after { content: "Besorge Steak mit Augen (30LP für Bonus, Messingwok + Kuhkopf)."; }
@@ -112,6 +112,7 @@
 #listrow_char_mission:has(a[title="Zu viele Hulnodar-Heiler"])::after { content: "Töte 3 Hulnodar-Heiler in Kolun - Burg von Hulnodar (61/83)."; }
 #listrow_char_mission:has(a[title="zuviele Farben"])::after { content: "Töte 3 Farbanomalien in Laree."; }
 #listrow_char_mission:has(a[title="Ölmangel"])::after { content: "Verkaufe ein Ölfass an Buran - Schmiede (85/90)."; }
+#listrow_char_mission:has(a[title="Blick in die Seele"])::after { content: "Töte NPC bis Drop: Seelenkapsel."; }
 
 /* Multi-Part Jobs */
 #listrow_char_mission:has(a[title="Juwelenring"])::after { content: "Töte Ziel-NPC, bringe dreckigen Glitzerklumpen zurück."; }
@@ -126,7 +127,7 @@
 
 #listrow_char_mission:has(a[title="Der kranke Loranier"])::after { content: "Hole Sumpfblume von Rovonia (65/79, 1-Feld Umkreis)."; }
 #listrow_char_mission:has(a[title="Der kranke Loranier Teil 2"])::after { content: "Bring Sumpfblumenextrakt nach Loranien - Weißes Haus (84/112)."; }
-#listrow_char_mission:has(a[title="Der kranke Loranier Teil 3"])::after { content: "Lege Bündel weißer Rosen bei Reikan - Friedhod der Nebel (98/109) ab (und weiße Rose für Bonus)."; }
+#listrow_char_mission:has(a[title="Der kranke Loranier Teil 3"])::after { content: "Nutze Bündel weißer Rosen bei Reikan - Friedhod der Nebel (98/109) (und weiße Rose für Bonus)."; }
 
 #listrow_char_mission:has(a[title="Kampf gegen die Kälte"])::after { content: "Nutze Schafschergerät an Ziel-Schaf, wasche Wolle an Konlir - Wasserfall des Nordens (101/99)."; }
 #listrow_char_mission:has(a[title="Kampf gegen die Kälte Teil 2"])::after { content: "Bringe Wolldecke nach Latenia - Berghütte (96/84)."; }
@@ -160,7 +161,7 @@
 
 #listrow_char_mission:has(a[title="Der silberne Ohrring"])::after { content: "Besorge Goldsieb, nutze in Nawor - Fluss bis Silberner Ohrring (1:3, Sieb in Mentoran - Nomadendorf)."; }
 #listrow_char_mission:has(a[title="Der silberne Ohrring Teil 2"])::after { content: "Gehe nach Gobos - Rote Hütte (77/101)."; }
-#listrow_char_mission:has(a[title="Der silberne Ohrring Teil 3"])::after { content: "Gehe zurück nach Gobos - Rote Hütte (77/101), füttere Schwein (Tal der Ruinen - Futterstelle (77/101))."; }
+#listrow_char_mission:has(a[title="Der silberne Ohrring Teil 3"])::after { content: "Gehe zurück nach Gobos - Rote Hütte (77/101), füttere Schwein (Tal der Ruinen - Futterstelle (90/98))."; }
 
 #listrow_char_mission:has(a[title="Kühe melken"])::after { content: "Nutze Melkmaschine an Ziel-Kuh."; }
 #listrow_char_mission:has(a[title="Kühe melken Teil 2"])::after { content: "Gehe nach Krato - Hütte der Onlos (58/106)."; }
