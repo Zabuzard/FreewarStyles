@@ -1,2 +1,4 @@
 /* Compact Status Effects, including remaining-time display */
 @import url("https://pashorizer.github.io/cmp/status.css");
+
+#listrow_status span[title^='Plünderer']:before {content: "PL |"; font-weight: bold; font-size: 10px;}
