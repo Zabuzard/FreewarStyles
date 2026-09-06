@@ -135,6 +135,13 @@ Shows a house icon on map tiles with a shop for selling items.
 | ----------------------------------------- | ---------------------------------------- | -------------------------------------------- | ------------------------------------------ |
 | ![Blue Shop](https://i.vgy.me/wyfoI5.jpg) | ![Red Shop](https://i.vgy.me/EkeThX.jpg) | ![Neutral Shop](https://i.vgy.me/HWde3c.jpg) | ![Natla Shop](https://i.vgy.me/wUraLl.jpg) |
 
+### `map_dungeon_entrances.css`
+
+Shows an arrow icon on the top left on map tiles that contain dungeon entrances
+or exits.
+
+![Dungeon Icons](https://i.vgy.me/7uFaFw.jpg)
+
 ### `map_aggressive_npcs.css`
 
 Highlights locations on the map that can spawn aggressive NPCs. The map tiles
