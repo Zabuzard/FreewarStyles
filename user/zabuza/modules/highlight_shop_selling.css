@@ -113,3 +113,33 @@ td.areadescription
   ) {
   color: #5ba8e0;
 }
+
+/* Items needed for jobs (Auftragshaus) */
+td.areadescription
+  table
+  b:is(
+    [onmouseover^='tt("Phasenkugel'],
+    [onmouseover^='tt("Steak mit Augen'],
+    [onmouseover^='tt("Strategischer Hinzauber'],
+    [onmouseover^='tt("Spitzhacke"'],
+    [onmouseover^='tt("Salzkristall"'],
+    [onmouseover^='tt("eisiger Teleporter"'],
+    [onmouseover^='tt("Glodo-Fisch'],
+    [onmouseover^='tt("kleiner Energiesplitter'],
+    [onmouseover^='tt("Hulnodar-Schlüssel'],
+    [onmouseover^='tt("Ölfass'],
+    [onmouseover^='tt("Tierfutter'],
+    [onmouseover^='tt("weiße Rose'],
+    [onmouseover^='tt("schwacher Tarnzauber"'],
+    [onmouseover^='tt("Holz'],
+    [onmouseover^='tt("Gewürzbohne'],
+    [onmouseover^='tt("Goldsieb'],
+    [onmouseover^='tt("Ingerium'],
+    [onmouseover^='tt("weiße Laubnelke'],
+    [onmouseover^='tt("Gewebewurm'],
+    [onmouseover^='tt("Blaukornsonnenblume'],
+    [onmouseover^='tt("toter Gewebewurm'],
+    [onmouseover^='tt("Rotkellerschimmel']
+  ) {
+  color: #47c57b;
+}
