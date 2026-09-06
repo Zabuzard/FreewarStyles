@@ -1,0 +1,225 @@
+/* Shows an arrow icon on the top left on map tiles that contain dungeon entrances or exits */
+
+#mapx51y73 a:before,/*Laree - Wachturm von Laree*/
+#mapx52y75 a:before,/*Laree - Unterkünfte*/
+#mapx53y76 a:before,/*Laree - Bank*/
+#mapx51y77 a:before,/*Laree - Schloss der Erbauer*/
+#mapx-53y-76 a:before,/*Laree - Keller von Laree*/
+#mapx-49004y-49002 a:before,/*Laree - Schloss der Erbauer*/
+#mapx-49002y-49004 a:before,/*Laree - Schloss der Erbauer - Atrium*/
+#mapx-50144-80880 a:before,/*Laree - Turm der Geister*/
+#mapx61y83 a:before,/*Kolun - Burg Hulnodar*/
+#mapx-246y-345 a:before,/*Kolun - Altes Gewölbe*/
+#mapx80y80 a:before,/*Urdanien - Steinmine (Nord)*/
+#mapx78y83 a:before,/*Urdanien - Steinmine (Süd)*/
+#mapx77y85 a:before,/*Urdanien - Siedesteinmine*/
+#mapx-339y-718 a:before,/*Urdanien - Siedesteinmine*/
+#mapx-340y-713 a:before,/*Urdanien - Steinmine*/
+#mapx-334y-711 a:before,/*Urdanien - Steinmine*/
+#mapx94y77 a:before,/*Ragnur - Höhleneingang*/
+#mapx94y80 a:before,/*Ragnur - Gewächshaus*/
+#mapx-257y-518 a:before,/*Ragnur - Gewächshaus*/
+#mapx108y77 a:before,/*Ragnur - Schrein der Weisen*/
+#mapx-647y-143 a:before,/*Ragnur - Schrein der Weisen*/
+#mapx-642y-148 a:before,/*Ragnur - Schrein der Weisen*/
+#mapx102y77 a:before,/*Ragnur - Finstereishöhle*/
+#mapx-178y-318 a:before,/*Ragnur - Finstereishöhle*/
+#mapx-165y-311 a:before,/*Ragnur - Finstereishöhle*/
+#mapx116y82 a:before,/*Lodradon - Finstereishöhle*/
+#mapx-508y-375 a:before,/*Lodradon - Organischer Turm*/
+#mapx118y72 a:before,/*Elufia (Moos) - Lavahöhle*/
+#mapx-12y-79 a:before,/*Elufia - Lavahöhle/Vulkanhöhle*/
+#mapx-12y-78 a:before,/*Elufia - Lavahöhle/Vulkanhöhle*/
+#mapx127y85 a:before,/*Ryn - Phasenenergiespeicher*/
+#mapx-250y-50 a:before,/*Ryn - Phasenspeicherkeller*/
+#mapx507y55 a:before,/*Narubia - Dunkles Haus*/
+#mapx-300y-300 a:before,/*Narubia - Dunkles Haus*/
+#mapx-319y-320 a:before,/*Narubia - Keller des dunklen Hauses*/
+#mapx83y81 a:before,/*Buran - Portal*/
+#mapx-314y195 a:before,/*Weltraum*/
+#mapx-313y195 a:before,/*Weltraum*/
+#mapx-314y194 a:before,/*Weltraum*/
+#mapx-313y194 a:before,/*Weltraum*/
+#mapx81y87 a:before,/*Buran - Keller*/
+#mapx82y87 a:before,/*Buran - Keller*/
+#mapx83y87 a:before,/*Buran - Keller*/
+#mapx84y87 a:before,/*Buran - Keller*/
+#mapx81y88 a:before,/*Buran - Keller*/
+#mapx82y88 a:before,/*Buran - Keller*/
+#mapx83y88 a:before,/*Buran - Keller*/
+#mapx84y88 a:before,/*Buran - Keller*/
+#mapx81y89 a:before,/*Buran - Keller*/
+#mapx82y89 a:before,/*Buran - Keller*/
+#mapx-200y-93 a:before,/*Buran - Keller*/
+#mapx-198y-98 a:before,/*Buran - Keller*/
+#mapx-196y-100 a:before,/*Buran - Keller*/
+#mapx-192y-93 a:before,/*Buran - Keller*/
+#mapx-191y-98 a:before,/*Buran - Keller*/
+#mapx-185y-97 a:before,/*Buran - Keller*/
+#mapx80y91 a:before,/*Buran - Schlachthof*/
+#mapx-224y-224 a:before,/*Buran - Schlachthof*/
+#mapx90y88 a:before,/*Hewien - Kampfgebiet*/
+#mapx92y92 a:before,/*Hewien - Kampfgebiet*/
+#mapx-1298y-1399 a:before,/*Hewien - Kampfgebiet*/
+#mapx-1294y-1393 a:before,/*Hewien - Kampfgebiet*/
+#mapx90y89 a:before,/*Hewien - Höhle der Säulen*/
+#mapx-548y-497 a:before,/*Hewien - Höhle der Säulen*/
+#mapx88y90 a:before,/*Hewien - Dunkle Höhle*/
+#mapx89y90 a:before,/*Hewien - Dunkle Höhle*/
+#mapx-559y-497 a:before,/*Hewien - Dunkle Höhle*/
+#mapx-558y-497 a:before,/*Hewien - Dunkle Höhle*/
+#mapx91y90 a:before,/*Hewien - Dunkle Tropfsteinhöhle*/
+#mapx-568y-495 a:before,/*Hewien - Dunkle Tropfsteinhöhle*/
+#mapx87y92 a:before,/*Hewien - Wasserhöhle*/
+#mapx-575y-497 a:before,/*Hewien - Wasserhöhle*/
+#mapx90y92 a:before,/*Hewien - Große Tropfsteinhöhle*/
+#mapx-585y-490 a:before,/*Hewien - Große Tropfsteinhöhle*/
+#mapx88y93 a:before,/*Hewien - Felsenwand*/
+#mapx-599y-498 a:before,/*Hewien - Felsenwand*/
+#mapx96y82 a:before,/*Latenia - Eishöhle*/
+#mapx-345y-693 a:before,/*Latenia - Eishöhle*/
+#mapx48y89 a:before,/*Belron - Tempel von Belron*/
+#mapx-717y-714 a:before,/*Belron - Tempel von Belron*/
+#mapx48y94 a:before,/*Belron - Der uralte Baum*/
+#mapx-230y-539 a:before,/*Belron - Nebelsumpf*/
+#mapx58y98 a:before,/*Dranar - Tore von Dranar*/
+#mapx-427y-293 a:before,/*Dranar (vor hunderten von Jahren)*/
+#mapx-896y-777 a:before,/*Dranar - Versiegeltes Haus*/
+#mapx62y95 a:before,/*Delos - Vergessene Kathedrale*/
+#mapx-288y-475 a:before,/*Delos - Vergessene Kathedrale (Ebene 1)*/
+#mapx-284y-476 a:before,/*Delos - Vergessene Kathedrale (Ebene 1)*/
+#mapx-289y-471 a:before,/*Delos - Vergessene Kathedrale (Ebene 2)*/
+#mapx-285y-471 a:before,/*Delos - Vergessene Kathedrale (Ebene 2)*/
+#mapx-289y-467 a:before,/*Delos - Vergessene Kathedrale (Ebene 3)*/
+#mapx82y92 a:before,/*Vergessenes Tal - Die Festung der dunklen Magier*/
+#mapx-818y-825 a:before,/*Vergessenes Tal - Festung (Verlies)*/
+#mapx85y97 a:before,/*Felsendorf - Sandsteinhöhlen*/
+#mapx86y97 a:before,/*Felsendorf - Sandsteinhöhlen*/
+#mapx-10004y-10005 a:before,/*Felsendorf - Sandsteinhöhlen*/
+#mapx-10001y-10005 a:before,/*Felsendorf - Sandsteinhöhlen*/
+#mapx94y96 a:before,/*Tal der Ruinen - Ruine*/
+#mapx-802y-807 a:before,/*Tal der Ruinen - Ruine*/
+#mapx94y97 a:before,/*Tal der Ruinen - Illegale Waldschlurch-Rennbahn*/
+#mapx-1000y-1000 a:before,/*Tal der Ruinen - Illegale Waldschlurch-Rennbahn*/
+#mapx94y90 a:before,/*Großer Fluss - Höhle*/
+#mapx97y90 a:before,/*Unbekannte Wiese*/
+#mapx97y96 a:before,/*Ferdolien - Tollo-Hütte*/
+#mapx-2359y-2359 a:before,/*Ferdolien - Tollo-Hütte*/
+#mapx111y96 a:before,/*Torihn - Gasthaus*/
+#mapx-19999y-19999 a:before,/*Torihn - Gasthaus*/
+#mapx-19994y-19998 a:before,/*Torihn - Gasthaus (Flur)*/
+#mapx118y91 a:before,/*Torihn - Nest*/
+#mapx-256y-29 a:before,/*Torihn - Nest*/
+#mapx119y93 a:before,/*Torihn - Holzbau*/
+#mapx-486y-156 a:before,/*Wolka*/
+#mapx131y90 a:before,/*Brondor - Ankerstelle*/
+#mapx119y104 a:before,/*Kuridan - Ankerstelle*/
+#mapx118y106 a:before,/*Kuridan - Steg*/
+#mapx261y93 a:before,/*Itolos - Kanone der Giganten*/
+#mapx78y98 a:before,/*Gobos - Hohler Baum*/
+#mapx-811y-826 a:before,/*Gobos - Hohler Baum*/
+#mapx87y104 a:before,/*Anatubien - Lava-Grotte*/
+#mapx-814y-812 a:before,/*Anatubien - Lava-Grotte*/
+#mapx-812y-810 a:before,/*Anatubien - Lava-Grotte*/
+#mapx-828y-809 a:before,/*Anatubien - Vulkangrotte*/
+#mapx-827y-809 a:before,/*Anatubien - Vulkangrotte*/
+#mapx-828y-808 a:before,/*Anatubien - Vulkangrotte*/
+#mapx-827y-808 a:before,/*Anatubien - Vulkangrotte*/
+#mapx-828y-807 a:before,/*Anatubien - Vulkangrotte*/
+#mapx-664y-665 a:before,/*Anatubien - Ixidion*/
+#mapx93y101 a:before,/*Wald des einsamen Baumes - Wirtshaus*/
+#mapx-10001y-10011 a:before,/*Wald des einsamen Baumes - Keller des Wirtshauses*/
+#mapx91y104 a:before,/*Wald des einsamen Baumes - Post*/
+#mapx92y105 a:before,/*Wald des einsamen Baumes - Bank*/
+#mapx92y104 a:before,/*Wald des einsamen Baumes - Diebeshöhle*/
+#mapx-934y-552 a:before,/*Wald des einsamen Baumes - Diebeshöhle*/
+#mapx98y98 a:before,/*Konlir - Ruhmeshalle*/
+#mapx-90y-90 a:before,/*Konlir - Ruhmeshalle*/
+#mapx98y102 a:before,/*Konlir - Werkstatt der Arbeiter*/
+#mapx-790y-786 a:before,/*Konlir - Kanalisation (Ebene 1)*/
+#mapx-787y-790 a:before,/*Konlir - Kanalisation (Ebene 1)*/
+#mapx-780y-790 a:before,/*Konlir - Dunkler Raum*/
+#mapx-780y-793 a:before,/*Konlir - Dunkler Raum*/
+#mapx-758y-752 a:before,/*Konlir - Kanalisation (Ebene 2)*/
+#mapx99y103 a:before,/*Konlir - Kathedrale*/
+#mapx-500y-500 a:before,/*Konlir - Kathedrale*/
+#mapx60y111 a:before,/*Tanien - Morscher Baum*/
+#mapx-18y-26 a:before,/*Tanien - Morscher Baum*/
+#mapx57y115 a:before,/*Tanien - Sägewerk*/
+#mapx-735y-229 a:before,/*Tanien - Sägewerk*/
+#mapx62y113 a:before,/*Tanien - Unterschlupf*/
+#mapx-209y-788 a:before,/*Tanien - Unterschlupf*/
+#mapx75y120 a:before,/*Terasi - Geheime Höhle*/
+#mapx78y124 a:before,/*Terasi - Urwaldhöhle*/
+#mapx-300y-194 a:before,/*Terasi - Urwaldhöhle*/
+#mapx95y112 a:before,/*Reikan - Steinsäulen*/
+#mapx98y109 a:before,/*Reikan - Friedhof*/
+#mapx-798y-800 a:before,/*Reikan - Grab von Reikan*/
+#mapx111y107 a:before,/*Nawor - Wurzeln*/
+#mapx-449y-449 a:before,/*Nawor - Wurzeln*/
+#mapx803y805 a:before,/*Düsterfrostinsel - Ankerstelle*/
+#mapx804y806 a:before,/*Düsterfrostinstel - Wrack der Sontra Fahr*/
+#mapx-851y-851 a:before,/*Düsterfrostinstel - Wrack der Sontra Fahr*/
+#mapx66y120 a:before,/*Etume - Aufgegebene Erzgrube*/
+#mapx-197y-299 a:before,/*Etume - Aufgegebene Erzgrube*/
+#mapx83y128 a:before,/*Alvor - Fischerhütten*/
+#mapx85y128 a:before,/*Alvor - Fischerhütten*/
+#mapx82y129 a:before,/*Alvor - Fischerhütten*/
+#mapx84y130 a:before,/*Alvor - Fischerhütten*/
+#mapx-227y-243 a:before,/*Alvor - Fischerhütten*/
+#mapx-224y-240 a:before,/*Alvor - Fischerhütten*/
+#mapx-221y-240 a:before,/*Alvor - Fischerhütten*/
+#mapx-221y-237 a:before,/*Alvor - Fischerhütten*/
+#mapx83y130 a:before,/*Alvor - Steg*/
+#mapx82y137 a:before,/*Insel der träumenden Quallen - Steg*/
+#mapx84y131 a:before,/*Alvor - Fischevent*/
+#mapx-229y-230 a:before,/*Alvor - Unterirdischer Sumpf*/
+#mapx101y117 a:before,/*Mentoran - Nomadenzelt*/
+#mapx-105y-95 a:before,/*Mentoran - Nomadenzelt*/
+#mapx93y141 a:before,/*Salthos - Einsame Insel*/
+#mapx103y136 a:before,/*Salthos - Ankerstelle*/
+#mapx114y135 a:before,/*Avarin - Seetangwald*/
+#mapx4y0 a:before,/*Avarin - Seetangwald*/
+#mapx117y121 a:before,/*Dorea - Ankerstelle*/
+#mapx122y113 a:before,/*Lardikia - Klippen*/
+#mapx123y114 a:before,/*Lardikia - Ankerstelle*/
+#mapx126y114 a:before,/*Lardikia - Ankerstelle*/
+#mapx-228y-365 a:before,/*Lardikia - Korallenriff*/
+#mapx132y117 a:before,/*Linya - Strand*/
+#mapx139y116 a:before,/*Linya - Ankerstelle*/
+#mapx135y125 a:before,/*Felseninsel - Ankerstelle*/
+#mapx151y120 a:before,/*Kreideinsel - Ankerstelle*/
+#mapx188y139 a:before,/*Belpharia (Westinsel) - Strand*/
+#mapx199y133 a:before,/*Belpharia (Hauptinsel) - Strand*/
+#mapx195y134 a:before,/*Belpharia (Hauptinsel) - Dunkler See*/
+#mapx-168y-858 a:before,/*Belpharia (Hauptinsel) - Dunkler See*/
+#mapx1006y1004 a:before,/*Gefrorene Insel - Eisige Höhle*/
+#mapx-542y-638 a:before,/*Gefrorene Insel - Eisige Höhle*/
+#mapx-807y-279 a:before,/*Krato - Blutwald*/
+#mapx-192y-86 a:before,/*Buran - Goldkammer*/
+#mapx-827y-919 a:before,/*Grotte des Todes*/
+#mapx-197y-396 a:before,/*Ruward - Gruft*/
+#mapx-470y-470 a:before,/*Götter-Tempel*/
+#mapx-467y-472 a:before,/*Götter-Tempel*/
+#mapx-290y-721 a:before,/*Hinter dem Wasserfall*/
+#mapx-195y-310 a:before,/*Kleiner Komet*/
+#mapx78y115 a:before,/*See des Friedens - Hohe Pflanzen*/
+#mapx-686y-346 a:before,/*See des Friedens - Kristallhöhle*/
+#mapx-204y-830 a:before,/*Ryn - Leuchtende Unterwelt*/
+#mapx-260y-260 a:before,/*Meridia - Quellruinen*/
+#mapx-532y-168 a:before,/*Hewien - Rotsteinhöhle*/
+#mapx-918y-177 a:before,/*Brondor - Schattenhöhle*/
+#mapx-850y-378 a:before,/*Hewien - Schimmernde Tiefen*/
+#mapx-237y-389 a:before,/*Orewu - Stachelhöhle*/
+#mapx-594y-448 a:before,/*Kanobien - Unterirdischer Lichtwald*/
+#mapx91y77 a:before,/*Ruinendorf - Versunkene Stadt*/
+#mapx-953y-342 a:before,/*Ruinendorf - Versunkene Stadt*/
+#mapx-200y-200 a:before,/*Ragnur - Verschwundene Halle*/
+#mapx-100y-104 a:before {/*Konlir - Zelle*/
+  content: url(https://zabuzard.github.io/FreewarStyles/img/map_dungeon.svg);
+  z-index: 1;
+  width: 50px;
+  position: absolute;
+  margin-left: -0px;
+  background: 0;
+}
