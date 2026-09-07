@@ -115,11 +115,13 @@
 #listrow_char_mission:has(a[title="Blick in die Seele"])::after { content: "Töte NPC bis Drop: Seelenkapsel."; }
 #listrow_char_mission:has(a[title="Unstimmigkeiten am Portal"])::after { content: "Nutze Portal bei Ziel-Ort."; }
 #listrow_char_mission:has(a[title="Das Wesen Horikon"])::after { content: "Gehe nach Linya - Der Tempel von Linya (134/115)."; }
+#listrow_char_mission:has(a[title="Säge allein im Wald"])::after { content: "Finde Säge auf Wald-Feld (Feldtext)."; }
+#listrow_char_mission:has(a[title="Ungereimtheiten auf hoher See"])::after { content: "Fahre an Ankerstelle mit Schiff nach Salthos, oder an Salthos - Hafen (103/136)."; }
 
 /* Multi-Part Jobs */
-#listrow_char_mission:has(a[title="Juwelenring"])::after { content: "Töte Ziel-NPC, bringe dreckigen Glitzerklumpen zurück."; }
-#listrow_char_mission:has(a[title="Juwelenring Teil 2"])::after { content: "Gehe zu Konlir - Großer See (99/100), trinke aus See bis fertig."; }
-#listrow_char_mission:has(a[title="Juwelenring Teil 3"])::after { content: "Bringe Ring nach Konlir - Dorf (98/102)."; }
+#listrow_char_mission:has(a[title="Der Juwelenring"])::after { content: "Töte Ziel-NPC, bringe dreckigen Glitzerklumpen zurück."; }
+#listrow_char_mission:has(a[title="Der Juwelenring Teil 2"])::after { content: "Gehe zu Konlir - Großer See (99/100), trinke aus See bis fertig."; }
+#listrow_char_mission:has(a[title="Der Juwelenring Teil 3"])::after { content: "Bringe Ring nach Konlir - Dorf (98/102)."; }
 
 #listrow_char_mission:has(a[title="Futtermangel"])::after { content: "Besorge Tierfutter (Taruner, MaHa)."; }
 #listrow_char_mission:has(a[title="Futtermangel Teil 2"])::after { content: "Nutze Tierfuttersack an Tal der Ruinen - Futterstelle (90/98)."; }
