@@ -19,23 +19,23 @@
 /* Single-Part Jobs */
 #listrow_char_mission:has(a[title="15 Spindelschreiter"])::after { content: "Töte 15 Spindelschreiter."; }
 #listrow_char_mission:has(a[title="5000 Tote"])::after { content: "Töte NPCs bis fertig."; }
-#listrow_char_mission:has(a[title="Allgemeine Aufklärung"])::after { content: "Gehe zu zufälligem Feld."; }
+#listrow_char_mission:has(a[title="Allgemeine Aufklärung"])::after { content: "Gehe zu Ziel-Feld."; }
 #listrow_char_mission:has(a[title="Betrug im Casino"])::after { content: "Spiele im Casino von Ferdolien."; }
 #listrow_char_mission:has(a[title="Brutale Population"])::after { content: "Töte 20 NPCs."; }
 #listrow_char_mission:has(a[title="Chaos in Belron"])::after { content: "Töte mindestens 10 Spindelschreiter in aufsteigender Stärke. Keine Sporenträger!"; }
 #listrow_char_mission:has(a[title="Das Artefakt von Dranar"])::after { content: "Hole Artefakt in Azul (105/127, 2-Felder Umkreis)."; }
-#listrow_char_mission:has(a[title="Das Brotmesser"])::after { content: "Bringe Brotmesser nach Sutranien - Der Zauberbaum (74/94)."; }
+#listrow_char_mission:has(a[title="Das Brotmesser"])::after { content: "Verstärke Brotmesser bei Sutranien - Der Zauberbaum (74/94)."; }
 #listrow_char_mission:has(a[title="Das große Verjagen"])::after { content: "(Frieden) Verjage 5 NPCs."; }
 #listrow_char_mission:has(a[title="Das Herz der Glypras"])::after { content: "Töte Glypras bis Drop: Herz der Glypra."; }
 #listrow_char_mission:has(a[title="Das kaputte Katapult"])::after { content: "Repariere Narubia - Katapult (501/57)."; }
 #listrow_char_mission:has(a[title="Das Portal"])::after { content: "Baue Messender in Koloa-Plantage, dann durch Portal in Buran (83/81)."; }
 #listrow_char_mission:has(a[title="Das Schabenproblem"])::after { content: "Töte 5 Geisterschaben."; }
-#listrow_char_mission:has(a[title="Der Alte vom Erzmagierturm"])::after { content: "Gehe nach Ruward - Turm der Erzmagier (72/103), hole zufälliges Item."; }
+#listrow_char_mission:has(a[title="Der Alte vom Erzmagierturm"])::after { content: "Gehe nach Ruward - Turm der Erzmagier (72/103), hole Ziel-Item."; }
 #listrow_char_mission:has(a[title="Der Briefbeschwerer"])::after { content: "Töte NPC bis Drop: Briefbeschwerer."; }
-#listrow_char_mission:has(a[title="Der diebische Blattalisk"])::after { content: "Töte Blattalisk bis Drop: Schlüssel von Mister Lorper."; }
+#listrow_char_mission:has(a[title="Der diebische Blattalisk"])::after { content: "Töte Blattalisk (Lardikia) bis Drop: Schlüssel von Mister Lorper."; }
 #listrow_char_mission:has(a[title="Der dunkle Felsen"])::after { content: "Gehe nach Sutranien - Dunkler Fels (70/89), lege Schafschergerät ab."; }
 #listrow_char_mission:has(a[title="Der Ektofronstachel"])::after { content: "Töte Ektofron bis Drop: Ektofronstachel."; }
-#listrow_char_mission:has(a[title="Der Ex-Mitarbeiter"])::after { content: "Gehe zu zufälligem Feld und verjage Thorom Logrid."; }
+#listrow_char_mission:has(a[title="Der Ex-Mitarbeiter"])::after { content: "Gehe zu Ziel-Feld und verjage Thorom Logrid."; }
 #listrow_char_mission:has(a[title="Der Grabräuber"])::after { content: "Töte Grabräuber in Orewu (110/115, 2-Felder Umkreis)."; }
 #listrow_char_mission:has(a[title="Der Schmierfink"])::after { content: "Töte Schmierfink (Das Denkmal, Ruhmeshalle, Die Kathedrale). Oder Krakelei mit Wasserwerfer säubern."; }
 #listrow_char_mission:has(a[title="Der Schutzauftrag"])::after { content: "(Frieden) Wende Auftragsschutz auf bestimmtes NPC an."; }
@@ -119,6 +119,7 @@
 #listrow_char_mission:has(a[title="Ungereimtheiten auf hoher See"])::after { content: "Fahre an Ankerstelle mit Schiff nach Salthos, oder an Salthos - Hafen (103/136)."; }
 #listrow_char_mission:has(a[title="Baumbewässerung"])::after { content: "Nutze verzaubertes Wasser an Ziel-Ort bei Loranien - Baumzucht."; }
 #listrow_char_mission:has(a[title="Der Steinturm"])::after { content: "Bringe Warnschild des AdH nach Ruinendorf - Steinturm (91/77)."; }
+#listrow_char_mission:has(a[title="Die junge Zauberin"])::after { content: "Töte 3 Ziel-NPCs für Zauberfunken, dann Laree - Flüsterwald (55/86)."; }
 
 /* Multi-Part Jobs */
 #listrow_char_mission:has(a[title="Der Juwelenring"])::after { content: "Töte Ziel-NPC, bringe dreckigen Glitzerklumpen zurück."; }
