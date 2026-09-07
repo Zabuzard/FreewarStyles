@@ -113,6 +113,8 @@
 #listrow_char_mission:has(a[title="zuviele Farben"])::after { content: "Töte 3 Farbanomalien in Laree."; }
 #listrow_char_mission:has(a[title="Ölmangel"])::after { content: "Verkaufe ein Ölfass an Buran - Schmiede (85/90)."; }
 #listrow_char_mission:has(a[title="Blick in die Seele"])::after { content: "Töte NPC bis Drop: Seelenkapsel."; }
+#listrow_char_mission:has(a[title="Unstimmigkeiten am Portal"])::after { content: "Nutze Portal bei Ziel-Ort."; }
+#listrow_char_mission:has(a[title="Das Wesen Horikon"])::after { content: "Gehe nach Linya - Der Tempel von Linya (134/115)."; }
 
 /* Multi-Part Jobs */
 #listrow_char_mission:has(a[title="Juwelenring"])::after { content: "Töte Ziel-NPC, bringe dreckigen Glitzerklumpen zurück."; }
@@ -202,7 +204,7 @@
 #listrow_char_mission:has(a[title="Die Zaubertruhe"])::after { content: "Öffne die Zaubertruhe des AdH (Stufe 1-4)."; }
 #listrow_char_mission:has(a[title="Die Zaubertruhe Teil 2"])::after { content: "Bringe 50 GM nach Ziel-Ort."; }
 
-#listrow_char_mission:has(a[title="Energie für Narubia"])::after { content: "Lade leere Energiespähre an Energiewürmern in Dorea auf."; }
+#listrow_char_mission:has(a[title="Energie für Narubia"])::after { content: "Nutze leere Energiespähre an Energiewurm in Dorea."; }
 #listrow_char_mission:has(a[title="Energie für Narubia Teil 2"])::after { content: "Gehe nach Narubia - Haus der Finsternis (501/54)."; }
 
 #listrow_char_mission:has(a[title="Der Dämonenhund"])::after { content: "Hole verschlossener Hundekäfig von Delos (61/94)."; }
@@ -243,3 +245,6 @@
 
 #listrow_char_mission:has(a[title="Die Wachtelnachzucht"])::after { content: "Gehe nach Kerdis - Knorriger Baum (90/115)."; }
 #listrow_char_mission:has(a[title="Die Wachtelnachzucht Teil 2"])::after { content: "Nutze Nest voll Wachteleier in Pflefir bis fertig."; }
+
+#listrow_char_mission:has(a[title="Steginspektion"])::after { content: "Gehe nach Alvor - Fischerdorf (83/130)."; }
+#listrow_char_mission:has(a[title="Steginspektion Teil 2"])::after { content: "Gehe wieder nach Alvor - Fischerdorf (83/130)."; }
