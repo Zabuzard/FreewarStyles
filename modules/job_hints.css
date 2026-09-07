@@ -109,7 +109,7 @@
 #listrow_char_mission:has(a[title="Verschneite Wege"])::after { content: "Nutze verbesserte Schneeschaufel in Wilisien - Schneedorf (111/83) bis fertig."; }
 #listrow_char_mission:has(a[title="Wissenschaftliches Arbeiten"])::after { content: "Nutze Messgerät des AdH an Brotandro-Virus in Avarin."; }
 #listrow_char_mission:has(a[title="Zurückzahlung der Schulden"])::after { content: "Finde schmierigen Geschäftemacher. Nicht töten!"; }
-#listrow_char_mission:has(a[title="Zu viele Hulnodar-Heiler"])::after { content: "Töte 3 Hulnodar-Heiler in Kolun - Burg von Hulnodar (61/83)."; }
+#listrow_char_mission:has(a[title="Zuviele Hulnodar-Heiler"])::after { content: "Töte 3 Hulnodar-Heiler in Kolun - Burg von Hulnodar (61/83)."; }
 #listrow_char_mission:has(a[title="zuviele Farben"])::after { content: "Töte 3 Farbanomalien in Laree."; }
 #listrow_char_mission:has(a[title="Ölmangel"])::after { content: "Verkaufe ein Ölfass an Buran - Schmiede (85/90)."; }
 #listrow_char_mission:has(a[title="Blick in die Seele"])::after { content: "Töte NPC bis Drop: Seelenkapsel."; }
@@ -138,7 +138,7 @@
 #listrow_char_mission:has(a[title="Das Attentat Teil 2"])::after { content: "Töte Kurnotan getarnt (z.b. schwacher Tarnzauber). Dranar - Stadt (58/99)."; }
 
 #listrow_char_mission:has(a[title="Die Bedrohung"])::after { content: "Nutze Stahlkäfig auf Baby-Einflügler bei Rovonia - Steile Klippen (70/80)."; }
-#listrow_char_mission:has(a[title="Die Bedrohung Teil 2"])::after { content: "Nutze Gift gegen einen Einflügler."; }
+#listrow_char_mission:has(a[title="Die Bedrohung Teil 2"])::after { content: "Nutze Gift gegen einen Einflügler, dann töte ihn."; }
 
 #listrow_char_mission:has(a[title="Die verwesten Bürger"])::after { content: "Hole Holz, finde rostigen Nagel in Buran, nutze Hammer des AdH in Buran - Westbereich (80/87)."; }
 #listrow_char_mission:has(a[title="Die verwesten Bürger Teil 2"])::after { content: "Töte untoten Bürger in Buran bis Drop: Untoter Knochen."; }
