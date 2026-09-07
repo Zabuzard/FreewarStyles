@@ -120,6 +120,8 @@
 #listrow_char_mission:has(a[title="Baumbewässerung"])::after { content: "Nutze verzaubertes Wasser an Ziel-Ort bei Loranien - Baumzucht."; }
 #listrow_char_mission:has(a[title="Der Steinturm"])::after { content: "Bringe Warnschild des AdH nach Ruinendorf - Steinturm (91/77)."; }
 #listrow_char_mission:has(a[title="Die junge Zauberin"])::after { content: "Töte 3 Ziel-NPCs für Zauberfunken, dann Laree - Flüsterwald (55/86)."; }
+#listrow_char_mission:has(a[title="Die Suche nach Geron Ther"])::after { content: "Nutze verbesserte Schneeschaufel bei Wilisien - Ewiger Schnee (108/87)."; }
+#listrow_char_mission:has(a[title="Der Historiker"])::after { content: "Gehe nach Elrya - Wallende Fluten (71/136, Portalmaschine)."; }
 
 /* Multi-Part Jobs */
 #listrow_char_mission:has(a[title="Der Juwelenring"])::after { content: "Töte Ziel-NPC, bringe dreckigen Glitzerklumpen zurück."; }
@@ -225,7 +227,7 @@
 #listrow_char_mission:has(a[title="Die mysteriösen Pflanzensamen Teil 2"])::after { content: "Nutze kleiner Beutel mit Pflanzensamen an Ziel-Ort."; }
 
 #listrow_char_mission:has(a[title="Die Grotte des Todes"])::after { content: "Gehe nach Ziel-Ort (in der Nähe)."; }
-#listrow_char_mission:has(a[title="Die Grotte des Todes Teil 2"])::after { content: "Gehe zum südlichsten Punkt der Grotte des Todes (Portalmaschine)."; }
+#listrow_char_mission:has(a[title="Die Grotte des Todes Teil 2"])::after { content: "Gehe zum südlichsten Punkt der Grotte des Todes (-826/-901, Portalmaschine)."; }
 
 #listrow_char_mission:has(a[title="Die Drucknuss"])::after { content: "Gehe nach Konlir - Wiesen von Konlir (98/103)."; }
 #listrow_char_mission:has(a[title="Die Drucknuss Teil 2"])::after { content: "Besorge Drucknuss (z.b. an Ziel-Ort ausgraben)."; }
@@ -253,3 +255,6 @@
 
 #listrow_char_mission:has(a[title="Steginspektion"])::after { content: "Gehe nach Alvor - Fischerdorf (83/130)."; }
 #listrow_char_mission:has(a[title="Steginspektion Teil 2"])::after { content: "Gehe wieder nach Alvor - Fischerdorf (83/130)."; }
+
+#listrow_char_mission:has(a[title="Die Wurzel der Oase"])::after { content: "Nutze versiegelter Wasserwurzelbaum des AdH auf beliebigem Feld in Doma (Position merken, darf kein anderes NPC haben)."; }
+#listrow_char_mission:has(a[title="Die Wurzel der Oase Teil 2"])::after { content: "Nutze Eimer des AdH bei Felsendorf - Jungbrunnen (84/97). Nutze nochmal bei Doma - Dornige Steine (99/126). Nutze erneut beim Wasserwurzelbaum."; }
