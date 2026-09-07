@@ -153,7 +153,8 @@ with a too strong aggressive NPC.
 ### `map_job_npcs.css`
 
 Highlights locations on the map that can spawn NPCs relevant for jobs
-(_Auftragshaus_), so finishing jobs becomes easier.
+(_Auftragshaus_), as well as other locations relevant for jobs, so finishing
+them becomes easier.
 
 ![Job NPC Map](https://i.vgy.me/aUFkWc.jpg)
 
