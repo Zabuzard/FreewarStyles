@@ -18,7 +18,7 @@
 
 /* Single-Part Jobs */
 #listrow_char_mission:has(a[title="15 Spindelschreiter"])::after { content: "Töte 15 Spindelschreiter."; }
-#listrow_char_mission:has(a[title="5000 Tote"])::after { content: "Töte NPCs."; }
+#listrow_char_mission:has(a[title="5000 Tote"])::after { content: "Töte NPCs bis fertig."; }
 #listrow_char_mission:has(a[title="Allgemeine Aufklärung"])::after { content: "Gehe zu zufälligem Feld."; }
 #listrow_char_mission:has(a[title="Betrug im Casino"])::after { content: "Spiele im Casino von Ferdolien."; }
 #listrow_char_mission:has(a[title="Brutale Population"])::after { content: "Töte 20 NPCs."; }
@@ -60,7 +60,7 @@
 #listrow_char_mission:has(a[title="Die resistente Bedrohung"])::after { content: "Töte ein (Super-)Resistenz-NPC."; }
 #listrow_char_mission:has(a[title="Die Schmerzfalle"])::after { content: "Nutze Schmerzfalle an bestimmten Ort."; }
 #listrow_char_mission:has(a[title="Die Seilbahn"])::after { content: "Fliege vom AdH zum Zielort (direkter Weg) und nutze Seilrolle."; }
-#listrow_char_mission:has(a[title="Die Tischdecke"])::after { content: "Bringe Tischdecke nach zufälligen Ort."; }
+#listrow_char_mission:has(a[title="Die Tischdecke"])::after { content: "Bringe Tischdecke nach Ziel-Ort."; }
 #listrow_char_mission:has(a[title="Die Unkrautplage"])::after { content: "Nutze Pflanzengift an bestimmter Position."; }
 #listrow_char_mission:has(a[title="Die vergessene Kiste"])::after { content: "Hole Kiste des AdH an bestimmter Position, nutze Schlüssel des AdH."; }
 #listrow_char_mission:has(a[title="Die Welt regulieren"])::after { content: "Töte bestimmtes NPC in Nähe."; }
@@ -117,10 +117,12 @@
 #listrow_char_mission:has(a[title="Das Wesen Horikon"])::after { content: "Gehe nach Linya - Der Tempel von Linya (134/115)."; }
 #listrow_char_mission:has(a[title="Säge allein im Wald"])::after { content: "Finde Säge auf Wald-Feld (Feldtext)."; }
 #listrow_char_mission:has(a[title="Ungereimtheiten auf hoher See"])::after { content: "Fahre an Ankerstelle mit Schiff nach Salthos, oder an Salthos - Hafen (103/136)."; }
+#listrow_char_mission:has(a[title="Baumbewässerung"])::after { content: "Nutze verzaubertes Wasser an Ziel-Ort bei Loranien - Baumzucht."; }
+#listrow_char_mission:has(a[title="Der Steinturm"])::after { content: "Bringe Warnschild des AdH nach Ruinendorf - Steinturm (91/77)."; }
 
 /* Multi-Part Jobs */
 #listrow_char_mission:has(a[title="Der Juwelenring"])::after { content: "Töte Ziel-NPC, bringe dreckigen Glitzerklumpen zurück."; }
-#listrow_char_mission:has(a[title="Der Juwelenring Teil 2"])::after { content: "Gehe zu Konlir - Großer See (99/100), trinke aus See bis fertig."; }
+#listrow_char_mission:has(a[title="Der Juwelenring Teil 2"])::after { content: "Gehe zu Konlir - Großer See (99/100), trinke aus See bis Juwelenring."; }
 #listrow_char_mission:has(a[title="Der Juwelenring Teil 3"])::after { content: "Bringe Ring nach Konlir - Dorf (98/102)."; }
 
 #listrow_char_mission:has(a[title="Futtermangel"])::after { content: "Besorge Tierfutter (Taruner, MaHa)."; }
