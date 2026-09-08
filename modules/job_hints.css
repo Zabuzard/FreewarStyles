@@ -59,7 +59,7 @@
 #listrow_char_mission:has(a[title="Die Phasenwesen"])::after { content: "Finde eine Phasenkugel."; }
 #listrow_char_mission:has(a[title="Die resistente Bedrohung"])::after { content: "Töte ein (Super-)Resistenz-NPC."; }
 #listrow_char_mission:has(a[title="Die Schmerzfalle"])::after { content: "Nutze Schmerzfalle an Ziel-Ort."; }
-#listrow_char_mission:has(a[title="Die Seilbahn"])::after { content: "(Beeilung!) Fliege vom HdA zum Ziel-Ort (direkter Weg) und nutze Seilrolle."; }
+#listrow_char_mission:has(a[title="Die Seilbahn"])::after { content: "(Beeilung!) Fliege vom HdA zum Ziel-Ort (direkter Weg) und nutze Seilrolle (Teleport NICHT OK)."; }
 #listrow_char_mission:has(a[title="Die Tischdecke"])::after { content: "Bringe Tischdecke nach Ziel-Ort."; }
 #listrow_char_mission:has(a[title="Die Unkrautplage"])::after { content: "Nutze Pflanzengift an Ziel-Ort."; }
 #listrow_char_mission:has(a[title="Die vergessene Kiste"])::after { content: "Hole Kiste des HdA von Ziel-Ort, nutze Schlüssel des HdA."; }
@@ -69,14 +69,14 @@
 #listrow_char_mission:has(a[title="Diebesgut"])::after { content: "Nutze Auftragsdiebstahlzauber um Ziel-NPC zu beklauen. Nicht töten!"; }
 #listrow_char_mission:has(a[title="Doppelköpfige Bestie"])::after { content: "Kutschfahrt mit zweitem Spieler, besiege doppelköpfige Bestie, fahre Kutsche zurück (gebe Freund 1k Belohnung)."; }
 #listrow_char_mission:has(a[title="Effizienzsteigerung"])::after { content: "(Beeilung!) Nutze Zauberöl: roter Donner. Töte 20 NPC mit der Waffe."; }
-#listrow_char_mission:has(a[title="Einsatzbereitschaft zeigen"])::after { content: "Gehe zu Ziel und zurück zum HdA auf kürzestem Weg."; }
+#listrow_char_mission:has(a[title="Einsatzbereitschaft zeigen"])::after { content: "Gehe zu Ziel und zurück zum HdA auf kürzestem Weg (Teleport OK)."; }
 #listrow_char_mission:has(a[title="Essenszeit"])::after { content: "Besorge Steak mit Augen (30LP für Bonus, Messingwok + Kuhkopf)."; }
 #listrow_char_mission:has(a[title="Falterchaos"])::after { content: "Fange temporalen Falter mit Falterfangnetz."; }
 #listrow_char_mission:has(a[title="Frische Luft"])::after { content: "Nutze Windbeutel des HdA auf Wald/Wind-Feld (z.b. Gobos), nutze erneut an Ziel-Ort."; }
-#listrow_char_mission:has(a[title="Frostbrand"])::after { content: "Nutze Frostbrand auf Ziel-Person."; }
+#listrow_char_mission:has(a[title="Frostbrand"])::after { content: "Nutze Verbandskasten/Frostbrand auf Ziel-Person."; }
 #listrow_char_mission:has(a[title="Für die Sicherheit"])::after { content: "Verjage 10 NPCs."; }
 #listrow_char_mission:has(a[title="Haus aus Schnee"])::after { content: "Baue Haus auf Schnee-Feld (nicht Wilisien). Großes Haus für Bonus."; }
-#listrow_char_mission:has(a[title="Heilung benötigt"])::after { content: "Nutze Verbandskasten auf Ziel-Person."; }
+#listrow_char_mission:has(a[title="Heilung benötigt"])::after { content: "Nutze Verbandskasten/Frostbrand auf Ziel-Person."; }
 #listrow_char_mission:has(a[title="Heilung der Schwachen"])::after { content: "(Frieden!) Nutze Heilzauber der Geistlosen auf Ziel-NPC."; }
 #listrow_char_mission:has(a[title="In geheimer Mission"])::after { content: "Gehe nach Loranien - Turm der Clan-Energie (79/114), füttere Waschbär mit Tierfutter."; }
 #listrow_char_mission:has(a[title="Itolos-Leder"])::after { content: "Töte Stachelschildkröte (Bonus, Itolos) oder Todesmoor-Krokodil (Krato) bis Drop: Itolos-Leder."; }
@@ -100,7 +100,7 @@
 #listrow_char_mission:has(a[title="Schattenmoos"])::after { content: "Nutze schwarze Zauberkugel, töte in Schattenhöhle bis Drop: Schattenmoosextrakt (nicht rauslaufen)."; }
 #listrow_char_mission:has(a[title="Schaufelmaulwürfe"])::after { content: "Nutze Klopfstock, töte 5 Schaufelmaulwürfe (z.b. Das vergessene Tal GZK-Punkt)."; }
 #listrow_char_mission:has(a[title="Schneller Tod"])::after { content: "(Beeilung!) Töte Ziel-NPC in 4 Minuten."; }
-#listrow_char_mission:has(a[title="Spaziergang mit roter Mütze"])::after { content: "Gehe zu Ziel-Ort (direkter Weg, keine Dungeons oder Teleport)."; }
+#listrow_char_mission:has(a[title="Spaziergang mit roter Mütze"])::after { content: "Gehe zu Ziel-Ort (direkter Weg, keine Dungeons, Teleport NICHT OK)."; }
 #listrow_char_mission:has(a[title="Tiefgekühlte Proben"])::after { content: "Nutze Kühlbox auf gefrorenen Insel (eisiger Teleporter: Glodo-Fisch, kleiner Energiesplitter)."; }
 #listrow_char_mission:has(a[title="Tod den Schatten"])::after { content: "Töte 5 Schatten der Dunkelheit in Ryn."; }
 #listrow_char_mission:has(a[title="Ungesunde Population"])::after { content: "Töte 10 NPCs."; }
@@ -123,6 +123,7 @@
 #listrow_char_mission:has(a[title="Die Suche nach Geron Ther"])::after { content: "Nutze verbesserte Schneeschaufel bei Wilisien - Ewiger Schnee (108/87)."; }
 #listrow_char_mission:has(a[title="Der Historiker"])::after { content: "Gehe nach Elrya - Wallende Fluten (71/136, Portalmaschine)."; }
 #listrow_char_mission:has(a[title="Zuviele Farben"])::after { content: "Töte 3 Farbanomalien in Laree - Stadt."; }
+#listrow_char_mission:has(a[title="Der agrikulturelle Missstand"])::after { content: "Nutze Düngermittel an Torihn - Getreidefelder (117/94)."; }
 
 /* Multi-Part Jobs */
 #listrow_char_mission:has(a[title="Der Juwelenring"])::after { content: "Töte Ziel-NPC, bringe dreckigen Glitzerklumpen zurück."; }
