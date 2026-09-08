@@ -248,7 +248,7 @@
 #listrow_char_mission:has(a[title="Astforschung Teil 2"])::after { content: "Nutze schwarze ZK und töte 3 NPCs im Blutwald."; }
 
 #listrow_char_mission:has(a[title="Ablenkung mit Knalleffekt"])::after { content: "Zerstöre Ziel-Ort mit Bombe des HdA."; }
-#listrow_char_mission:has(a[title="Ablenkung mit Knalleffekt Teil 2"])::after { content: "Bestrafe Höhlenmensch in Sandsteinhöhlen (Schlucht der Sandsteine). Anbrüllen, dann Verjagen."; }
+#listrow_char_mission:has(a[title="Ablenkung mit Knalleffekt Teil 2"])::after { content: "Bestrafe Höhlenmensch in Schlucht der Sandsteine - Sandsteinhöhlen (-10001/-10004). Anbrüllen, dann Verjagen."; }
 
 #listrow_char_mission:has(a[title="Die Wachtelnachzucht"])::after { content: "Gehe nach Kerdis - Knorriger Baum (90/115)."; }
 #listrow_char_mission:has(a[title="Die Wachtelnachzucht Teil 2"])::after { content: "Nutze Nest voll Wachteleier in Pflefir bis fertig."; }
