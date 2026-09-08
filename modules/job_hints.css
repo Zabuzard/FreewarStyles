@@ -122,6 +122,7 @@
 #listrow_char_mission:has(a[title="Die junge Zauberin"])::after { content: "Töte 3 Ziel-NPCs für Zauberfunken, dann Laree - Flüsterwald (55/86)."; }
 #listrow_char_mission:has(a[title="Die Suche nach Geron Ther"])::after { content: "Nutze verbesserte Schneeschaufel bei Wilisien - Ewiger Schnee (108/87)."; }
 #listrow_char_mission:has(a[title="Der Historiker"])::after { content: "Gehe nach Elrya - Wallende Fluten (71/136, Portalmaschine)."; }
+#listrow_char_mission:has(a[title="Zuviele Farben"])::after { content: "Töte 3 Farbanomalien in Laree - Stadt."; }
 
 /* Multi-Part Jobs */
 #listrow_char_mission:has(a[title="Der Juwelenring"])::after { content: "Töte Ziel-NPC, bringe dreckigen Glitzerklumpen zurück."; }
@@ -238,7 +239,7 @@
 #listrow_char_mission:has(a[title="Kleine Schrecken"])::after { content: "Nutze Kristall der Miniaturisierung gegen ein NPC."; }
 #listrow_char_mission:has(a[title="Kleine Schrecken Teil 2"])::after { content: "Nutze schreckliches NPC gegen Ziel-Person."; }
 
-#listrow_char_mission:has(a[title="Vernichtung der Beweise"])::after { content: "Nutze Alte Akten des HdA auf Ziel-Ort in Terasi - Fluss"; }
+#listrow_char_mission:has(a[title="Vernichtung der Beweise"])::after { content: "Bringe Alte Akten des HdA nach Ziel-Ort in Terasi - Fluss"; }
 #listrow_char_mission:has(a[title="Vernichtung der Beweise Teil 2"])::after { content: "Nutze Stillezauber des HdA gegen Ziel-Person, oder setze Kopfgeld aus (Gobos - Kopfgeldjäger (76/98)).‎"; }
 
 #listrow_char_mission:has(a[title="Geistersiegel"])::after { content: "(Frieden!) Nutze Geistersiegel an Ziel-Kontrollturm."; }
