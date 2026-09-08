@@ -19,26 +19,26 @@
 /* Single-Part Jobs */
 #listrow_char_mission:has(a[title="15 Spindelschreiter"])::after { content: "Töte 15 Spindelschreiter."; }
 #listrow_char_mission:has(a[title="5000 Tote"])::after { content: "Töte NPCs bis fertig."; }
-#listrow_char_mission:has(a[title="Allgemeine Aufklärung"])::after { content: "Gehe zu Ziel-Feld."; }
+#listrow_char_mission:has(a[title="Allgemeine Aufklärung"])::after { content: "(Beeilung!) Gehe zu Ziel-Feld."; }
 #listrow_char_mission:has(a[title="Betrug im Casino"])::after { content: "Spiele im Casino von Ferdolien."; }
 #listrow_char_mission:has(a[title="Brutale Population"])::after { content: "Töte 20 NPCs."; }
 #listrow_char_mission:has(a[title="Chaos in Belron"])::after { content: "Töte mindestens 10 Spindelschreiter in aufsteigender Stärke. Keine Sporenträger!"; }
 #listrow_char_mission:has(a[title="Das Artefakt von Dranar"])::after { content: "Hole Artefakt in Azul (105/127, 2-Felder Umkreis)."; }
 #listrow_char_mission:has(a[title="Das Brotmesser"])::after { content: "Verstärke Brotmesser bei Sutranien - Der Zauberbaum (74/94)."; }
-#listrow_char_mission:has(a[title="Das große Verjagen"])::after { content: "(Frieden) Verjage 5 NPCs."; }
+#listrow_char_mission:has(a[title="Das große Verjagen"])::after { content: "(Frieden!) Verjage 5 NPCs."; }
 #listrow_char_mission:has(a[title="Das Herz der Glypras"])::after { content: "Töte Glypras bis Drop: Herz der Glypra."; }
-#listrow_char_mission:has(a[title="Das kaputte Katapult"])::after { content: "Repariere Narubia - Katapult (501/57)."; }
+#listrow_char_mission:has(a[title="Das kaputte Katapult"])::after { content: "(Beeilung!) Repariere Narubia - Katapult (501/57)."; }
 #listrow_char_mission:has(a[title="Das Portal"])::after { content: "Baue Messender in Koloa-Plantage, dann durch Portal in Buran (83/81)."; }
 #listrow_char_mission:has(a[title="Das Schabenproblem"])::after { content: "Töte 5 Geisterschaben."; }
-#listrow_char_mission:has(a[title="Der Alte vom Erzmagierturm"])::after { content: "Gehe nach Ruward - Turm der Erzmagier (72/103), hole Ziel-Item."; }
+#listrow_char_mission:has(a[title="Der Alte vom Erzmagierturm"])::after { content: "(Beeilung!) Gehe nach Ruward - Turm der Erzmagier (72/103), hole Ziel-Item."; }
 #listrow_char_mission:has(a[title="Der Briefbeschwerer"])::after { content: "Töte NPC bis Drop: Briefbeschwerer."; }
 #listrow_char_mission:has(a[title="Der diebische Blattalisk"])::after { content: "Töte Blattalisk (Lardikia) bis Drop: Schlüssel von Mister Lorper."; }
-#listrow_char_mission:has(a[title="Der dunkle Felsen"])::after { content: "Gehe nach Sutranien - Dunkler Fels (70/89), lege Schafschergerät ab."; }
+#listrow_char_mission:has(a[title="Der dunkle Felsen"])::after { content: "(Beeilung!) Gehe nach Sutranien - Dunkler Fels (70/89), lege Schafschergerät ab."; }
 #listrow_char_mission:has(a[title="Der Ektofronstachel"])::after { content: "Töte Ektofron bis Drop: Ektofronstachel."; }
 #listrow_char_mission:has(a[title="Der Ex-Mitarbeiter"])::after { content: "Gehe zu Ziel-Feld und verjage Thorom Logrid."; }
 #listrow_char_mission:has(a[title="Der Grabräuber"])::after { content: "Töte Grabräuber in Orewu (110/115, 2-Felder Umkreis)."; }
 #listrow_char_mission:has(a[title="Der Schmierfink"])::after { content: "Töte Schmierfink (Das Denkmal, Ruhmeshalle, Die Kathedrale). Oder Krakelei mit Wasserwerfer säubern."; }
-#listrow_char_mission:has(a[title="Der Schutzauftrag"])::after { content: "(Frieden) Wende Auftragsschutz auf Ziel-NPC an."; }
+#listrow_char_mission:has(a[title="Der Schutzauftrag"])::after { content: "(Frieden!) Wende Auftragsschutz auf Ziel-NPC an."; }
 #listrow_char_mission:has(a[title="Der verlorene Meterstab"])::after { content: "Finde Meterstab in Ragnur."; }
 #listrow_char_mission:has(a[title="Der verschüttete Eingang"])::after { content: "Nutze Schaufel des HdA auf Anatubien - Vulkangrotte (87/104)."; }
 #listrow_char_mission:has(a[title="Der wahnsinnige Waldschlurch"])::after { content: "Töte wahnsinnigen Waldschlurch."; }
@@ -48,27 +48,27 @@
 #listrow_char_mission:has(a[title="Die dunkle Macht"])::after { content: "Töte 3 NPCs mit mindestens A:20."; }
 #listrow_char_mission:has(a[title="Die einzigartige Bedrohung"])::after { content: "Töte ein Unique- oder Gruppen-NPC (z.b. Alte Mühle)."; }
 #listrow_char_mission:has(a[title="Die Fallenentschärfung"])::after { content: "Entschärfe eine Falle mit Fallenentschärfer (z.b. Belpharia oder HdA Stolperfalle)."; }
-#listrow_char_mission:has(a[title="Die Feuerstelle"])::after { content: "Nutze Fackel des HdA an Narow - Feuerstelle (113/106)."; }
+#listrow_char_mission:has(a[title="Die Feuerstelle"])::after { content: "(Beeilung!) Nutze Fackel des HdA an Narow - Feuerstelle (113/106)."; }
 #listrow_char_mission:has(a[title="Die Finstereis-Höhle"])::after { content: "Durchquere Finstereishöhle von Ragnur (102/77) aus."; }
 #listrow_char_mission:has(a[title="Die Gefahr"])::after { content: "Töte 5 NPCs mit mindestens A:10 (z.b. Glypra, Spindelschreiter)."; }
 #listrow_char_mission:has(a[title="Die gezielte Verjagung"])::after { content: "Verjage ein Ziel-NPC."; }
 #listrow_char_mission:has(a[title="Die Handwerkshalle"])::after { content: "Nutze Absperrband in Laree - Handwerkshalle (53/77)."; }
-#listrow_char_mission:has(a[title="Die Kutschfahrt"])::after { content: "Begleite Kutsche des HdA zu Ziel."; }
+#listrow_char_mission:has(a[title="Die Kutschfahrt"])::after { content: "(Beeilung!) Begleite Kutsche des HdA zu Ziel."; }
 #listrow_char_mission:has(a[title="Die Müllentsorgung"])::after { content: "Nutze Giftiger Müll in Kanobien - Wasserfall (75/99)."; }
 #listrow_char_mission:has(a[title="Die Order"])::after { content: "Bringe Versiegelter Brief zur Börse."; }
 #listrow_char_mission:has(a[title="Die Phasenwesen"])::after { content: "Finde eine Phasenkugel."; }
 #listrow_char_mission:has(a[title="Die resistente Bedrohung"])::after { content: "Töte ein (Super-)Resistenz-NPC."; }
 #listrow_char_mission:has(a[title="Die Schmerzfalle"])::after { content: "Nutze Schmerzfalle an Ziel-Ort."; }
-#listrow_char_mission:has(a[title="Die Seilbahn"])::after { content: "Fliege vom HdA zum Ziel-Ort (direkter Weg) und nutze Seilrolle."; }
+#listrow_char_mission:has(a[title="Die Seilbahn"])::after { content: "(Beeilung!) Fliege vom HdA zum Ziel-Ort (direkter Weg) und nutze Seilrolle."; }
 #listrow_char_mission:has(a[title="Die Tischdecke"])::after { content: "Bringe Tischdecke nach Ziel-Ort."; }
 #listrow_char_mission:has(a[title="Die Unkrautplage"])::after { content: "Nutze Pflanzengift an Ziel-Ort."; }
 #listrow_char_mission:has(a[title="Die vergessene Kiste"])::after { content: "Hole Kiste des HdA von Ziel-Ort, nutze Schlüssel des HdA."; }
-#listrow_char_mission:has(a[title="Die Welt regulieren"])::after { content: "Töte Ziel-NPC in Nähe."; }
+#listrow_char_mission:has(a[title="Die Welt regulieren"])::after { content: "(Beeilung!) Töte Ziel-NPC in Nähe."; }
 #listrow_char_mission:has(a[title="Die Wette"])::after { content: "Töte NPC in aufsteigender Stärke. Spindelschreiter werden ignoriert."; }
 #listrow_char_mission:has(a[title="Die Windwiesen"])::after { content: "Finde HdA Mitarbeiter bei Torihn - Die Windwiesen (111/94)."; }
 #listrow_char_mission:has(a[title="Diebesgut"])::after { content: "Nutze Auftragsdiebstahlzauber um Ziel-NPC zu beklauen. Nicht töten!"; }
 #listrow_char_mission:has(a[title="Doppelköpfige Bestie"])::after { content: "Kutschfahrt mit zweitem Spieler, besiege doppelköpfige Bestie, fahre Kutsche zurück (gebe Freund 1k Belohnung)."; }
-#listrow_char_mission:has(a[title="Effizienzsteigerung"])::after { content: "Nutze Zauberöl: roter Donner. Töte 20 NPC mit der Waffe."; }
+#listrow_char_mission:has(a[title="Effizienzsteigerung"])::after { content: "(Beeilung!) Nutze Zauberöl: roter Donner. Töte 20 NPC mit der Waffe."; }
 #listrow_char_mission:has(a[title="Einsatzbereitschaft zeigen"])::after { content: "Gehe zu Ziel und zurück zum HdA auf kürzestem Weg."; }
 #listrow_char_mission:has(a[title="Essenszeit"])::after { content: "Besorge Steak mit Augen (30LP für Bonus, Messingwok + Kuhkopf)."; }
 #listrow_char_mission:has(a[title="Falterchaos"])::after { content: "Fange temporalen Falter mit Falterfangnetz."; }
@@ -77,7 +77,7 @@
 #listrow_char_mission:has(a[title="Für die Sicherheit"])::after { content: "Verjage 10 NPCs."; }
 #listrow_char_mission:has(a[title="Haus aus Schnee"])::after { content: "Baue Haus auf Schnee-Feld (nicht Wilisien). Großes Haus für Bonus."; }
 #listrow_char_mission:has(a[title="Heilung benötigt"])::after { content: "Nutze Verbandskasten auf Ziel-Person."; }
-#listrow_char_mission:has(a[title="Heilung der Schwachen"])::after { content: "(Frieden) Nutze Heilzauber der Geistlosen auf Ziel-NPC."; }
+#listrow_char_mission:has(a[title="Heilung der Schwachen"])::after { content: "(Frieden!) Nutze Heilzauber der Geistlosen auf Ziel-NPC."; }
 #listrow_char_mission:has(a[title="In geheimer Mission"])::after { content: "Gehe nach Loranien - Turm der Clan-Energie (79/114), füttere Waschbär mit Tierfutter."; }
 #listrow_char_mission:has(a[title="Itolos-Leder"])::after { content: "Töte Stachelschildkröte (Bonus, Itolos) oder Todesmoor-Krokodil (Krato) bis Drop: Itolos-Leder."; }
 #listrow_char_mission:has(a[title="Jerodar-Überfall"])::after { content: "Töte Jerodar-Erdwühler in Diebeshöhle bis Drop: Plan der Jerodar."; }
@@ -89,17 +89,17 @@
 #listrow_char_mission:has(a[title="Mehr Kampfpunkte"])::after { content: "Sammel 4 Kampfpunkte (Hewien - Kampfgebiet)."; }
 #listrow_char_mission:has(a[title="Mitarbeiter in Not"])::after { content: "Nutze Schneeschaufel mit zweitem Spieler in Ragnur (100/75)."; }
 #listrow_char_mission:has(a[title="Nichts zu tun"])::after { content: "Warte 5 Minuten."; }
-#listrow_char_mission:has(a[title="Portalstab-Panik"])::after { content: "Gehe nach Ziel-Ort und nutze Portalstab-Bohrer. Töte evtl. Portalstab-Anbeter."; }
+#listrow_char_mission:has(a[title="Portalstab-Panik"])::after { content: "(Beeilung!) Gehe nach Ziel-Ort und nutze Portalstab-Bohrer. Töte evtl. Portalstab-Anbeter."; }
 #listrow_char_mission:has(a[title="Probleme beim Tollo"])::after { content: "Töte Tolloschein-Fresser in Ferdolien - Tollo-Hütte (97/96)."; }
-#listrow_char_mission:has(a[title="Randale"])::after { content: "(Frieden) Nutze Beruhigungspille auf Randalierer in Grab von Reikan (98/109)."; }
+#listrow_char_mission:has(a[title="Randale"])::after { content: "(Frieden!) Nutze Beruhigungspille auf Randalierer in Grab von Reikan (98/109)."; }
 #listrow_char_mission:has(a[title="Ratten und Raffzähne"])::after { content: "Verjage Ratten. Nicht töten! (z.b. Tal der Ruinen, Kuridan)."; }
-#listrow_char_mission:has(a[title="Reagenzglasmangel"])::after { content: "Nutze Kiste mit Reagenzgläsern in Laree - Zauberlabor (49/83)."; }
+#listrow_char_mission:has(a[title="Reagenzglasmangel"])::after { content: "(Beeilung!) Nutze Kiste mit Reagenzgläsern in Laree - Zauberlabor (49/83)."; }
 #listrow_char_mission:has(a[title="Resistentes Schlachtvieh"])::after { content: "Finde und töte bockigen Stier."; }
-#listrow_char_mission:has(a[title="Rosenzauber"])::after { content: "Ernte Rose von Ziel-Ort und bringe sie zurück."; }
+#listrow_char_mission:has(a[title="Rosenzauber"])::after { content: "(Beeilung!) Ernte Rose von Ziel-Ort und bringe sie zurück."; }
 #listrow_char_mission:has(a[title="Salzsüchtig"])::after { content: "Besorge Salzkristall. Gehe nach Ziel-Ort in Kerdis, gib ihn an Staubschleifer."; }
 #listrow_char_mission:has(a[title="Schattenmoos"])::after { content: "Nutze schwarze Zauberkugel, töte in Schattenhöhle bis Drop: Schattenmoosextrakt (nicht rauslaufen)."; }
 #listrow_char_mission:has(a[title="Schaufelmaulwürfe"])::after { content: "Nutze Klopfstock, töte 5 Schaufelmaulwürfe (z.b. Das vergessene Tal GZK-Punkt)."; }
-#listrow_char_mission:has(a[title="Schneller Tod"])::after { content: "Töte Ziel-NPC in 4 Minuten."; }
+#listrow_char_mission:has(a[title="Schneller Tod"])::after { content: "(Beeilung!) Töte Ziel-NPC in 4 Minuten."; }
 #listrow_char_mission:has(a[title="Spaziergang mit roter Mütze"])::after { content: "Gehe zu Ziel-Ort (direkter Weg, keine Dungeons oder Teleport)."; }
 #listrow_char_mission:has(a[title="Tiefgekühlte Proben"])::after { content: "Nutze Kühlbox auf gefrorenen Insel (eisiger Teleporter: Glodo-Fisch, kleiner Energiesplitter)."; }
 #listrow_char_mission:has(a[title="Tod den Schatten"])::after { content: "Töte 5 Schatten der Dunkelheit in Ryn."; }
@@ -118,7 +118,7 @@
 #listrow_char_mission:has(a[title="Säge allein im Wald"])::after { content: "Finde Säge auf Wald-Feld (Feldtext)."; }
 #listrow_char_mission:has(a[title="Ungereimtheiten auf hoher See"])::after { content: "Fahre an Ankerstelle mit Schiff nach Salthos, oder an Salthos - Hafen (103/136)."; }
 #listrow_char_mission:has(a[title="Baumbewässerung"])::after { content: "Nutze verzaubertes Wasser an Ziel-Ort bei Loranien - Baumzucht."; }
-#listrow_char_mission:has(a[title="Der Steinturm"])::after { content: "Bringe Warnschild des HdA nach Ruinendorf - Steinturm (91/77)."; }
+#listrow_char_mission:has(a[title="Der Steinturm"])::after { content: "(Beeilung!) Bringe Warnschild des HdA nach Ruinendorf - Steinturm (91/77)."; }
 #listrow_char_mission:has(a[title="Die junge Zauberin"])::after { content: "Töte 3 Ziel-NPCs für Zauberfunken, dann Laree - Flüsterwald (55/86)."; }
 #listrow_char_mission:has(a[title="Die Suche nach Geron Ther"])::after { content: "Nutze verbesserte Schneeschaufel bei Wilisien - Ewiger Schnee (108/87)."; }
 #listrow_char_mission:has(a[title="Der Historiker"])::after { content: "Gehe nach Elrya - Wallende Fluten (71/136, Portalmaschine)."; }
@@ -197,7 +197,7 @@
 
 #listrow_char_mission:has(a[title="Tote beleben"])::after { content: "Besorge toten Gewebewurm."; }
 #listrow_char_mission:has(a[title="Tote beleben Teil 2"])::after { content: "Gehe nach Tanien - Alte Strohhütte (55/113)."; }
-#listrow_char_mission:has(a[title="Tote beleben Teil 3"])::after { content: "(Frieden) Nutze Zauber der Wiederbelebung an Ziel-Ort."; }
+#listrow_char_mission:has(a[title="Tote beleben Teil 3"])::after { content: "(Frieden!) Nutze Zauber der Wiederbelebung an Ziel-Ort."; }
 
 #listrow_char_mission:has(a[title="Der Rohrbruch"])::after { content: "Besorge Ingerium (Spitzhacke, Kampfgebiet)."; }
 #listrow_char_mission:has(a[title="Der Rohrbruch Teil 2"])::after { content: "Nutze Ingeriumplatte bei Mentoran - Ölturm (103/115)."; }
@@ -241,7 +241,7 @@
 #listrow_char_mission:has(a[title="Vernichtung der Beweise"])::after { content: "Nutze Alte Akten des HdA auf Ziel-Ort in Terasi - Fluss"; }
 #listrow_char_mission:has(a[title="Vernichtung der Beweise Teil 2"])::after { content: "Nutze Stillezauber des HdA gegen Ziel-Person, oder setze Kopfgeld aus (Gobos - Kopfgeldjäger (76/98)).‎"; }
 
-#listrow_char_mission:has(a[title="Geistersiegel"])::after { content: "(Frieden) Nutze Geistersiegel an Ziel-Kontrollturm."; }
+#listrow_char_mission:has(a[title="Geistersiegel"])::after { content: "(Frieden!) Nutze Geistersiegel an Ziel-Kontrollturm."; }
 #listrow_char_mission:has(a[title="Geistersauger"])::after { content: "Nutze Geistersauger an vorherigem Kontrollturm."; }
 
 #listrow_char_mission:has(a[title="Astforschung"])::after { content: "Töte lebenden Ast (unterirdischer Lichtwald), oder lege Rotkellerschimmel (Haus des HdA) auf Feld für Bonus."; }
@@ -258,3 +258,4 @@
 
 #listrow_char_mission:has(a[title="Die Wurzel der Oase"])::after { content: "Nutze versiegelter Wasserwurzelbaum des HdA auf beliebigem Feld in Doma (Position merken, darf kein anderes NPC haben)."; }
 #listrow_char_mission:has(a[title="Die Wurzel der Oase Teil 2"])::after { content: "Nutze Eimer des HdA bei Felsendorf - Jungbrunnen (84/97). Nutze nochmal bei Doma - Dornige Steine (99/126). Nutze erneut beim Wasserwurzelbaum."; }
+#listrow_char_mission:has(a[title="Die Wurzel der Oase Teil 3"])::after { content: "Gehe erneut zum Wasserwurzelbaum und hole Quelltau."; }
