@@ -198,6 +198,12 @@ Highlights when the signet ring can be activated.
 
 ![Signet Ring Highlight](https://i.vgy.me/jR9WYr.jpg)
 
+### `highlight_job_links.css`
+
+Highlights the accept/finish-job links at the Haus der Aufträge.
+
+![Job link highlights](https://i.vgy.me/FhmiPb.jpg)
+
 ### `settings_help.css`
 
 Shows checkmark and cross symbols in the settings menu so it becomes easier to

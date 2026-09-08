@@ -1,0 +1,6 @@
+/* Highlights the accept/finish-job links at the Haus der Aufträge */
+
+a[href="main.php?arrive_eval=getmission"],
+a[href="?finish=1"] {
+  font-size: 18px;
+}
