@@ -67,7 +67,7 @@
 #listrow_char_mission:has(a[title="Die Wette"])::after { content: "Töte NPC in aufsteigender Stärke. Spindelschreiter werden ignoriert."; }
 #listrow_char_mission:has(a[title="Die Windwiesen"])::after { content: "Finde HdA Mitarbeiter bei Torihn - Die Windwiesen (111/94)."; }
 #listrow_char_mission:has(a[title="Diebesgut"])::after { content: "Nutze Auftragsdiebstahlzauber um Ziel-NPC zu beklauen. Nicht töten!"; }
-#listrow_char_mission:has(a[title="Doppelköpfige Bestie"])::after { content: "Kutschfahrt mit zweitem Spieler, besiege doppelköpfige Bestie, fahre Kutsche zurück (gebe Freund 1k Belohnung)."; }
+#listrow_char_mission:has(a[title="Doppelköpfige Bestie"])::after { content: "(Co-op) Kutschfahrt mit zweitem Spieler, besiege doppelköpfige Bestie, fahre Kutsche zurück."; }
 #listrow_char_mission:has(a[title="Effizienzsteigerung"])::after { content: "(Beeilung!) Nutze Zauberöl: roter Donner. Töte 20 NPC mit der Waffe."; }
 #listrow_char_mission:has(a[title="Einsatzbereitschaft zeigen"])::after { content: "Gehe zu Ziel und zurück zum HdA auf kürzestem Weg (Teleport OK)."; }
 #listrow_char_mission:has(a[title="Essenszeit"])::after { content: "Besorge Steak mit Augen (30LP für Bonus, Messingwok + Kuhkopf)."; }
@@ -87,7 +87,7 @@
 #listrow_char_mission:has(a[title="Magische Energiefelder"])::after { content: "Suche mit Energiekompass nach Ziel-Ort."; }
 #listrow_char_mission:has(a[title="Mehr Erfahrung"])::after { content: "Erreiche Ziel-XP."; }
 #listrow_char_mission:has(a[title="Mehr Kampfpunkte"])::after { content: "Sammel 4 Kampfpunkte (Hewien - Kampfgebiet)."; }
-#listrow_char_mission:has(a[title="Mitarbeiter in Not"])::after { content: "Nutze Schneeschaufel mit zweitem Spieler in Ragnur (100/75)."; }
+#listrow_char_mission:has(a[title="Mitarbeiter in Not"])::after { content: "(Co-op) Nutze Schneeschaufel mit zweitem Spieler in Ragnur (100/75)."; }
 #listrow_char_mission:has(a[title="Nichts zu tun"])::after { content: "Warte 5 Minuten."; }
 #listrow_char_mission:has(a[title="Portalstab-Panik"])::after { content: "(Beeilung!) Gehe nach Ziel-Ort und nutze Portalstab-Bohrer. Töte evtl. Portalstab-Anbeter."; }
 #listrow_char_mission:has(a[title="Probleme beim Tollo"])::after { content: "Töte Tolloschein-Fresser in Ferdolien - Tollo-Hütte (97/96)."; }
@@ -127,6 +127,7 @@
 #listrow_char_mission:has(a[title="Der Müllpanda"])::after { content: "Verjage Müllpanda bei Loranien - Turm der Clan-Energie (79/114), eventuell mehrfach. Nicht töten!"; }
 #listrow_char_mission:has(a[title="Der Falschgold-Zauberer"])::after { content: "Gebe Beutel mit Falschgold dem Zauberer bei Tal der Ruinen - Das Haus am Rande der Ruinen (89/97)."; }
 #listrow_char_mission:has(a[title="Guter Ton"])::after { content: "Hole großen Tonstein vom Ziel-Ort im Steinrutsch. Nutze ihn auf Wasser-Feld."; }
+#listrow_char_mission:has(a[title="Der Giftgeist von Narubia"])::after { content: "(Co-op, Beeilung!) Suche Erdwesen im Keller von Narubia - Dunkles Haus (507/55, Hebel ziehen lassen)"; }
 
 /* Multi-Part Jobs */
 #listrow_char_mission:has(a[title="Der Juwelenring"])::after { content: "Töte Ziel-NPC, bringe dreckigen Glitzerklumpen zurück."; }
