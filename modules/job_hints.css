@@ -107,7 +107,6 @@
 #listrow_char_mission:has(a[title="Verlorene Schatztruhe"])::after { content: "Töte Alter Zwerg in Konlir - Dorf. Bringe Truhe zurück."; }
 #listrow_char_mission:has(a[title="Vernichtung der Falter"])::after { content: "Töte 4 Falter in Lodradon."; }
 #listrow_char_mission:has(a[title="Verschneite Wege"])::after { content: "Nutze verbesserte Schneeschaufel in Wilisien - Schneedorf (111/83) bis fertig."; }
-#listrow_char_mission:has(a[title="Wissenschaftliches Arbeiten"])::after { content: "Nutze Messgerät des HdA an Brotandro-Virus in Avarin."; }
 #listrow_char_mission:has(a[title="Zurückzahlung der Schulden"])::after { content: "Finde schmierigen Geschäftemacher. Nicht töten!"; }
 #listrow_char_mission:has(a[title="Zuviele Hulnodar-Heiler"])::after { content: "Töte 3 Hulnodar-Heiler in Kolun - Burg von Hulnodar (61/83)."; }
 #listrow_char_mission:has(a[title="zuviele Farben"])::after { content: "Töte 3 Farbanomalien in Laree."; }
@@ -129,6 +128,7 @@
 #listrow_char_mission:has(a[title="Guter Ton"])::after { content: "Hole großen Tonstein vom Ziel-Ort im Steinrutsch. Nutze ihn auf Wasser-Feld."; }
 #listrow_char_mission:has(a[title="Der Giftgeist von Narubia"])::after { content: "(Co-op, Beeilung!) Suche Erdwesen im Keller von Narubia - Dunkles Haus (507/55, Hebel ziehen lassen)."; }
 #listrow_char_mission:has(a[title="Portalstabpanik"])::after { content: "(evtl. Beeilung!) Nutze Portalstab-Bohrer an Ziel-Ort (evtl. töte Portalstab-Anbeter)."; }
+#listrow_char_mission:has(a[title="Das Schnupperangebot"])::after { content: "Hole Poster des HdA von Torihn - Baru-Mühle (110/93). Nutze es an Wald des einsamen Baumes - Alte Eiche (94/100)."; }
 
 /* Multi-Part Jobs */
 #listrow_char_mission:has(a[title="Der Juwelenring"])::after { content: "Töte Ziel-NPC, bringe dreckigen Glitzerklumpen zurück."; }
@@ -266,3 +266,6 @@
 #listrow_char_mission:has(a[title="Die Wurzel der Oase"])::after { content: "Nutze versiegelter Wasserwurzelbaum des HdA auf beliebigem Feld in Doma (Position merken, darf kein anderes NPC haben)."; }
 #listrow_char_mission:has(a[title="Die Wurzel der Oase Teil 2"])::after { content: "Nutze Eimer des HdA bei Felsendorf - Jungbrunnen (84/97). Nutze nochmal bei Doma - Dornige Steine (99/126). Nutze erneut beim Wasserwurzelbaum."; }
 #listrow_char_mission:has(a[title="Die Wurzel der Oase Teil 3"])::after { content: "Gehe erneut zum Wasserwurzelbaum und hole Quelltau."; }
+
+#listrow_char_mission:has(a[title="Wissenschaftliches Arbeiten"])::after { content: "Nutze Messgerät des HdA an Brotandro-Virus in Avarin."; }
+#listrow_char_mission:has(a[title="Wissenschaftliches Arbeiten Teil 2"])::after { content: "Besuche andere Spieler bis jemand angesteckt wurde."; }
