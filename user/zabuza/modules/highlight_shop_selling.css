@@ -152,3 +152,27 @@ td.areadescription
   ) {
   color: #47c57b;
 }
+
+/* Items needed for personal quests */
+td.areadescription
+  table
+  b:is(
+    [onmouseover^='tt("Zauber der Selbstheilung'],
+    [onmouseover^='tt("Salzkristall'],
+    [onmouseover^='tt("Schrumpfzauber'],
+    [onmouseover^='tt("Schatzkarte'],
+    [onmouseover^='tt("Schutz der Geistlosen'],
+    [onmouseover^='tt("Kuhkopf'],
+    [onmouseover^='tt("Schutzauflösung der Geistlosen'],
+    [onmouseover^='tt("Staubschleifer-Ei'],
+    [onmouseover^='tt("Reparatur-Zange'],
+    [onmouseover^='tt("große Reparatur-Zange'],
+    [onmouseover^='tt("Steinschale'],
+    [onmouseover^='tt("Sternenmuschelstaub'],
+    [onmouseover^='tt("Eiskristall-Pulver'],
+    [onmouseover^='tt("Schneediamant'],
+    [onmouseover^='tt("Eiszauber'],
+    [onmouseover^='tt("Finstereis-Tropfen']
+  ) {
+  color: #9947c5;
+}
