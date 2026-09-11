@@ -92,7 +92,7 @@
 #listrow_char_mission:has(a[title="Portalstab-Panik"])::after { content: "(Beeilung!) Gehe nach Ziel-Ort und nutze Portalstab-Bohrer. Töte evtl. Portalstab-Anbeter."; }
 #listrow_char_mission:has(a[title="Probleme beim Tollo"])::after { content: "Töte Tolloschein-Fresser in Ferdolien - Tollo-Hütte (97/96)."; }
 #listrow_char_mission:has(a[title="Randale"])::after { content: "(Frieden!) Nutze Beruhigungspille auf Randalierer in Grab von Reikan (98/109)."; }
-#listrow_char_mission:has(a[title="Ratten und Raffzähne"])::after { content: "Verjage Ratten. Nicht töten! (z.b. Tal der Ruinen, Kuridan)."; }
+#listrow_char_mission:has(a[title="Ratten und Raffzähne"])::after { content: "Verjage 3 Ratten. Nicht töten! (z.b. Tal der Ruinen, Kuridan)."; }
 #listrow_char_mission:has(a[title="Reagenzglasmangel"])::after { content: "(Beeilung!) Nutze Kiste mit Reagenzgläsern in Laree - Zauberlabor (49/83)."; }
 #listrow_char_mission:has(a[title="Resistentes Schlachtvieh"])::after { content: "Finde und töte bockigen Stier bei Ziel-Ort."; }
 #listrow_char_mission:has(a[title="Rosenzauber"])::after { content: "(Beeilung!) Ernte Rose von Ziel-Ort und bringe sie zurück."; }
