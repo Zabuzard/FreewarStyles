@@ -224,8 +224,8 @@
 #listrow_char_mission:has(a[title="Der Dämonenhund"])::after { content: "Hole verschlossener Hundekäfig von Delos (61/94)."; }
 #listrow_char_mission:has(a[title="Der Dämonenhund Teil 2"])::after { content: "Nutze Hundekäfig an Ziel-Ort. Nicht töten!"; }
 
-#listrow_char_mission:has(a[title="Seelenstaub"])::after { content: "Besorge blauer Seelenstaub in Brondor."; }
-#listrow_char_mission:has(a[title="Blauer Heilzauber"])::after { content: "Gehe nach Buran - Shop (86/85)."; }
+#listrow_char_mission:has(a[title="Blaue Heilzauber"])::after { content: "Besorge blauer Seelenstaub in Brondor."; }
+#listrow_char_mission:has(a[title="Blaue Heilzauber Teil 2"])::after { content: "Gehe nach Buran - Shop (86/85)."; }
 
 #listrow_char_mission:has(a[title="Das Flammenwurmsekret"])::after { content: "TTöte Flammenwurm in Pensal bis Drop: Flammenwurmsekret."; }
 #listrow_char_mission:has(a[title="Die Gesichtscreme"])::after { content: "Gehe nach Urdanien - Nordhütte (75/86)."; }
