@@ -51,7 +51,7 @@
 #listrow_char_mission:has(a[title="Die Feuerstelle"])::after { content: "(Beeilung!) Nutze Fackel des HdA an Narow - Feuerstelle (113/106)."; }
 #listrow_char_mission:has(a[title="Die Finstereis-Höhle"])::after { content: "Durchquere Finstereishöhle von Ragnur (102/77) aus."; }
 #listrow_char_mission:has(a[title="Die Gefahr"])::after { content: "Töte 5 NPCs mit mindestens A:10 (z.b. Glypra, Spindelschreiter)."; }
-#listrow_char_mission:has(a[title="Die gezielte Verjagung"])::after { content: "Verjage ein Ziel-NPC."; }
+#listrow_char_mission:has(a[title="Die gezielte Verjagung"])::after { content: "Verjage Ziel-NPC."; }
 #listrow_char_mission:has(a[title="Die Handwerkshalle"])::after { content: "Nutze Absperrband in Laree - Handwerkshalle (53/77)."; }
 #listrow_char_mission:has(a[title="Die Kutschfahrt"])::after { content: "(Beeilung!) Begleite Kutsche des HdA zu Ziel."; }
 #listrow_char_mission:has(a[title="Die Müllentsorgung"])::after { content: "Nutze Giftiger Müll in Kanobien - Wasserfall (75/99)."; }
@@ -269,3 +269,6 @@
 
 #listrow_char_mission:has(a[title="Wissenschaftliches Arbeiten"])::after { content: "Nutze Messgerät des HdA an Brotandro-Virus in Avarin."; }
 #listrow_char_mission:has(a[title="Wissenschaftliches Arbeiten Teil 2"])::after { content: "Besuche andere Spieler bis jemand angesteckt wurde."; }
+
+#listrow_char_mission:has(a[title="Der feine Gestank"])::after { content: "Nutze Windbeutel des HdA in Tanien - Morscher Baum (60/111)."; }
+#listrow_char_mission:has(a[title="Der feine Gestank Teil 2"])::after { content: "Gehe in den Keller von Alvor - Hütte (85/128) und übergib Parfum des HdA."; }

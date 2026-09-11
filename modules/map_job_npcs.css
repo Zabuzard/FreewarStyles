@@ -431,6 +431,8 @@ y* Shows Job-NPCs and other job-relevant locations (Auftragshalle) on the Map so
 #mapx89y97 a:after,
 #mapx507y55 a:after,
 #mapx94y100 a:after,
+#mapx60y111 a:after,
+#mapx85y128 a:after,
 #mapx-10001y-10004 a:after,
 #mapx99y126 a:after {
   content: "HdA";
