@@ -1,0 +1,5 @@
+/* Highlights the symbol activation links in the Finstereishöhle (Dark Ice Cave) */
+
+a[href="main.php?arrive_eval=oben333"] {
+  font-size: 18px;
+}

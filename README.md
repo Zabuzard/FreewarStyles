@@ -250,3 +250,7 @@ click on.
 Highlights some destinations in the teleportation menu.
 
 ![Teleport highlight](https://i.vgy.me/6ZqiPi.jpg)
+
+#### `highlight_finstereishöhle_symbols.css`
+
+Highlights the symbol activation links in the Finstereishöhle (Dark Ice Cave).
