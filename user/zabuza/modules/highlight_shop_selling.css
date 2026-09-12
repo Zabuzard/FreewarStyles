@@ -3,7 +3,7 @@
 /* Items to not sell */
 td.areadescription
   table
-  b:is(
+  b:not(.belowMinRow):is(
     [onmouseover^='tt("Amulett der Erfahrung'],
     [onmouseover^='tt("Amulett der Feuersbrunst'],
     [onmouseover^='tt("Amulett der Frostkälte'],
@@ -85,6 +85,7 @@ td.areadescription
     [onmouseover^='tt("Spiegel der Markthalle'],
     [onmouseover^='tt("Holzleiter'],
     [onmouseover^='tt("blauer Edelstein'],
+    [onmouseover^='tt("Wolkenstoff-Kompressor'],
     [onmouseover^='tt("Onlium-Schlüssel']
   ) {
   color: #d86868;
@@ -93,7 +94,7 @@ td.areadescription
 /* Items for Player-To-Player trade (Markthalle) */
 td.areadescription
   table
-  b:is(
+  b:not(.belowMinRow):is(
     [onmouseover^='tt("Holz"'],
     [onmouseover^='tt("Kuhkopf'],
     [onmouseover^='tt("Itolos-Pulver'],
@@ -118,7 +119,7 @@ td.areadescription
 /* Items needed for jobs (Auftragshaus) */
 td.areadescription
   table
-  b:is(
+  b:not(.belowMinRow):is(
     [onmouseover^='tt("Phasenkugel'],
     [onmouseover^='tt("Steak mit Augen'],
     [onmouseover^='tt("strategischer Hinzauber'],
@@ -152,7 +153,7 @@ td.areadescription
 /* Items needed for personal quests */
 td.areadescription
   table
-  b:is(
+  b:not(.belowMinRow):is(
     [onmouseover^='tt("Zauber der Selbstheilung'],
     [onmouseover^='tt("Salzkristall'],
     [onmouseover^='tt("Schrumpfzauber'],
