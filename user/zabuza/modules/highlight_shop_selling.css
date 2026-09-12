@@ -78,14 +78,6 @@ td.areadescription
     [onmouseover^='tt("verbundene Seelenkugel'],
     [onmouseover^='tt("Zauberbrötchen'],
     [onmouseover^='tt("Zauberkugel-Klebemaschine'],
-    [onmouseover^='tt("Zaubertruhe '],
-    [onmouseover^='tt("blauer Prisma-Kristall'],
-    [onmouseover^='tt("roter Prisma-Kristall'],
-    [onmouseover^='tt("schwarzer Prisma-Kristall'],
-    [onmouseover^='tt("weißer Prisma-Kristall'],
-    [onmouseover^='tt("grüner Prisma-Kristall'],
-    [onmouseover^='tt("gelber Prisma-Kristall'],
-    [onmouseover^='tt("violetter Prisma-Kristall'],
     [onmouseover^='tt("Goldwäschesieb'],
     [onmouseover^='tt("Holzleiter'],
     [onmouseover^='tt("goldener Schlüssel'],
@@ -117,6 +109,7 @@ td.areadescription
     [onmouseover^='tt("Wissenskapsel"'],
     [onmouseover^='tt("Zauber der Selbstheilung'],
     [onmouseover^='tt("Zauber des begrenzten Wissens'],
+    [onmouseover^='tt("toter Blutwurm'],
     [onmouseover^='tt("Ölfass']
   ) {
   color: #5ba8e0;
@@ -150,6 +143,7 @@ td.areadescription
     [onmouseover^='tt("Rotkellerschimmel'],
     [onmouseover^='tt("gebratenes Kaktusfleisch'],
     [onmouseover^='tt("Gewebeprobe von '],
+    [onmouseover^='tt("kleiner Holzschild'],
     [onmouseover^='tt("Blutechse']
   ) {
   color: #47c57b;
@@ -178,7 +172,20 @@ td.areadescription
     [onmouseover^='tt("Wurmfutter'],
     [onmouseover^='tt("Schneeblume'],
     [onmouseover^='tt("Silberschnee'],
-    [onmouseover^='tt("Finstereis-Tropfen']
+    [onmouseover^='tt("Zaubertruhe'],
+    [onmouseover^='tt("Phasentruhe'],
+    [onmouseover^='tt("Kugel des Unermüdlichen'],
+    [onmouseover^='tt("vollständiger Prisma-Kristall'],
+    [onmouseover^='tt("blauer Prisma-Kristall'],
+    [onmouseover^='tt("roter Prisma-Kristall'],
+    [onmouseover^='tt("schwarzer Prisma-Kristall'],
+    [onmouseover^='tt("weißer Prisma-Kristall'],
+    [onmouseover^='tt("grüner Prisma-Kristall'],
+    [onmouseover^='tt("gelber Prisma-Kristall'],
+    [onmouseover^='tt("violetter Prisma-Kristall'],
+    [onmouseover^='tt("Feuerdiamant'],
+    [onmouseover^='tt("Kreidestein'],
+    [onmouseover^='tt("Finstereis-Tropfen'],
   ) {
   color: #d890fe;
 }
