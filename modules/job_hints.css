@@ -65,7 +65,7 @@
 #listrow_char_mission:has(a[title="Die vergessene Kiste"])::after { content: "Öffne Kiste des HdA bei Ziel-Ort."; }
 #listrow_char_mission:has(a[title="Die Welt regulieren"])::after { content: "(Beeilung!) Töte Ziel-NPC in Nähe."; }
 #listrow_char_mission:has(a[title="Die Wette"])::after { content: "Töte NPC in aufsteigender Stärke. Spindelschreiter werden ignoriert."; }
-#listrow_char_mission:has(a[title="Die Windwiesen"])::after { content: "Finde HdA Mitarbeiter bei Torihn - Die Windwiesen (111/94)."; }
+#listrow_char_mission:has(a[title="Die Windwiesen"])::after { content: "Gehe nach Torihn - Die Windwiesen (111/94). Spreche mit HdA Mitarbeiter auf Insel."; }
 #listrow_char_mission:has(a[title="Diebesgut"])::after { content: "Nutze Auftragsdiebstahlzauber um Ziel-NPC zu beklauen. Nicht töten!"; }
 #listrow_char_mission:has(a[title="Doppelköpfige Bestie"])::after { content: "(Co-op) Kutschfahrt mit zweitem Spieler, besiege doppelköpfige Bestie, fahre Kutsche zurück."; }
 #listrow_char_mission:has(a[title="Effizienzsteigerung"])::after { content: "(Beeilung!) Nutze Zauberöl: roter Donner. Töte 20 NPC mit der Waffe."; }
