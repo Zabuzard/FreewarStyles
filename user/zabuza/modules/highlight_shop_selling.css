@@ -56,7 +56,6 @@ td.areadescription
     [onmouseover^='tt("Postvogel'],
     [onmouseover^='tt("rote Zauberkugel'],
     [onmouseover^='tt("Ring des Vulkans'],
-    [onmouseover^='tt("Schattenkralle'],
     [onmouseover^='tt("Schlüssel der Festung'],
     [onmouseover^='tt("Schriftrolle der Lebenden'],
     [onmouseover^='tt("Schutzzauber'],
@@ -110,6 +109,8 @@ td.areadescription
     [onmouseover^='tt("Zauber der Selbstheilung'],
     [onmouseover^='tt("Zauber des begrenzten Wissens'],
     [onmouseover^='tt("toter Blutwurm'],
+    [onmouseover^='tt("betörende Paste'],
+    [onmouseover^='tt("Auge des Eisvogels'],
     [onmouseover^='tt("Ölfass']
   ) {
   color: #5ba8e0;
@@ -172,6 +173,7 @@ td.areadescription
     [onmouseover^='tt("Wurmfutter'],
     [onmouseover^='tt("Schneeblume'],
     [onmouseover^='tt("Silberschnee'],
+    [onmouseover^='tt("Zauberpolle'],
     [onmouseover^='tt("Zaubertruhe'],
     [onmouseover^='tt("Phasentruhe'],
     [onmouseover^='tt("Kugel des Unermüdlichen'],
