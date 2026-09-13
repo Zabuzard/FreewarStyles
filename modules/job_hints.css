@@ -126,7 +126,7 @@
 #listrow_char_mission:has(a[title="Der Müllpanda"])::after { content: "Verjage Müllpanda bei Loranien - Turm der Clan-Energie (79/114), eventuell mehrfach. Nicht töten!"; }
 #listrow_char_mission:has(a[title="Der Falschgold-Zauberer"])::after { content: "Gebe Beutel mit Falschgold dem Zauberer bei Tal der Ruinen - Das Haus am Rande der Ruinen (89/97)."; }
 #listrow_char_mission:has(a[title="Guter Ton"])::after { content: "Hole großen Tonstein vom Ziel-Ort im Steinrutsch. Nutze ihn auf Wasser-Feld."; }
-#listrow_char_mission:has(a[title="Der Giftgeist von Narubia"])::after { content: "(Co-op, Beeilung!) Suche Erdwesen im Keller von Narubia - Dunkles Haus (507/55, Hebel ziehen lassen)."; }
+#listrow_char_mission:has(a[title="Der Giftgeist von Narubia"])::after { content: "(Co-op, Beeilung!) Suche Erdwesen im Keller von Narubia - Dunkles Haus (507/55, Hebel ziehen lassen). Wenn nicht da, zurück zum HdA."; }
 #listrow_char_mission:has(a[title="Portalstabpanik"])::after { content: "(evtl. Beeilung!) Nutze Portalstab-Bohrer an Ziel-Ort (evtl. töte Portalstab-Anbeter)."; }
 #listrow_char_mission:has(a[title="Das Schnupperangebot"])::after { content: "Hole Poster des HdA von Torihn - Baru-Mühle (110/93). Nutze es an Wald des einsamen Baumes - Alte Eiche (94/100)."; }
 
@@ -227,8 +227,8 @@
 #listrow_char_mission:has(a[title="Blaue Heilzauber"])::after { content: "Besorge blauer Seelenstaub in Brondor."; }
 #listrow_char_mission:has(a[title="Blaue Heilzauber Teil 2"])::after { content: "Gehe nach Buran - Shop (86/85)."; }
 
-#listrow_char_mission:has(a[title="Das Flammenwurmsekret"])::after { content: "TTöte Flammenwurm in Pensal bis Drop: Flammenwurmsekret."; }
-#listrow_char_mission:has(a[title="Die Gesichtscreme"])::after { content: "Gehe nach Urdanien - Nordhütte (75/86)."; }
+#listrow_char_mission:has(a[title="Das Flammenwurmsekret"])::after { content: "Töte Flammenwurm in Pensal bis Drop: Flammenwurmsekret."; }
+#listrow_char_mission:has(a[title="Das Flammenwurmsekret Teil 2"])::after { content: "Gehe nach Urdanien - Nordhütte (75/86)."; }
 
 #listrow_char_mission:has(a[title="Die mysteriösen Pflanzensamen"])::after { content: "Finde kleiner Beutel mit Pflanzensamen in Torihn - Kiras Gasthaus (111/96)."; }
 #listrow_char_mission:has(a[title="Die mysteriösen Pflanzensamen Teil 2"])::after { content: "Nutze kleiner Beutel mit Pflanzensamen an Ziel-Ort."; }
