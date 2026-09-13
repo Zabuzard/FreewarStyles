@@ -119,7 +119,7 @@
 #listrow_char_mission:has(a[title="Baumbewässerung"])::after { content: "Nutze verzaubertes Wasser an Ziel-Ort bei Loranien - Baumzucht."; }
 #listrow_char_mission:has(a[title="Der Steinturm"])::after { content: "(Beeilung!) Nutze Warnschild des HdA an Ruinendorf - Steinturm (91/77)."; }
 #listrow_char_mission:has(a[title="Die junge Zauberin"])::after { content: "Töte 3 Ziel-NPCs für Zauberfunken, dann Laree - Flüsterwald (55/86)."; }
-#listrow_char_mission:has(a[title="Die Suche nach Geron Ther"])::after { content: "Nutze verbesserte Schneeschaufel bei Wilisien - Ewiger Schnee (108/87)."; }
+#listrow_char_mission:has(a[title="Die Suche nach Geron Ther"])::after { content: "Nutze verbesserte Schneeschaufel bei Wilisien - Ewiger Schnee (108/87). Evtl. noch mehr Ziele zum Graben."; }
 #listrow_char_mission:has(a[title="Der Historiker"])::after { content: "Gehe nach Elrya - Wallende Fluten (71/136, Portalmaschine)."; }
 #listrow_char_mission:has(a[title="Zuviele Farben"])::after { content: "Töte 3 Farbanomalien in Laree - Stadt."; }
 #listrow_char_mission:has(a[title="Der agrikulturelle Missstand"])::after { content: "Nutze Düngermittel an Torihn - Getreidefelder (117/94)."; }
