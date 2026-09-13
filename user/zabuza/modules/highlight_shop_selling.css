@@ -26,7 +26,6 @@ td.areadescription
     [onmouseover^='tt("Fels der Phasenselbstheilung'],
     [onmouseover^='tt("Feuerdolch'],
     [onmouseover^='tt("Frost-Wiesel Anlocker'],
-    [onmouseover^='tt("gefrorene Kugel'],
     [onmouseover^='tt("Gegenzauber: Auflösung des Schutzes'],
     [onmouseover^='tt("Gegenzauber: Erfahrungsverlust'],
     [onmouseover^='tt("geklebte, gelbe Zauberkugel'],
@@ -187,6 +186,7 @@ td.areadescription
     [onmouseover^='tt("Feuerdiamant'],
     [onmouseover^='tt("Kreidestein'],
     [onmouseover^='tt("Finstereis-Tropfen'],
+    [onmouseover^='tt("gefrorene Kugel']
   ) {
   color: #d890fe;
 }
