@@ -179,6 +179,12 @@ Shows the shops currently best for selling in the banner.
 
 ![Shop Price Banner](https://i.vgy.me/QoAOVb.jpg)
 
+### `banner_rotating_quests_dungeons.css`
+
+Shows data for rotating quests and dungeons in the banner.
+
+![Rotating Banner](https://i.vgy.me/vKPoH7.jpg)
+
 ### `clan_distress_right_aligned.css`
 
 Right-aligns the link to send a clan distress signal, so it becomes easier to
