@@ -1,15 +1,14 @@
 # FreewarStyles
 
-Offers multiple CSS stylesheet modules for use in the MMORPG
-[Freewar.de](https://www.freewar.de).
+CSS Style-Module für das MMORPG [Freewar.de](https://www.freewar.de).
 
-Hosted and available through Github Pages at
+Über Github Pages gehosted:
 [zabuzard.github.io/FreewarStyles](https://zabuzard.github.io/FreewarStyles/).
-Visit
-[GitHub: Zabuzard/FreewarStyles](https://github.com/Zabuzard/FreewarStyles) for
-the source code.
+Den Source Code gibts bei
+[GitHub: Zabuzard/FreewarStyles](https://github.com/Zabuzard/FreewarStyles).
 
-To use a module, put an `import` line in your custom style, for example:
+Um ein Modul zu nutzen, füge eine `import`-Zeile in deinen Benutzerdefinierten
+Style ein, zum Beispiel:
 
 ```css
 @import url("https://zabuzard.github.io/FreewarStyles/modules/dark/chat_colors.css");
@@ -18,147 +17,149 @@ To use a module, put an `import` line in your custom style, for example:
 @import url("https://zabuzard.github.io/FreewarStyles/modules/compact_inventory.css");
 ```
 
-![Example in UI](https://i.vgy.me/5XSbAI.jpg)
+![Beispiel in UI](https://i.vgy.me/5XSbAI.jpg)
 
-## Modules
+## Module
 
-Available modules can be found in the directory
-[modules](https://github.com/Zabuzard/FreewarStyles/tree/main/modules) and are
-usually compatible with Light and Dark mode styles. For the ones that are
-specific to a mode, see the subfolder `modules/light` and `modules/dark`
-respectively.
+Module können im Verzeichnis
+[modules](https://github.com/Zabuzard/FreewarStyles/tree/main/modules) gefunden
+werden, und sind üblicherweise mit Hellen und Dunklen Styles kompatibel. Die
+Module, welche Style-spezifisch sind, können im Unterverzeichnis `modules/light`
+und `modules/dark` gefunden werden.
 
 ### `dark/chat_colors.css`
 
-Defines chat message and button colors suitable for dark mode styles.
+Definiert Chat und Button Farben, welche für Dunkle Styles geeignet sind.
 
 ![Dark Chat Colors](https://i.vgy.me/D5hdJA.jpg)
 
 ### `borderless_inventory.css`
 
-Removes borders in the character menu and inventory.
+Entfernt Ränder im Charakter-Menü und Inventar.
 
 ![Borderless inventory](https://i.vgy.me/wSKylg.jpg)
 
 ### `compact_inventory.css`
 
-Makes the inventory more compact, especially by making items only one instead of
-two rows, moving the actions into the same line.
+Macht das Inventar kompakter. Insbesondere indem Items jeweils nur eine, statt
+zwei Zeilen haben, wodurch die Aktionen in der gleichen Zeile sind.
 
 ![Compact Inventory](https://i.vgy.me/mgJAhC.jpg)
 
-Combine with `borderless_inventory.css` for a very compact look:
+Kombiniere zusätzlich mit dem Modul `borderless_inventory.css` für einen sehr
+kompakten Look:
 
 ![Very compact](https://i.vgy.me/S5mZ6E.jpg)
 
 ### `weapon_durability.css`
 
-Displays weapon durability directly in the menu, so mouse hover is not needed
-anymore.
+Zeigt die Waffenhaltbarkeit direkt im Menü an, so dass ein Mouse-Hover nicht
+mehr benötigt ist.
 
 ![Weapon Durability](https://i.vgy.me/1M7GsF.jpg)
 
 ### `dark/compact_status.css` or `light/compact_status.css`
 
-Abbreviates status effects in the menu and shows the remaining time directly
-without needing to mouse hover. Mouse hover to see the abbreviation fully
-spelled out.
+Kürzt Status-Effekt Beschreibungen im Menü stark ab und zeigt die verbleibende
+Zeit direkt im Menü an, so dass ein Mouse-Hover nicht mehr benötigt ist.
+Mouse-Hover kann genutzt werden um die Abkürzung ausgeschrieben zu sehen.
 
 ![Compact Status](https://i.vgy.me/F67aUB.jpg)
 
 ### `bigger_fast_spell_menu.css`
 
-Increases the font size of the Fast Spell menu, so Fast Spells become easier to
-click on. This is especially useful for 4K resolutions.
+Vergrößert die Schriftgröße im Schnellzauber Menü, so dass Schnellzauber
+einfacher anzuklicken sind. Insbesondere nützlich für 4k Auflösungen.
 
 ![Bigger Fast Spell Menu](https://i.vgy.me/4gChpd.jpg)
 
 ### `job_hints.css`
 
-Shows short descriptions for each Job (Auftragshalle) in the inventory so it is
-not necessary to read the full description anymore.
+Zeigt Kurzbeschreibungen für alle Aufträge (Auftragshalle) direkt im Inventar
+an, so dass es nicht mehr nötig ist sich die volle Beschreibung eines Auftrags
+durchzulesen.
 
 ![Job Hints](https://i.vgy.me/0yV2uz.jpg)
 
 ### `map_secure_locations.css`
 
-Highlights each location on the map that is a secure location where players
-cannot attack other players.
+Hebt alle sicheren Felder direkt auf der Karte hervor. Auf diesen Feldern können
+Spieler keine anderen Spieler angreifen.
 
 ![Secure Locations Map](https://i.vgy.me/nNykbZ.jpg)
 
 ### `map_teleportation_blue.css`
 
-Shows a blue circle on map tiles that are reachable with a "gepresste
-Zauberkugel" (blue teleportation).
+Zeigt einen blauen Kreis auf Feldern an, welche mit einer gepressten Zauberkugel
+(oder Ähnlichem) erreicht werden können.
 
 ![Blue Teleportation Map](https://i.vgy.me/ERt3Kb.jpg)
 
 ### `map_teleportation_yellow.css`
 
-Shows a yellow circle on map tiles that are reachable with a "geklebte, gelbe
-Zauberkugel" (yellow teleportation).
+Zeigt einen gelben Kreis auf Feldern an, welche mit einer geklebte, gelbe
+Zauberkugel (oder Ähnlichem) erreicht werden können.
 
 ![Yellow Teleportation Map](https://i.vgy.me/t1j4qX.jpg)
 
 ### `map_teleportation_portal.css`
 
-Shows an orange diamond on map tiles that are reachable with a "Portalmaschine"
-(portal device).
+Zeigt eine orangene Raute auf Feldern an, welche mit der Portalmaschine erreicht
+werden können.
 
 ![Portal Teleportation Map](https://i.vgy.me/74NBCJ.jpg)
 
 ### `map_teleportation_ring_sandwind.css`
 
-Shows a purple diamond on map tiles that are reachable with a "Ring des
-Sandwindes" (Ring of Sandwinds, Taruner).
+Zeigt eine violette Raute auf Feldern an, welche mit einem Ring des Sandwindes
+(Taruner) erreicht werden können.
 
 ![Ring Sandwind Teleportation Map](https://i.vgy.me/iN6xIz.jpg)
 
 ### `map_teleportation_onlo.css`
 
-Shows a green rectangle on map tiles that are reachable by Onlos travelling
-through the forest.
+Zeigt ein grünes Quadrat auf Feldern an, welche von Onlos erreicht werden
+können, welche mit Lianen durch den Wald schwingen.
 
 ![Onlo Teleportation Map](https://i.vgy.me/y2UbcK.jpg)
 
 ### `map_shops.css`
 
-Shows a house icon on map tiles with a shop for selling items.
+Zeigt ein Haus-Symbol auf Feldern an, welche einen Shop zum Verkaufen von Items
+haben.
 
-- blue color for the blue fraction shop
-- red color for the red fraction shop
-- orange color for a neutral shop
-- purple color for a Natla shop
+- blaue Farbe für einen Shop der blauen Fraktion
+- rote Farbe für einen Shop der roten Fraktion
+- orangene Farbe für einen neutralen Shop
+- violette Farbe für einen Shop der Natla
 
-| Blue                                      | Red                                      | Neutral                                      | Natla                                      |
+| Blau                                      | Rot                                      | Neutral                                      | Natla                                      |
 | ----------------------------------------- | ---------------------------------------- | -------------------------------------------- | ------------------------------------------ |
 | ![Blue Shop](https://i.vgy.me/wyfoI5.jpg) | ![Red Shop](https://i.vgy.me/EkeThX.jpg) | ![Neutral Shop](https://i.vgy.me/HWde3c.jpg) | ![Natla Shop](https://i.vgy.me/wUraLl.jpg) |
 
 ### `map_dungeon_entrances.css`
 
-Shows an arrow icon on the top left on map tiles that contain dungeon entrances
-or exits.
+Zeigt ein Pfeil-Symbol auf Feldern an, welche einen Eingang oder Ausgang eines
+Dungeons haben.
 
 ![Dungeon Icons](https://i.vgy.me/rbe44U.jpg)
 
 ### `map_aggressive_npcs.css`
 
-Highlights locations on the map that can spawn aggressive NPCs. The map tiles
-display their attack power. That way, you will not accidentally enter a location
-with a too strong aggressive NPC.
+Hebt Felder auf der Karte hervor, welche ein aggressives NPC haben. Angezeigt
+werden die Angriffsstärken der NPCs. Dadurch wird verhindert, dass man
+ausversehen ein Feld mit zu starken aggressiven NPCs betritt.
 
 ![aggressive NPC Map](https://i.vgy.me/kpbEcW.jpg)
 
 ### `map_job_npcs.css`
 
-Highlights locations on the map that can spawn NPCs relevant for jobs
-(_Auftragshaus_), as well as other locations relevant for jobs, so finishing
-them becomes easier.
+Hebt Felder auf der Karte hervor, auf denen Auftrags-NPCs spawnen können; so wie
+andere Felder, welche für Aufträge relevant sind.
 
 ![Job NPC Map](https://i.vgy.me/aUFkWc.jpg)
 
-Shown are:
+Angezeigt werden:
 
 - Onlo
 - Blattalisk
@@ -175,88 +176,93 @@ Shown are:
 
 ### `banner_shop_prices.css`
 
-Shows the shops currently best for selling in the banner.
+Zeigt die aktuell besten Shops für den Verkauf von Items direkt im Banner an.
 
 ![Shop Price Banner](https://i.vgy.me/QoAOVb.jpg)
 
 ### `banner_rotating_quests_dungeons.css`
 
-Shows data for rotating quests and dungeons in the banner.
+Zeigt Daten zu rotierenden Quests und Dungeons direkt im Banner an.
 
 ![Rotating Banner](https://i.vgy.me/vKPoH7.jpg)
 
 ### `clan_distress_right_aligned.css`
 
-Right-aligns the link to send a clan distress signal, so it becomes easier to
-click on quickly.
+Zeigt den Link zum Clannotruf rechts- statt linksbündig im Menü an, so dass er
+einfacher schnell anzuklicken ist.
 
 ![Clan Distress](https://i.vgy.me/WqPWbJ.jpg)
 
 ### `highlight_danger.css`
 
-Highlights dangerous situations, such as aggressive NPCs or low life situations.
+Hebt gefährliche Situationen vor, zum Beispiel aggressive NPCs oder bei
+niedrigen Lebenspunkten.
 
 ![Aggressive NPC](https://i.vgy.me/NH0Aov.gif)
 
 ### `highlight_ring_activation.css`
 
-Highlights when the signet ring can be activated.
+Hebt hervor wenn ein angelegter Siegelring wieder benutzt werden kann.
 
 ![Signet Ring Highlight](https://i.vgy.me/jR9WYr.jpg)
 
 ### `highlight_job_links.css`
 
-Highlights the accept/finish-job links at the Haus der Aufträge.
+Hebt die Links zum Annehmen und Beenden eines Auftrags beim Haus der Aufträge
+hervor.
 
 ![Job link highlights](https://i.vgy.me/FhmiPb.jpg)
 
 ### `settings_help.css`
 
-Shows checkmark and cross symbols in the settings menu so it becomes easier to
-understand if a setting is currently enabled or disabled.
+Zeigt ✅- und ❌- Symbole im Einstellungs-Menü an, so dass es einfacher ist zu
+verstehen welche Einstellung aktuell aktiviert oder deaktiviert ist.
 
 ![Settings Menu](https://i.vgy.me/GiTVOR.jpg)
 
-## User specific styles
+## Nutzer definierte Styles
 
-The subfolder [user](https://github.com/Zabuzard/FreewarStyles/tree/main/user)
-contains styles and modules for tailored towards specific users needs.
+Das Unterverzeichnis
+[user](https://github.com/Zabuzard/FreewarStyles/tree/main/user) enthält Styles
+und Module, welche speziell auf die Bedürfnisse bestimmter Nutzer angepasst
+sind.
 
-They can also be used by other users, but bear in mind that they might not be
-tuned for your particular use cases.
+Sie können auch von anderen Nutzern benutzt werden, aber möglicherweise
+entsprechend sie dann nicht genau den eigenen Wünschen.
 
 ### Zabuza
 
 #### `highlight_shop_selling.css`
 
-Highlights specific items that should not be sold accidentally to shops, as well
-as items that should be sold to players instead.
+Hebt bestimmte Items farblich hervor, welche zum Beispiel nicht ausversehen an
+einen Shop verkauft werden sollten, oder stattdessen an andere Spieler verkauft
+werden sollten.
 
-Applies to multiple menus, such as when selling to shops, at the Bank, or also
-at the Market Hall.
+Betrifft verschiedene Menüs, zum Beispiel beim Verkauf in Shops, an der Bank,
+oder auch an der Markthalle.
 
 ![Shop Selling Highlight](https://i.vgy.me/RgNdV5.jpg)
 
 #### `highlight_some_status.css`
 
-Highlights some specific status with a different color, so it becomes easier to
-notice when they ran out while having multiple status effects.
+Hebt bestimmte Statuse im Inventar mit einer anderen Farbe hervor, so dass es
+einfacher ist zu bemerken, wenn sie auslaufen.
 
 ![Status Highlight](https://i.vgy.me/ZvuDmX.jpg)
 
 #### `highlight_some_fastspells.css`
 
-Highlights some fastspell links with a different color, so they become easier to
-click on.
+Hebt bestimmte Schnellzauberlinks mit einer anderen Farbe hervor, so dass sie
+einfacher anzuklicken sind.
 
 ![Fastspell highlight](https://i.vgy.me/2yGsoK.jpg)
 
 #### `highlight_some_teleportation_destinations.css`
 
-Highlights some destinations in the teleportation menu.
+Hebt bestimmte Ziele in Teleportations-Menüs hervor.
 
 ![Teleport highlight](https://i.vgy.me/6ZqiPi.jpg)
 
 #### `highlight_finstereishöhle_symbols.css`
 
-Highlights the symbol activation links in the Finstereishöhle (Dark Ice Cave).
+Hebt die Links zum Aktivieren der Symbole in der Finstereishöhle hervor.
