@@ -1,7 +1,7 @@
 /* Shows rotating quest and dungeon data in the banner */
 
 .framebannerbg:after {
-  top: 18px;
+  top: 5px;
   left: 570px;
   position: absolute;
   content: url("https://freewar.zocker.eu/vvvg.php");
