@@ -173,6 +173,7 @@ Angezeigt werden:
 - Undaron
 - Bro.-Virus
 - leb. Ast
+- Ratte
 
 ### `banner_shop_prices.css`
 

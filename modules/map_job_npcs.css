@@ -356,6 +356,45 @@ y* Shows Job-NPCs and other job-relevant locations (Auftragshalle) on the Map so
   -webkit-border-bottom-right-radius: 6px;
 }
 
+#map93y95 a:after,
+#mapx91y96 a:after,
+#mapx93y97 a:after,
+#mapx94y98 a:after,
+#mapx115y98 a:after,
+#mapx114y99 a:after,
+#mapx115y100 a:after,
+#mapx114y103 a:after,
+#mapx113y104 a:after,
+#mapx115y104 a:after,
+#mapx116y105 a:after,
+#mapx115y106 a:after,
+#mapx114y107 a:after,
+#mapx116y107 a:after,
+#mapx118y107 a:after,
+#mapx115y108 a:after,
+#mapx116y108 a:after,
+#mapx117y108 a:after,
+#mapx118y108 a:after {
+  content: "Ratte";
+  z-index: 2;
+  width: 50px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  line-height: 120%;
+  font-size: 10px;
+  font-weight: 700;
+  text-align: center;
+  color: #004cff;
+  background: #ccc;
+  border-bottom: 1px solid #bababa;
+  opacity: 0.7;
+  -moz-border-radius-bottomleft: 6px;
+  -moz-border-radius-bottomright: 6px;
+  -webkit-border-bottom-left-radius: 6px;
+  -webkit-border-bottom-right-radius: 6px;
+}
+
 #mapx105y127 a:after,
 #mapx74y94 a:after,
 #mapx501y57 a:after,
