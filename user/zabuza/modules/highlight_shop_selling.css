@@ -185,11 +185,7 @@ td.areadescription
   table
   b:not(.belowMinRow):is(
     [onmouseover^='tt("Zauber der Selbstheilung'],
-    [onmouseover^='tt("Salzkristall'],
     [onmouseover^='tt("Schrumpfzauber'],
-    [onmouseover^='tt("Schatzkarte'],
-    [onmouseover^='tt("Schutz der Geistlosen'],
-    [onmouseover^='tt("Kuhkopf'],
     [onmouseover^='tt("Schutzauflösung der Geistlosen'],
     [onmouseover^='tt("Staubschleifer-Ei'],
     [onmouseover^='tt("Reparatur-Zange'],
@@ -218,7 +214,11 @@ td.areadescription
     [onmouseover^='tt("Feuerdiamant'],
     [onmouseover^='tt("Kreidestein'],
     [onmouseover^='tt("Finstereis-Tropfen'],
+    [onmouseover^='tt("Brosche der Bergwiesen'],
+    [onmouseover^='tt("Kontrolle der Zeit'],
     [onmouseover^='tt("Glassplitter'],
+    [onmouseover^='tt("schwacher Tarnzauber"'],
+    [onmouseover^='tt("roter Bergstein'],
     [onmouseover^='tt("gefrorene Kugel']
   ) {
   color: #d890fe;
