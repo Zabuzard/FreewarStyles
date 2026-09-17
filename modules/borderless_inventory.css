@@ -1,6 +1,7 @@
 /* Removes the "table borders" in the inventory and character status menu */
 
 .frameitembg p.listrow,
-.frameitembg p.listitemrow {
+.frameitembg p.listitemrow,
+.abilitymenu td {
   border: none;
 }
