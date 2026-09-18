@@ -1,4 +1,4 @@
-y* Shows Job-NPCs and other job-relevant locations (Auftragshalle) on the Map so they are easier to locate when doing the jobs *y
+/* Shows Job-NPCs and other job-relevant locations (Auftragshalle) on the Map so they are easier to locate when doing the jobs */
 
 .framemapbg table td {
   position: relative;
