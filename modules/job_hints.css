@@ -128,7 +128,7 @@
 #listrow_char_mission:has(a[title="Der Falschgold-Zauberer"])::after { content: "Gebe Beutel mit Falschgold dem Zauberer bei Tal der Ruinen - Das Haus am Rande der Ruinen (89/97)."; }
 #listrow_char_mission:has(a[title="Guter Ton"])::after { content: "Hole großen Tonstein vom Ziel-Ort im Steinrutsch. Nutze ihn auf Wasser-Feld."; }
 #listrow_char_mission:has(a[title="Der Giftgeist von Narubia"])::after { content: "(Co-op, Beeilung!) Suche Erdwesen im Keller von Narubia - Dunkles Haus (507/55, Hebel ziehen lassen). Wenn nicht da, zurück zum HdA."; }
-#listrow_char_mission:has(a[title="Portalstabpanik"])::after { content: "(evtl. Beeilung!) Nutze Portalstab-Bohrer an Ziel-Ort (evtl. töte Portalstab-Anbeter)."; }
+#listrow_char_mission:has(a[title="Portalstabpanik"])::after { content: "(evtl. Beeilung!) Manchmal: Nutze Portalstab-Bohrer an Ziel-Ort, oder töte Portalstab-Anbeter."; }
 #listrow_char_mission:has(a[title="Das Schnupperangebot"])::after { content: "Hole Poster des HdA von Torihn - Baru-Mühle (110/93). Nutze es an Wald des einsamen Baumes - Alte Eiche (94/100)."; }
 
 /* Multi-Part Jobs */
@@ -252,7 +252,7 @@
 #listrow_char_mission:has(a[title="Geistersiegel"])::after { content: "(Frieden!) Nutze Geistersiegel an Ziel-Kontrollturm (Position merken)."; }
 #listrow_char_mission:has(a[title="Geistersauger"])::after { content: "Nutze Geistersauger an vorherigem Kontrollturm."; }
 
-#listrow_char_mission:has(a[title="Astforschung"])::after { content: "Töte lebenden Ast (unterirdischer Lichtwald), oder lege Rotkellerschimmel (Haus des HdA) auf Feld für Bonus."; }
+#listrow_char_mission:has(a[title="Astforschung"])::after { content: "Töte lebenden Ast (unterirdischer Lichtwald), oder lege Rotkellerschimmel (HdA) auf Feld für Bonus."; }
 #listrow_char_mission:has(a[title="Astforschung Teil 2"])::after { content: "Nutze schwarze ZK und töte 3 bestimmte NPCs im Blutwald."; }
 
 #listrow_char_mission:has(a[title="Ablenkung mit Knalleffekt"])::after { content: "Zerstöre Ziel-Ort mit Bombe des HdA."; }
