@@ -31,7 +31,7 @@
 #listrow_char_mission:has(a[title="Das kaputte Katapult"])::after { content: "(Beeilung!) Nutze rostiger Werkzeugkoffer an Narubia - Katapult (501/57)."; }
 #listrow_char_mission:has(a[title="Das Portal"])::after { content: "Baue Messender in Koloa-Plantage, dann durch Portal in Buran (83/81)."; }
 #listrow_char_mission:has(a[title="Das Schabenproblem"])::after { content: "Töte 5 Geisterschaben (Urdanien - Die Geisterhütte (74/85))."; }
-#listrow_char_mission:has(a[title="Der Alte vom Erzmagierturm"])::after { content: "(Beeilung!) Gehe nach Ruward - Turm der Erzmagier (72/103), hole Ziel-Item."; }
+#listrow_char_mission:has(a[title="Der Alte vom Erzmagierturm"])::after { content: "(Beeilung!) Gehe nach Ruward - Turm der Erzmagier (72/103)."; }
 #listrow_char_mission:has(a[title="Der Briefbeschwerer"])::after { content: "Töte NPC bis Drop: Briefbeschwerer."; }
 #listrow_char_mission:has(a[title="Der diebische Blattalisk"])::after { content: "Töte Blattalisk (Lardikia) bis Drop: Schlüssel von Mister Lorper."; }
 #listrow_char_mission:has(a[title="Der dunkle Felsen"])::after { content: "(Extreme Beeilung!) Gehe nach Sutranien - Dunkler Fels (70/89), lege Schafschergerät ab."; }
@@ -54,7 +54,7 @@
 #listrow_char_mission:has(a[title="Die Gefahr"])::after { content: "Töte 5 NPCs mit mindestens A:10 (z.b. Glypra, Spindelschreiter)."; }
 #listrow_char_mission:has(a[title="Die gezielte Verjagung"])::after { content: "Verjage Ziel-NPC."; }
 #listrow_char_mission:has(a[title="Die Handwerkshalle"])::after { content: "Nutze Absperrband in Laree - Handwerkshalle (53/77)."; }
-#listrow_char_mission:has(a[title="Die Kutschfahrt"])::after { content: "(Beeilung!) Begleite Kutsche des HdA zu Ziel."; }
+#listrow_char_mission:has(a[title="Die Kutschfahrt"])::after { content: "(Beeilung!) Fahre mit Kutsche des HdA zu Ziel und wieder zurück, töte dabei Briefbeschwerer-Dieb."; }
 #listrow_char_mission:has(a[title="Die Müllentsorgung"])::after { content: "Nutze Giftiger Müll in Kanobien - Wasserfall (75/99)."; }
 #listrow_char_mission:has(a[title="Die Order"])::after { content: "Bringe Versiegelter Brief zur Börse."; }
 #listrow_char_mission:has(a[title="Die Phasenwesen"])::after { content: "Finde eine Phasenkugel."; }
