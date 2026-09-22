@@ -1,0 +1,5 @@
+/* Deactivates world-say messages (automatic advertisment/reminders) */
+
+.worldsay {
+  display: none;
+}

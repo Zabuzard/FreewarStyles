@@ -221,6 +221,17 @@ verstehen welche Einstellung aktuell aktiviert oder deaktiviert ist.
 
 ![Settings Menu](https://i.vgy.me/GiTVOR.jpg)
 
+#### `highlight_finstereishöhle_symbols.css`
+
+Hebt die Links zum Aktivieren der Symbole in der Finstereishöhle hervor.
+
+#### `deactivate_worldsay.css`
+
+Entfernt die automatischen Nachrichten, welche jede halbe Stunde im Chat
+angezeigt werden.
+
+![Automatische Nachricht](https://i.vgy.me/mfn62C.jpg)
+
 ## Nutzer definierte Styles
 
 Das Unterverzeichnis
@@ -263,7 +274,3 @@ einfacher anzuklicken sind.
 Hebt bestimmte Ziele in Teleportations-Menüs hervor.
 
 ![Teleport highlight](https://i.vgy.me/6ZqiPi.jpg)
-
-#### `highlight_finstereishöhle_symbols.css`
-
-Hebt die Links zum Aktivieren der Symbole in der Finstereishöhle hervor.
