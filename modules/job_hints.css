@@ -61,7 +61,7 @@
 #listrow_char_mission:has(a[title="Die resistente Bedrohung"])::after { content: "Töte ein (Super-)Resistenz-NPC."; }
 #listrow_char_mission:has(a[title="Die Schmerzfalle"])::after { content: "Nutze Schmerzfalle an Ziel-Ort."; }
 #listrow_char_mission:has(a[title="Die Seilbahn"])::after { content: "(Beeilung!) Fliege vom HdA zum Ziel-Ort (direkter Weg), nutze Seilrolle und zurück (Teleport NICHT OK)."; }
-#listrow_char_mission:has(a[title="Die Tischdecke"])::after { content: "Bringe Tischdecke nach Ziel-Ort."; }
+#listrow_char_mission:has(a[title="Die Tischdecke"])::after { content: "Bringe Tischdecke nach Torihn - Kiras Gasthaus (111/96)."; }
 #listrow_char_mission:has(a[title="Die Unkrautplage"])::after { content: "Nutze Pflanzengift an Ziel-Ort."; }
 #listrow_char_mission:has(a[title="Die vergessene Kiste"])::after { content: "Öffne Kiste des HdA bei Ziel-Ort."; }
 #listrow_char_mission:has(a[title="Die Welt regulieren"])::after { content: "(Beeilung!) Töte Ziel-NPC in Nähe."; }
