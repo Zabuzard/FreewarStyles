@@ -17,6 +17,7 @@
 
 #mapx94y109 a:before,
 #mapx83y94 a:before,
+#mapx93y123 a:before,
 #mapx101y118 a:before {
   content: url(https://zabuzard.github.io/FreewarStyles/img/map_shop_red.svg);
   z-index: 1;
