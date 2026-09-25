@@ -1,5 +1,5 @@
 /* Deactivates world-say messages (automatic advertisment/reminders) */
 
-.worldsay {
+p.worldsay:has(tr[bgcolor="#C1CEF9"]) {
   display: none;
 }
