@@ -1,0 +1,9 @@
+/* Highlights the target marks on the map more */
+
+.targetmark2 text:first-child {
+  stroke: #b84a5a !important;
+}
+
+.targetmark2 text[style*="fill: white"] {
+  fill: #ef9f9f !important;
+}

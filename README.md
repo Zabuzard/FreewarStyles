@@ -221,11 +221,19 @@ verstehen welche Einstellung aktuell aktiviert oder deaktiviert ist.
 
 ![Settings Menu](https://i.vgy.me/GiTVOR.jpg)
 
-#### `highlight_finstereishöhle_symbols.css`
+### `highlight_finstereishöhle_symbols.css`
 
 Hebt die Links zum Aktivieren der Symbole in der Finstereishöhle hervor.
 
-#### `deactivate_worldsay.css`
+### `highlight_target_marks.css`
+
+Hebt die Zielmarkierungen auf der Karte in einer sichtbareren Farbe hervor.
+
+| Vorher                                 | Nachher                                |
+| -------------------------------------- | -------------------------------------- |
+| ![Vorher](https://i.vgy.me/LVbluA.jpg) | ![Vorher](https://i.vgy.me/8r22cY.jpg) |
+
+### `deactivate_worldsay.css`
 
 Entfernt die automatischen Nachrichten, welche jede halbe Stunde im Chat
 angezeigt werden.
