@@ -81,6 +81,12 @@ durchzulesen.
 
 ![Job Hints](https://i.vgy.me/0yV2uz.jpg)
 
+## `readable_tower_effect.css`
+
+Zeigt den Name der aktuellen Turmfähigkeit (falls vorhanden) direkt im Menü an.
+
+![Turmfähigkeit](https://i.vgy.me/PmV7XD.jpg)
+
 ### `map_secure_locations.css`
 
 Hebt alle sicheren Felder direkt auf der Karte hervor. Auf diesen Feldern können

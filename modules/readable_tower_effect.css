@@ -1,0 +1,5 @@
+/* Shows the title of the tower effect (if available) right in the menu */
+
+#link_towereffect::after {
+  content: " " attr(data-effect);
+}
