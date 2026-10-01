@@ -189,7 +189,6 @@ td.areadescription
 td.areadescription
   table
   b:not(.belowMinRow):is(
-    [onmouseover^='tt("Zauber der Selbstheilung'],
     [onmouseover^='tt("Sternenmuschelstaub'],
     [onmouseover^='tt("Eiskristall-Pulver'],
     [onmouseover^='tt("Schneediamant'],
@@ -210,7 +209,6 @@ td.areadescription
     [onmouseover^='tt("gelber Prisma-Kristall'],
     [onmouseover^='tt("violetter Prisma-Kristall'],
     [onmouseover^='tt("Feuerdiamant'],
-    [onmouseover^='tt("Kreidestein'],
     [onmouseover^='tt("Finstereis-Tropfen'],
     [onmouseover^='tt("Glassplitter'],
     [onmouseover^='tt("Seetang'],
