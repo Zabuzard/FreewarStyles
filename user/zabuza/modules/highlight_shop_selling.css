@@ -103,7 +103,6 @@ td.areadescription
     [onmouseover^='tt("Pastille des Fliegens"'],
     [onmouseover^='tt("Pfeil"'],
     [onmouseover^='tt("Phasenkugel"'],
-    [onmouseover^='tt("Resistenz-Klumpen'],
     [onmouseover^='tt("Salzkristall'],
     [onmouseover^='tt("starke Kontrolle der Zeit'],
     [onmouseover^='tt("Tarunium'],
@@ -144,6 +143,10 @@ td.areadescription
     [onmouseover^='tt("Zauber der Onlo-Erfahrung'],
     [onmouseover^='tt("Zauber der glühenden Erfahrung'],
     [onmouseover^='tt("energetische Beschwörung'],
+    [onmouseover^='tt("roter Bergstein'],
+    [onmouseover^='tt("Nebel der Teleportation'],
+    [onmouseover^='tt("Bernsteinblume'],
+    [onmouseover^='tt("Dunkelgrottenmoos'],
     [onmouseover^='tt("Ölfass']
   ) {
   color: #5ba8e0;
