@@ -14,6 +14,7 @@ select[name="z_pos_id"] option[value="1366"] { color: #c4812e; font-weight: bold
 /* Portalmaschine - Oberfläche */
 select[name="z_pos_id"] option[value="2609"] { color: #c4812e; font-weight: bold;}/* Felseninsel */
 select[name="z_pos_id"] option[value="2398"] { color: #2e54c4; font-weight: bold;}/* Kuridan - Wandelfluss */
+select[name="z_pos_id"] option[value="2830"] { color: #25a359; font-weight: bold;}/* Rovonia - Der Seichtwassersumpf */
 
 /* Portalmaschine - Untergrund */
 select[name="z_pos_id"] option[value="3038"] { color: #c42e2e; font-weight: bold;}/* Bernsteinhöhle */
