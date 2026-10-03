@@ -3,7 +3,9 @@
 /* Blue Teleportation (gepresste Zauberkugel) */
 select[name="z_pos_id"] option[value="110"] { color: #c42e2e; font-weight: bold; }/* Tal der Ruinen */
 select[name="z_pos_id"] option[value="290"] { color: #c4812e; font-weight: bold;}/* Mentoran */
+select[name="z_pos_id"] option[value="884"] { color: #80239a; font-weight: bold;}/* Hewien */
 select[name="z_pos_id"] option[value="1715"] { color: #2e54c4; font-weight: bold;}/* Terasi - Der Fluss */
+select[name="z_pos_id"] option[value="2665"] { color: #25a359; font-weight: bold;}/* Limm */
 
 /* Yellow Teleportation (geklebte, gelbe Zauberkugel) */
 select[name="z_pos_id"] option[value="1204"] { color: #2e54c4; font-weight: bold; }/* Latenia - Eishöhle */
