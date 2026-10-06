@@ -51,6 +51,7 @@ td.areadescription
     [onmouseover^='tt("Messsender'],
     [onmouseover^='tt("Nylfon-Magnet'],
     [onmouseover^='tt("Onlo-Knochen'],
+    [onmouseover^='tt("Knochen'],
     [onmouseover^='tt("Pfeilbeutel'],
     [onmouseover^='tt("Portalmaschine'],
     [onmouseover^='tt("Postvogel'],
@@ -87,6 +88,7 @@ td.areadescription
     [onmouseover^='tt("Phasenstrahlkanone'],
     [onmouseover^='tt("Ausgrabungsspaten'],
     [onmouseover^='tt("Phasenschlüssel'],
+    [onmouseover^='tt("Talisman der Wunder'],
     [onmouseover^='tt("Puppe von'],
     [onmouseover^='tt("Onlium-Schlüssel']
   ) {
@@ -145,6 +147,8 @@ td.areadescription
     [onmouseover^='tt("Bernsteinblume'],
     [onmouseover^='tt("Dunkelgrottenmoos'],
     [onmouseover^='tt("Spore des Wissens'],
+    [onmouseover^='tt("Reparatur-Zange'],
+    [onmouseover^='tt("Silberschnee'],
     [onmouseover^='tt("Ölfass']
   ) {
   color: #5ba8e0;
