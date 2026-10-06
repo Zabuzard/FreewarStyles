@@ -4,3 +4,4 @@
 #listrow_status span[title^='Plünderer']:before {content: "PL |"; font-weight: bold; font-size: 10px;}
 #listrow_status span[title^='Brennend']:before {content: "BR |"; font-weight: bold; font-size: 10px;}
 #listrow_status span[title^='Arbeitsdrang']:before {content: "AD |"; font-weight: bold; font-size: 10px;}
+#listrow_status span[title^='Aura der Wut']:before {content: "WU |"; font-weight: bold; font-size: 10px;}
