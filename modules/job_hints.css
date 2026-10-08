@@ -90,7 +90,7 @@
 #listrow_char_mission:has(a[title="Mehr Kampfpunkte"])::after { content: "Sammel 4 Kampfpunkte (Hewien - Kampfgebiet)."; }
 #listrow_char_mission:has(a[title="Mitarbeiter in Not"])::after { content: "(Co-op) Nutze Schneeschaufel mit zweitem Spieler in Ragnur (100/75)."; }
 #listrow_char_mission:has(a[title="Nichts zu tun"])::after { content: "Warte 5 Minuten."; }
-#listrow_char_mission:has(a[title="Portalstab-Panik"])::after { content: "(Beeilung!) Gehe nach Ziel-Ort und nutze Portalstab-Bohrer. Töte evtl. Portalstab-Anbeter."; }
+#listrow_char_mission:has(a[title="Portalstab-Panik"])::after { content: "(evtl. Beeilung!) Manchmal: Nutze Portalstab-Bohrer an Ziel-Ort, oder töte Portalstab-Anbeter."; }
 #listrow_char_mission:has(a[title="Probleme beim Tollo"])::after { content: "Töte Tolloschein-Fresser in Ferdolien - Tollo-Hütte (97/96)."; }
 #listrow_char_mission:has(a[title="Randale"])::after { content: "(🕊️ Frieden!) Nutze Beruhigungspille auf Randalierer in Grab von Reikan (98/109)."; }
 #listrow_char_mission:has(a[title="Ratten und Raffzähne"])::after { content: "Verjage 3 Ratten. Nicht töten! (z.b. Tal der Ruinen, Kuridan)."; }
