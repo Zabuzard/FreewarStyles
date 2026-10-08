@@ -1,6 +1,5 @@
 /* Highlight some Fastspells so they are easier to find */
 
-#fastspell7 a,
-#fastspell11 a {
+#fastspell7 a {
   color: #9670ff;
 }
