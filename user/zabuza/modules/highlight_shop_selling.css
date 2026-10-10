@@ -223,7 +223,6 @@ td.areadescription
     [onmouseover^='tt("grüner Prisma-Kristall'],
     [onmouseover^='tt("gelber Prisma-Kristall'],
     [onmouseover^='tt("violetter Prisma-Kristall'],
-    [onmouseover^='tt("Feuerdiamant'],
     [onmouseover^='tt("Finstereis-Tropfen'],
     [onmouseover^='tt("Glassplitter'],
     [onmouseover^='tt("Seetang'],
@@ -247,6 +246,9 @@ td.areadescription
     [onmouseover^='tt("untote Welkblume'],
     [onmouseover^='tt("untote Pflanzensamen'],
     [onmouseover^='tt("Runenpuzzle'],
+    [onmouseover^='tt("Sandorchidee'],
+    [onmouseover^='tt("trockenes Gestrüpp'],
+    [onmouseover^='tt("schwarze Rose'],
     [onmouseover^='tt("gefrorene Kugel']
   ) {
   color: #d890fe;
