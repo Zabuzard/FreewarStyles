@@ -193,6 +193,12 @@ Zeigt Daten zu rotierenden Quests und Dungeons direkt im Banner an.
 
 ![Rotating Banner](https://i.vgy.me/vKPoH7.jpg)
 
+### `banner_stocks.css`
+
+Zeigt Daten zu Aktien direkt im Banner an.
+
+![Aktien Banner](https://i.vgy.me/lMDDrD.jpg)
+
 ### `clan_distress_right_aligned.css`
 
 Zeigt den Link zum Clannotruf rechts- statt linksbündig im Menü an, so dass er
