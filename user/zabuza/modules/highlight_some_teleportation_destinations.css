@@ -10,6 +10,7 @@ select[name="z_pos_id"] option[value="2665"] { color: #25a359; font-weight: bold
 /* Yellow Teleportation (geklebte, gelbe Zauberkugel) */
 select[name="z_pos_id"] option[value="1204"] { color: #2e54c4; font-weight: bold; }/* Latenia - Eishöhle */
 select[name="z_pos_id"] option[value="1366"] { color: #c4812e; font-weight: bold; }/* Unterirdische Lichtwald */
+select[name="z_pos_id"] option[value="3164"] { color: #80239a; font-weight: bold; }/* Die alte Mühle */
 
 /* Portalmaschine - Oberfläche */
 select[name="z_pos_id"] option[value="2609"] { color: #c4812e; font-weight: bold;}/* Felseninsel */
