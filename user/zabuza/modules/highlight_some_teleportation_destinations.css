@@ -19,3 +19,8 @@ select[name="z_pos_id"] option[value="2830"] { color: #25a359; font-weight: bold
 /* Portalmaschine - Untergrund */
 select[name="z_pos_id"] option[value="3038"] { color: #c42e2e; font-weight: bold;}/* Bernsteinhöhle */
 select[name="z_pos_id"] option[value="3519"] { color: #2e54c4; font-weight: bold;}/* Grotte des Todes */
+
+/* Portalmaschine - Alter Teleportationsapparat */
+select[name="z_pos_id"] option[value="1087"] { color: #2e54c4; font-weight: bold;}/* Loranien - Der See des Friedens */
+select[name="z_pos_id"] option[value="3070"] { color: #c42e2e; font-weight: bold;}/* Pensal - Der verfluchte Wald */
+select[name="z_pos_id"] option[value="777"] { color: #25a359; font-weight: bold;}/* Plefir - Das Pilzgebiet */
