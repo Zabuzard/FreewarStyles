@@ -103,6 +103,7 @@ td.areadescription
     [onmouseover^='tt("Ring des Auftragskünstlers'],
     [onmouseover^='tt("Ring des Genies'],
     [onmouseover^='tt("Ring des Goldräubers'],
+    [onmouseover^='tt("Lebendfutter'],
     [onmouseover^='tt("Onlium-Schlüssel']
   ) {
   color: #d86868;
@@ -167,6 +168,7 @@ td.areadescription
     [onmouseover^='tt("Nebelgold'],
     [onmouseover^='tt("betörende Paste'],
     [onmouseover^='tt("lebendes Wasser'],
+    [onmouseover^='tt("Dämonenblut'],
     [onmouseover^='tt("Ölfass']
   ) {
   color: #5ba8e0;
@@ -237,12 +239,6 @@ td.areadescription
     [onmouseover^='tt("Goldfaden'],
     [onmouseover^='tt("Feuerzunge'],
     [onmouseover^='tt("Schimmerstaub'],
-    [onmouseover^='tt("energetische Beschwörung'],
-    [onmouseover^='tt("hochenergetische Beschwörung'],
-    [onmouseover^='tt("starke Betörung der Geistlosen'],
-    [onmouseover^='tt("Phasenkugel'],
-    [onmouseover^='tt("untote Welkblume'],
-    [onmouseover^='tt("untote Pflanzensamen'],
     [onmouseover^='tt("Sternmuschelstaub'],
     [onmouseover^='tt("gigantische Seelenkapsel'],
     [onmouseover^='tt("Seidenöl'],
@@ -254,6 +250,7 @@ td.areadescription
     [onmouseover^='tt("Tirrebmetall'],
     [onmouseover^='tt("Grymholz'],
     [onmouseover^='tt("einfache Holzangel'],
+    [onmouseover^='tt("Glodofischglas'],
     [onmouseover^='tt("gefrorene Kugel']
   ) {
   color: #d890fe;
