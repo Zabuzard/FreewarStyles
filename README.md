@@ -181,6 +181,12 @@ Angezeigt werden:
 - leb. Ast
 - Ratte
 
+### `map_fisher.css`
+
+Hebt Felder auf der Karte hervor, auf denen der Fischer von Terasi sein kann.
+
+![Fischer auf Map](https://i.vgy.me/EhhGWt.jpg)
+
 ### `banner_shop_prices.css`
 
 Zeigt die aktuell besten Shops für den Verkauf von Items direkt im Banner an.
