@@ -98,3 +98,28 @@
   -webkit-border-bottom-left-radius: 6px;
   -webkit-border-bottom-right-radius: 6px;
 }
+
+/* Untoter Höllenhund (Aufgegebene Erzgrube) A:29 */
+#mapx-200y-299 a:after,
+#mapx-198y-298 a:after,
+#mapx-197y-298 a:after,
+#mapx-196y-297 a:after {
+  content: "29";
+  z-index: 2;
+  width: 50px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  line-height: 120%;
+  font-size: 10px;
+  font-weight: bold;
+  text-align: center;
+  color: #d20000;
+  background: #cccccc;
+  border-bottom: 1px solid #bababa;
+  opacity: 0.7;
+  -moz-border-radius-bottomleft: 6px;
+  -moz-border-radius-bottomright: 6px;
+  -webkit-border-bottom-left-radius: 6px;
+  -webkit-border-bottom-right-radius: 6px;
+}
