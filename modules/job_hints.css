@@ -218,7 +218,7 @@
 #listrow_char_mission:has(a[title="Die Zaubertruhe"])::after { content: "(1/2) Öffne die Zaubertruhe des HdA (Stufe 1-4)."; }
 #listrow_char_mission:has(a[title="Die Zaubertruhe Teil 2"])::after { content: "(2/2) Bringe 50 GM nach Ziel-Ort."; }
 
-#listrow_char_mission:has(a[title="Energie für Narubia"])::after { content: "(1/2) Nutze leere Energiespähre an Energiewurm in Dorea."; }
+#listrow_char_mission:has(a[title="Energie für Narubia"])::after { content: "(1/2) Nutze leere Energiesphäre an Energiewurm in Dorea."; }
 #listrow_char_mission:has(a[title="Energie für Narubia Teil 2"])::after { content: "(1/2) Gehe nach Narubia - Haus der Finsternis (501/54)."; }
 
 #listrow_char_mission:has(a[title="Der Dämonenhund"])::after { content: "(1/2) Hole verschlossener Hundekäfig von Delos (61/94)."; }
