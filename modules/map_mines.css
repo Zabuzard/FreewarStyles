@@ -1,0 +1,15 @@
+/* Shows a mine icon on map tiles with a mine for mining ore. */
+
+#mapx89y93 a:before,
+#mapx89y92 a:before,
+#mapx87y91 a:before,
+#mapx90y91 a:before,
+#mapx-1296y-1394 a:before,
+#mapx-581y-492 a:before {
+  content: url(https://zabuzard.github.io/FreewarStyles/img/map_mine.svg);
+  z-index: 1;
+  width: 50px;
+  position: absolute;
+  margin-left: -0px;
+  background: 0;
+}
