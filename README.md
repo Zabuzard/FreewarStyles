@@ -150,6 +150,13 @@ Dungeons haben.
 
 ![Dungeon Icons](https://i.vgy.me/rbe44U.jpg)
 
+### `map_mines.css`
+
+Zeigt ein Spitzhacken-Symbol auf Feldern an, welche den Steinbruch oder
+Nebeneingänge zum Steinbruch zum Abbau von Erzen haben.
+
+![Spitzhacken Icons](https://i.vgy.me/YuQC10.jpg)
+
 ### `map_aggressive_npcs.css`
 
 Hebt Felder auf der Karte hervor, welche ein aggressives NPC haben. Angezeigt
