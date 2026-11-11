@@ -4,3 +4,7 @@
 #listrow_status span[title^="schnelle Bewegung"] {
   color: #f1b970;
 }
+
+#listrow_status span[title^="Sandzone"] {
+  color: #edf170;
+}
