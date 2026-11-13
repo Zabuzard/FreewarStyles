@@ -1,0 +1,7 @@
+/* Adds color-coding to the fastspell sets */
+
+a#fast_spell_set_2 { color: #7f7f7f; }
+a#fast_spell_set_3 { color: #126572; }
+a#fast_spell_set_4 { color: #c6ae32; }
+a#fast_spell_set_5 { color: #5fcc80; }
+span.fast_spell_set { background-color: #727272; }

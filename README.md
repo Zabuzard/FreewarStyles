@@ -307,3 +307,9 @@ einfacher anzuklicken sind.
 Hebt bestimmte Ziele in Teleportations-Menüs hervor.
 
 ![Teleport highlight](https://i.vgy.me/6ZqiPi.jpg)
+
+#### `fastspell_set_colors.css`
+
+Markiert Schnellzaubersets mit unterschiedlichen Farben.
+
+![Farbige Schnellzaubersets](https://i.vgy.me/A50MpS.jpg)
