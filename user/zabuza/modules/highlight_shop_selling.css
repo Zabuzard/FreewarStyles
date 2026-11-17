@@ -114,6 +114,7 @@ td.areadescription
     [onmouseover^='tt("Ölfasstasche'],
     [onmouseover^='tt("starker Gewebewurm'],
     [onmouseover^='tt("Wegzauber'],
+    [onmouseover^='tt("Seetanganzug'],
     [onmouseover^='tt("Onlium-Schlüssel']
   ) {
   color: #d86868;
@@ -181,6 +182,7 @@ td.areadescription
     [onmouseover^='tt("Brauntang'],
     [onmouseover^='tt("Parfum'],
     [onmouseover^='tt("untote Pflanzensamen'],
+    [onmouseover^='tt("unbekannte Pflanzensamen'],
     [onmouseover^='tt("Ölfass"']
   ) {
   color: #5ba8e0;
