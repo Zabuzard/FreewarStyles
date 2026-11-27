@@ -300,7 +300,7 @@ einfacher ist zu bemerken, wenn sie auslaufen.
 Hebt bestimmte Schnellzauberlinks mit einer anderen Farbe hervor, so dass sie
 einfacher anzuklicken sind.
 
-![Fastspell highlight](https://i.vgy.me/2yGsoK.jpg)
+![Fastspell highlight](https://i.vgy.me/rIl5xB.jpg)
 
 #### `highlight_some_teleportation_destinations.css`
 
