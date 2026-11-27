@@ -58,7 +58,6 @@ td.areadescription
     [onmouseover^='tt("Ring des Vulkans'],
     [onmouseover^='tt("Schlüssel der Festung'],
     [onmouseover^='tt("Schriftrolle der Lebenden'],
-    [onmouseover^='tt("königliche Nebelklinge'],
     [onmouseover^='tt("Seelenkapsel'],
     [onmouseover^='tt("Seelenkugel'],
     [onmouseover^='tt("silberner Spektralwürfel'],
@@ -114,6 +113,9 @@ td.areadescription
     [onmouseover^='tt("starker Gewebewurm'],
     [onmouseover^='tt("Wegzauber'],
     [onmouseover^='tt("Seetanganzug'],
+    [onmouseover^='tt("gefährlicher Glodofisch'],
+    [onmouseover^='tt("lebendige Doppelklinge'],
+    [onmouseover^='tt("schwebender Kristalldolch'],
     [onmouseover^='tt("Onlium-Schlüssel']
   ) {
   color: #d86868;
@@ -250,7 +252,6 @@ td.areadescription
     [onmouseover^='tt("Tirrebmetall'],
     [onmouseover^='tt("Grymholz'],
     [onmouseover^='tt("einfache Holzangel'],
-    [onmouseover^='tt("Glodofischglas'],
     [onmouseover^='tt("Itolos-Pulver'],
     [onmouseover^='tt("Rohrbauteil'],
     [onmouseover^='tt("Eisenbarren'],
