@@ -79,13 +79,13 @@ Zeigt Kurzbeschreibungen für alle Aufträge (Auftragshalle) direkt im Inventar
 an, so dass es nicht mehr nötig ist sich die volle Beschreibung eines Auftrags
 durchzulesen.
 
-![Job Hints](https://i.vgy.me/0yV2uz.jpg)
+![Job Hints](https://i.vgy.me/7MYA3q.jpg)
 
 ## `readable_tower_effect.css`
 
 Zeigt den Name der aktuellen Turmfähigkeit (falls vorhanden) direkt im Menü an.
 
-![Turmfähigkeit](https://i.vgy.me/PmV7XD.jpg)
+![Turmfähigkeit](https://i.vgy.me/sVIuQY.jpg)
 
 ### `map_secure_locations.css`
 
