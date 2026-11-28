@@ -37,7 +37,7 @@ Definiert Chat und Button Farben, welche für Dunkle Styles geeignet sind.
 
 Entfernt Ränder im Charakter-Menü und Inventar.
 
-![Borderless inventory](https://i.vgy.me/wSKylg.jpg)
+![Borderless inventory](https://i.vgy.me/9H5T7Q.jpg)
 
 ### `compact_inventory.css`
 
